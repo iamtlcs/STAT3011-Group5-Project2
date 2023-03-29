@@ -1,0 +1,7137 @@
+country,elo,year
+Germany,2087,1992
+France,2009,1992
+England,1987,1992
+Argentina,1983,1992
+Italy,1971,1992
+Netherlands,1962,1992
+Brazil,1960,1992
+Yugoslavia,1943,1992
+Soviet Union,1922,1992
+Ireland,1912,1992
+Croatia,1892,1992
+Denmark,1884,1992
+Czechoslovakia,1879,1992
+Uruguay,1841,1992
+Sweden,1829,1992
+Mexico,1829,1992
+Spain,1826,1992
+Belgium,1819,1992
+Romania,1809,1992
+Wales,1797,1992
+Portugal,1794,1992
+South Africa,1791,1992
+Poland,1784,1992
+Switzerland,1775,1992
+Chile,1768,1992
+Colombia,1766,1992
+Algeria,1755,1992
+Scotland,1755,1992
+Bulgaria,1737,1992
+Norway,1723,1992
+Hungary,1720,1992
+South Korea,1715,1992
+Paraguay,1715,1992
+United States,1695,1992
+Egypt,1687,1992
+Ivory Coast,1684,1992
+Cameroon,1679,1992
+Australia,1677,1992
+Honduras,1665,1992
+Northern Ireland,1663,1992
+Greece,1663,1992
+Ecuador,1663,1992
+Iraq,1647,1992
+Slovakia,1646,1992
+Iran,1637,1992
+Zambia,1633,1992
+Georgia,1628,1992
+Israel,1621,1992
+Austria,1615,1992
+Finland,1612,1992
+Morocco,1603,1992
+Saudi Arabia,1598,1992
+Nigeria,1598,1992
+Slovenia,1595,1992
+Iceland,1592,1992
+Costa Rica,1591,1992
+Turkey,1567,1992
+Senegal,1566,1992
+Bolivia,1549,1992
+Libya,1547,1992
+Azerbaijan,1543,1992
+Peru,1542,1992
+Tunisia,1538,1992
+North Korea,1533,1992
+Canada,1532,1992
+Zaire,1532,1992
+Ghana,1532,1992
+New Zealand,1510,1992
+Uganda,1495,1992
+China,1492,1992
+Cuba,1491,1992
+Congo,1491,1992
+Tahiti,1489,1992
+Kuwait,1486,1992
+Moldova,1486,1992
+Syria,1481,1992
+Qatar,1475,1992
+Trinidad and Tobago,1475,1992
+Kenya,1469,1992
+Madagascar,1467,1992
+Fiji,1462,1992
+Guatemala,1453,1992
+Northern Cyprus,1451,1992
+United Arab Emirates,1437,1992
+Albania,1437,1992
+Zimbabwe,1432,1992
+Burkina Faso,1429,1992
+Ethiopia,1420,1992
+Latvia,1419,1992
+Sierra Leone,1411,1992
+Angola,1410,1992
+Gabon,1409,1992
+El Salvador,1407,1992
+Liberia,1405,1992
+Martinique,1403,1992
+Malta,1400,1992
+Mali,1395,1992
+Guinea,1385,1992
+Sudan,1383,1992
+Bahrain,1382,1992
+Suriname,1381,1992
+Bermuda,1377,1992
+Japan,1375,1992
+Togo,1375,1992
+Niger,1371,1992
+Barbados,1362,1992
+Netherlands Antilles,1361,1992
+Malawi,1355,1992
+Guadeloupe,1354,1992
+Jamaica,1351,1992
+Saint Vincent and the Grenadines,1339,1992
+Grenada,1338,1992
+Mozambique,1335,1992
+Thailand,1331,1992
+Venezuela,1320,1992
+Cape Verde,1319,1992
+Haiti,1315,1992
+Guinea-Bissau,1311,1992
+Tanzania,1307,1992
+Khmer Republic,1302,1992
+Chad,1300,1992
+Panama,1292,1992
+Saint Lucia,1288,1992
+New Caledonia,1271,1992
+Burundi,1269,1992
+Faroe Islands,1269,1992
+Jordan,1267,1992
+Indonesia,1266,1992
+Singapore,1260,1992
+Mauritius,1259,1992
+Cyprus,1257,1992
+Hong Kong,1257,1992
+French Guiana,1256,1992
+Gambia,1253,1992
+Armenia,1245,1992
+Solomon Islands,1237,1992
+Central African Republic,1229,1992
+Lebanon,1222,1992
+Palestine,1217,1992
+Antigua and Barbuda,1216,1992
+Malaysia,1211,1992
+Benin,1205,1992
+Somalia,1201,1992
+Estonia,1197,1992
+Swaziland,1189,1992
+Saint Kitts and Nevis,1184,1992
+Yemen,1180,1992
+Lithuania,1176,1992
+Namibia,1174,1992
+Reunion,1174,1992
+Luxembourg,1173,1992
+Guyana,1166,1992
+Vietnam,1157,1992
+Dominica,1156,1992
+Lesotho,1141,1992
+Liechtenstein,1132,1992
+Taiwan,1132,1992
+Zanzibar,1124,1992
+Botswana,1119,1992
+Belize,1114,1992
+Myanmar,1113,1992
+Saint Martin,1104,1992
+Bonaire,1103,1992
+India,1100,1992
+Papua New Guinea,1099,1992
+Rwanda,1098,1992
+Oman,1090,1992
+Equatorial Guinea,1085,1992
+Bangladesh,1080,1992
+Aruba,1069,1992
+Mauritania,1057,1992
+Cayman Islands,1050,1992
+São Tomé e Príncipe,1049,1992
+Vanuatu,1043,1992
+Pakistan,1037,1992
+Macau,1022,1992
+Dominican Republic,1012,1992
+San Marino,999,1992
+Seychelles,987,1992
+Nicaragua,978,1992
+Greenland,952,1992
+Laos,941,1992
+British Virgin Islands,922,1992
+Puerto Rico,908,1992
+Djibouti,903,1992
+Mongolia,896,1992
+Brunei,896,1992
+Sint Maarten,888,1992
+Comoros,878,1992
+Afghanistan,862,1992
+Bahamas,862,1992
+Nepal,841,1992
+Sri Lanka,839,1992
+Philippines,837,1992
+Maldives,773,1992
+Tuvalu,752,1992
+Wallis and Futuna,734,1992
+Guam,693,1992
+Tibet,685,1992
+Tonga,679,1992
+Cook Islands,679,1992
+Montserrat,619,1992
+Bhutan,617,1992
+Western Samoa,601,1992
+Kiribati,599,1992
+Anguilla,575,1992
+American Samoa,568,1992
+Niue,496,1992
+Argentina,2029,1993
+Brazil,1998,1993
+Germany,1992,1993
+Italy,1979,1993
+Netherlands,1966,1993
+England,1945,1993
+Yugoslavia,1932,1993
+Denmark,1912,1993
+Sweden,1903,1993
+France,1897,1993
+Ireland,1888,1993
+Russia,1883,1993
+Belgium,1874,1993
+Croatia,1871,1993
+Uruguay,1849,1993
+Spain,1831,1993
+Czechoslovakia,1827,1993
+Romania,1826,1993
+Switzerland,1817,1993
+Poland,1811,1993
+Bulgaria,1803,1993
+Portugal,1795,1993
+Scotland,1790,1993
+Mexico,1786,1993
+Colombia,1774,1993
+Chile,1768,1993
+Wales,1765,1993
+Norway,1757,1993
+Australia,1747,1993
+Paraguay,1715,1993
+Hungary,1713,1993
+Honduras,1701,1993
+United States,1689,1993
+Nigeria,1683,1993
+Greece,1675,1993
+Slovakia,1663,1993
+Cameroon,1662,1993
+South Africa,1661,1993
+South Korea,1660,1993
+Uzbekistan,1657,1993
+Iraq,1652,1993
+Northern Ireland,1650,1993
+Ivory Coast,1645,1993
+Ecuador,1643,1993
+Austria,1642,1993
+Ghana,1628,1993
+Egypt,1625,1993
+Algeria,1623,1993
+Iran,1622,1993
+Zambia,1621,1993
+Saudi Arabia,1621,1993
+Kazakhstan,1612,1993
+Georgia,1605,1993
+Costa Rica,1604,1993
+Morocco,1595,1993
+Ukraine,1584,1993
+Slovenia,1584,1993
+Turkey,1575,1993
+Finland,1575,1993
+Israel,1570,1993
+Iceland,1564,1993
+Zaire,1555,1993
+Bolivia,1549,1993
+Tunisia,1546,1993
+Peru,1542,1993
+New Zealand,1542,1993
+El Salvador,1536,1993
+Trinidad and Tobago,1530,1993
+Japan,1529,1993
+Azerbaijan,1526,1993
+Canada,1522,1993
+Zimbabwe,1520,1993
+Senegal,1518,1993
+Sierra Leone,1511,1993
+Turkmenistan,1507,1993
+Uganda,1507,1993
+Madagascar,1507,1993
+United Arab Emirates,1507,1993
+Qatar,1504,1993
+Libya,1502,1993
+Cuba,1498,1993
+Moldova,1484,1993
+Gabon,1481,1993
+China,1479,1993
+Kuwait,1477,1993
+North Korea,1471,1993
+Mali,1468,1993
+Guatemala,1466,1993
+Tahiti,1460,1993
+Fiji,1459,1993
+Northern Cyprus,1451,1993
+Congo,1439,1993
+Malawi,1437,1993
+Guinea,1436,1993
+Albania,1430,1993
+Burkina Faso,1425,1993
+Martinique,1425,1993
+Tajikistan,1415,1993
+Angola,1405,1993
+Belarus,1402,1993
+Syria,1400,1993
+Jamaica,1400,1993
+Bahrain,1393,1993
+Liberia,1392,1993
+Latvia,1390,1993
+Malta,1389,1993
+Kenya,1388,1993
+Ethiopia,1386,1993
+Bermuda,1375,1993
+Jordan,1367,1993
+Thailand,1363,1993
+Guadeloupe,1361,1993
+Burundi,1349,1993
+Niger,1347,1993
+Togo,1345,1993
+Cyprus,1334,1993
+Suriname,1330,1993
+Grenada,1325,1993
+Sudan,1321,1993
+Mozambique,1321,1993
+Netherlands Antilles,1320,1993
+Venezuela,1320,1993
+Tanzania,1315,1993
+Barbados,1313,1993
+Haiti,1311,1993
+Panama,1310,1993
+Khmer Republic,1302,1993
+New Caledonia,1300,1993
+Cape Verde,1299,1993
+Guinea-Bissau,1293,1993
+Lithuania,1287,1993
+Saint Vincent and the Grenadines,1275,1993
+Indonesia,1260,1993
+French Guiana,1258,1993
+Gambia,1253,1993
+Hong Kong,1251,1993
+Saint Lucia,1250,1993
+Armenia,1246,1993
+Singapore,1237,1993
+Mauritius,1235,1993
+Malaysia,1231,1993
+Eritrea,1229,1993
+Central African Republic,1229,1993
+Antigua and Barbuda,1228,1993
+Palestine,1228,1993
+Chad,1227,1993
+Faroe Islands,1226,1993
+Solomon Islands,1224,1993
+Lebanon,1222,1993
+Swaziland,1213,1993
+Estonia,1209,1993
+Somalia,1201,1993
+Kyrgyzstan,1195,1993
+Lesotho,1188,1993
+Guyana,1187,1993
+Yemen,1180,1993
+Dominica,1177,1993
+Reunion,1174,1993
+Saint Kitts and Nevis,1170,1993
+Benin,1167,1993
+Luxembourg,1164,1993
+Vietnam,1157,1993
+Namibia,1142,1993
+Zanzibar,1132,1993
+Liechtenstein,1132,1993
+Belize,1114,1993
+Myanmar,1113,1993
+India,1111,1993
+Saint Martin,1104,1993
+Bonaire,1103,1993
+Papua New Guinea,1099,1993
+Rwanda,1098,1993
+Chinese Taipei,1095,1993
+Equatorial Guinea,1085,1993
+Bangladesh,1074,1993
+Macau,1071,1993
+Mauritania,1057,1993
+Oman,1057,1993
+Botswana,1056,1993
+São Tomé e Príncipe,1049,1993
+Aruba,1023,1993
+Cayman Islands,1006,1993
+Pakistan,1000,1993
+San Marino,996,1993
+Vanuatu,993,1993
+Dominican Republic,984,1993
+Seychelles,981,1993
+Nicaragua,965,1993
+Greenland,952,1993
+Laos,941,1993
+Sint Maarten,938,1993
+Puerto Rico,928,1993
+British Virgin Islands,905,1993
+Djibouti,903,1993
+Mongolia,896,1993
+Brunei,896,1993
+Comoros,878,1993
+Bahamas,862,1993
+Afghanistan,862,1993
+Nepal,841,1993
+Sri Lanka,839,1993
+Philippines,837,1993
+Maldives,773,1993
+Tuvalu,752,1993
+Wallis and Futuna,734,1993
+Guam,693,1993
+Tibet,685,1993
+Cook Islands,679,1993
+Tonga,679,1993
+Bhutan,617,1993
+Montserrat,615,1993
+Western Samoa,601,1993
+Kiribati,599,1993
+Anguilla,574,1993
+American Samoa,568,1993
+Niue,496,1993
+Germany,2013,1994
+Italy,1999,1994
+Netherlands,1994,1994
+Brazil,1950,1994
+Yugoslavia,1932,1994
+Colombia,1932,1994
+Denmark,1931,1994
+Argentina,1928,1994
+Spain,1910,1994
+Mexico,1890,1994
+France,1886,1994
+Sweden,1883,1994
+England,1876,1994
+Croatia,1874,1994
+Norway,1853,1994
+Switzerland,1847,1994
+Czechoslovakia,1844,1994
+Russia,1841,1994
+Ireland,1839,1994
+Romania,1828,1994
+Portugal,1828,1994
+Belgium,1826,1994
+Uruguay,1796,1994
+Bulgaria,1788,1994
+Wales,1777,1994
+Scotland,1766,1994
+Chile,1743,1994
+Greece,1738,1994
+Australia,1722,1994
+Bolivia,1704,1994
+Nigeria,1704,1994
+Paraguay,1695,1994
+Poland,1692,1994
+Saudi Arabia,1683,1994
+Morocco,1671,1994
+Northern Ireland,1670,1994
+Slovakia,1662,1994
+South Korea,1659,1994
+Egypt,1659,1994
+Uzbekistan,1657,1994
+Iraq,1652,1994
+Zambia,1650,1994
+Cameroon,1649,1994
+Japan,1647,1994
+Hungary,1645,1994
+Austria,1644,1994
+Tunisia,1643,1994
+Ecuador,1631,1994
+Ivory Coast,1629,1994
+Algeria,1628,1994
+Macedonia,1622,1994
+Bosnia and Herzegovina,1620,1994
+South Africa,1619,1994
+United States,1619,1994
+Ghana,1618,1994
+Costa Rica,1613,1994
+Kazakhstan,1612,1994
+Ukraine,1609,1994
+Canada,1596,1994
+Georgia,1596,1994
+Turkey,1593,1994
+Iceland,1579,1994
+Iran,1568,1994
+Israel,1561,1994
+Finland,1560,1994
+Zimbabwe,1558,1994
+Slovenia,1556,1994
+Azerbaijan,1552,1994
+Peru,1552,1994
+Honduras,1551,1994
+Tahiti,1539,1994
+New Zealand,1516,1994
+Madagascar,1516,1994
+Sierra Leone,1514,1994
+Kuwait,1512,1994
+China,1511,1994
+Turkmenistan,1506,1994
+United Arab Emirates,1505,1994
+Zaire,1503,1994
+Libya,1502,1994
+Cuba,1498,1994
+North Korea,1497,1994
+El Salvador,1494,1994
+Kenya,1486,1994
+Moldova,1484,1994
+Trinidad and Tobago,1484,1994
+Uganda,1484,1994
+Jamaica,1480,1994
+Qatar,1473,1994
+Martinique,1468,1994
+Guatemala,1466,1994
+Northern Cyprus,1451,1994
+Senegal,1448,1994
+Gabon,1438,1994
+Malawi,1431,1994
+Angola,1426,1994
+Mali,1423,1994
+Guinea,1423,1994
+Syria,1423,1994
+Belarus,1416,1994
+Burkina Faso,1415,1994
+Fiji,1404,1994
+Bahrain,1402,1994
+Thailand,1399,1994
+Congo,1394,1994
+Kosovo,1390,1994
+Albania,1382,1994
+Malta,1382,1994
+Tajikistan,1378,1994
+Bermuda,1375,1994
+Latvia,1372,1994
+Liberia,1368,1994
+Burundi,1367,1994
+Cyprus,1361,1994
+Venezuela,1348,1994
+Ethiopia,1343,1994
+Jordan,1340,1994
+Sudan,1334,1994
+Niger,1333,1994
+Gambia,1331,1994
+Suriname,1330,1994
+Barbados,1320,1994
+Netherlands Antilles,1320,1994
+Guadeloupe,1314,1994
+Tanzania,1311,1994
+Haiti,1311,1994
+Togo,1306,1994
+Lithuania,1305,1994
+Khmer Republic,1302,1994
+Mozambique,1301,1994
+Panama,1299,1994
+Cape Verde,1299,1994
+Saint Vincent and the Grenadines,1295,1994
+Singapore,1294,1994
+New Caledonia,1286,1994
+Grenada,1278,1994
+French Guiana,1277,1994
+Saint Lucia,1272,1994
+Guinea-Bissau,1267,1994
+Lebanon,1260,1994
+Malaysia,1257,1994
+Reunion,1247,1994
+Yemen,1246,1994
+Armenia,1246,1994
+Swaziland,1236,1994
+Central African Republic,1229,1994
+Eritrea,1229,1994
+Palestine,1228,1994
+Mauritius,1228,1994
+Chad,1227,1994
+Antigua and Barbuda,1209,1994
+Solomon Islands,1208,1994
+Somalia,1201,1994
+Kyrgyzstan,1200,1994
+Faroe Islands,1198,1994
+Estonia,1195,1994
+Hong Kong,1195,1994
+Lesotho,1184,1994
+Indonesia,1178,1994
+Luxembourg,1167,1994
+Saint Kitts and Nevis,1159,1994
+Myanmar,1156,1994
+Oman,1151,1994
+Benin,1147,1994
+Dominica,1144,1994
+India,1135,1994
+Namibia,1133,1994
+Zanzibar,1132,1994
+Liechtenstein,1115,1994
+Belize,1114,1994
+Guyana,1112,1994
+Saint Martin,1104,1994
+Bonaire,1103,1994
+Rwanda,1098,1994
+Papua New Guinea,1095,1994
+Vietnam,1092,1994
+Equatorial Guinea,1085,1994
+Mauritania,1081,1994
+Botswana,1068,1994
+Puerto Rico,1059,1994
+São Tomé e Príncipe,1049,1994
+Gibraltar,1044,1994
+Bangladesh,1026,1994
+Aruba,1023,1994
+Macau,1023,1994
+Dominican Republic,1020,1994
+Chinese Taipei,1020,1994
+San Marino,1012,1994
+Greenland,1008,1994
+Vanuatu,1008,1994
+Nicaragua,963,1994
+Sint Maarten,959,1994
+Cayman Islands,951,1994
+Seychelles,935,1994
+Laos,917,1994
+Djibouti,903,1994
+Mongolia,896,1994
+Sri Lanka,893,1994
+Nepal,890,1994
+Pakistan,876,1994
+British Virgin Islands,874,1994
+Comoros,870,1994
+Afghanistan,862,1994
+Bahamas,862,1994
+Brunei,860,1994
+Philippines,815,1994
+Maldives,769,1994
+Tuvalu,752,1994
+Wallis and Futuna,734,1994
+Guam,685,1994
+Tibet,685,1994
+Cook Islands,679,1994
+Tonga,664,1994
+Bhutan,617,1994
+Montserrat,615,1994
+Western Samoa,601,1994
+Kiribati,599,1994
+American Samoa,568,1994
+Anguilla,564,1994
+Niue,496,1994
+Brazil,2069,1995
+Germany,1996,1995
+Spain,1995,1995
+Italy,1985,1995
+Netherlands,1957,1995
+Sweden,1950,1995
+Yugoslavia,1917,1995
+Croatia,1910,1995
+France,1908,1995
+Denmark,1904,1995
+Romania,1903,1995
+Colombia,1896,1995
+England,1893,1995
+Argentina,1884,1995
+Norway,1873,1995
+Ireland,1871,1995
+Mexico,1870,1995
+Switzerland,1870,1995
+Czech Republic,1866,1995
+Portugal,1864,1995
+Bulgaria,1857,1995
+Russia,1844,1995
+Uruguay,1805,1995
+Nigeria,1783,1995
+Uzbekistan,1772,1995
+Belgium,1766,1995
+Scotland,1760,1995
+Chile,1739,1995
+Australia,1721,1995
+Poland,1717,1995
+Paraguay,1695,1995
+Bolivia,1683,1995
+Slovakia,1668,1995
+South Africa,1657,1995
+Zambia,1657,1995
+Ivory Coast,1653,1995
+Iraq,1652,1995
+Ghana,1650,1995
+Northern Ireland,1650,1995
+Greece,1647,1995
+Wales,1647,1995
+Saudi Arabia,1641,1995
+Costa Rica,1638,1995
+Ecuador,1636,1995
+Macedonia,1634,1995
+South Korea,1634,1995
+Egypt,1626,1995
+Bosnia and Herzegovina,1620,1995
+Israel,1620,1995
+Georgia,1620,1995
+Turkey,1617,1995
+United States,1616,1995
+China,1608,1995
+Hungary,1607,1995
+Morocco,1607,1995
+Japan,1604,1995
+Austria,1604,1995
+Kazakhstan,1592,1995
+Algeria,1591,1995
+Slovenia,1586,1995
+Canada,1584,1995
+Tunisia,1582,1995
+Cameroon,1576,1995
+Iceland,1568,1995
+Peru,1549,1995
+Ukraine,1548,1995
+Iran,1547,1995
+Trinidad and Tobago,1533,1995
+Moldova,1533,1995
+United Arab Emirates,1531,1995
+Zimbabwe,1531,1995
+Honduras,1530,1995
+Finland,1525,1995
+Tahiti,1522,1995
+New Zealand,1516,1995
+El Salvador,1512,1995
+Turkmenistan,1511,1995
+Libya,1502,1995
+Cuba,1498,1995
+North Korea,1497,1995
+Madagascar,1497,1995
+Kuwait,1490,1995
+Martinique,1481,1995
+Azerbaijan,1480,1995
+Uganda,1472,1995
+Guatemala,1466,1995
+Zaire,1461,1995
+Northern Cyprus,1451,1995
+Malawi,1450,1995
+Mali,1448,1995
+Syria,1446,1995
+Gabon,1444,1995
+Sierra Leone,1441,1995
+Bahrain,1436,1995
+Tanzania,1434,1995
+Jamaica,1434,1995
+Senegal,1423,1995
+Angola,1423,1995
+Qatar,1421,1995
+Lithuania,1420,1995
+Belarus,1415,1995
+Burkina Faso,1412,1995
+Fiji,1412,1995
+Kenya,1410,1995
+Malta,1404,1995
+Guinea,1396,1995
+Congo,1395,1995
+Kosovo,1390,1995
+Guadeloupe,1388,1995
+Tajikistan,1377,1995
+Bermuda,1375,1995
+Togo,1368,1995
+Burundi,1367,1995
+Niger,1364,1995
+Latvia,1363,1995
+Cyprus,1361,1995
+Liberia,1360,1995
+Albania,1358,1995
+Venezuela,1347,1995
+Thailand,1345,1995
+Mozambique,1332,1995
+Gambia,1331,1995
+Ethiopia,1327,1995
+Sudan,1324,1995
+Netherlands Antilles,1320,1995
+Jordan,1317,1995
+Haiti,1309,1995
+Khmer Republic,1302,1995
+Suriname,1301,1995
+Cape Verde,1299,1995
+Panama,1299,1995
+Singapore,1294,1995
+Solomon Islands,1292,1995
+Barbados,1291,1995
+Oman,1287,1995
+Saint Lucia,1272,1995
+Grenada,1271,1995
+Malaysia,1260,1995
+Lebanon,1260,1995
+French Guiana,1257,1995
+Saint Vincent and the Grenadines,1249,1995
+Reunion,1247,1995
+Armenia,1241,1995
+Lesotho,1233,1995
+Eritrea,1229,1995
+Central African Republic,1229,1995
+Palestine,1228,1995
+Chad,1227,1995
+New Caledonia,1226,1995
+Swaziland,1225,1995
+Guinea-Bissau,1218,1995
+Mauritius,1214,1995
+Hong Kong,1204,1995
+Yemen,1195,1995
+Kyrgyzstan,1194,1995
+Antigua and Barbuda,1188,1995
+Somalia,1181,1995
+Faroe Islands,1179,1995
+Indonesia,1178,1995
+Dominica,1171,1995
+Myanmar,1167,1995
+Namibia,1160,1995
+Luxembourg,1157,1995
+Estonia,1153,1995
+Benin,1147,1995
+Saint Kitts and Nevis,1136,1995
+Zanzibar,1132,1995
+Mauritania,1122,1995
+Belize,1114,1995
+Guyana,1112,1995
+India,1105,1995
+Saint Martin,1104,1995
+Bonaire,1103,1995
+Papua New Guinea,1098,1995
+Rwanda,1098,1995
+Liechtenstein,1094,1995
+Vietnam,1092,1995
+Equatorial Guinea,1085,1995
+Puerto Rico,1084,1995
+Botswana,1070,1995
+São Tomé e Príncipe,1049,1995
+Gibraltar,1044,1995
+Cayman Islands,1038,1995
+Bangladesh,1032,1995
+Aruba,1023,1995
+Macau,1023,1995
+Chinese Taipei,1020,1995
+Dominican Republic,1010,1995
+San Marino,1009,1995
+Greenland,1008,1995
+Vanuatu,991,1995
+Nicaragua,963,1995
+Sint Maarten,957,1995
+Seychelles,926,1995
+Laos,917,1995
+Mongolia,896,1995
+Sri Lanka,893,1995
+Djibouti,891,1995
+Nepal,884,1995
+Pakistan,876,1995
+Comoros,870,1995
+Afghanistan,862,1995
+Bahamas,862,1995
+Brunei,860,1995
+British Virgin Islands,823,1995
+Philippines,815,1995
+Maldives,769,1995
+Tuvalu,752,1995
+Wallis and Futuna,734,1995
+Guam,685,1995
+Tibet,685,1995
+Tonga,680,1995
+Cook Islands,679,1995
+Bhutan,617,1995
+Western Samoa,616,1995
+Montserrat,610,1995
+Kiribati,599,1995
+Anguilla,563,1995
+American Samoa,536,1995
+Niue,496,1995
+Brazil,2111,1996
+Germany,2030,1996
+Italy,1988,1996
+Spain,1986,1996
+Denmark,1971,1996
+France,1957,1996
+Yugoslavia,1942,1996
+Netherlands,1917,1996
+Russia,1899,1996
+Czech Republic,1896,1996
+Romania,1893,1996
+Croatia,1883,1996
+England,1869,1996
+Portugal,1863,1996
+Sweden,1848,1996
+Colombia,1844,1996
+Argentina,1843,1996
+Uruguay,1838,1996
+Bulgaria,1835,1996
+Switzerland,1829,1996
+Nigeria,1821,1996
+Norway,1804,1996
+Scotland,1783,1996
+Mexico,1781,1996
+Belgium,1777,1996
+Paraguay,1766,1996
+Turkey,1759,1996
+Ireland,1737,1996
+Uzbekistan,1726,1996
+Poland,1715,1996
+Australia,1712,1996
+United States,1707,1996
+South Africa,1691,1996
+Slovakia,1687,1996
+Chile,1683,1996
+Ecuador,1670,1996
+Bolivia,1668,1996
+Ghana,1665,1996
+Ivory Coast,1660,1996
+Austria,1654,1996
+Northern Ireland,1652,1996
+Iraq,1650,1996
+Israel,1643,1996
+Georgia,1643,1996
+Egypt,1637,1996
+South Korea,1629,1996
+Japan,1628,1996
+Zambia,1624,1996
+Wales,1623,1996
+China,1608,1996
+Hungary,1604,1996
+Bosnia and Herzegovina,1601,1996
+Greece,1597,1996
+Saudi Arabia,1594,1996
+Honduras,1594,1996
+Slovenia,1590,1996
+Canada,1586,1996
+Morocco,1585,1996
+Ukraine,1584,1996
+Algeria,1583,1996
+Kazakhstan,1579,1996
+Peru,1579,1996
+Iceland,1576,1996
+Tunisia,1573,1996
+Tahiti,1571,1996
+Costa Rica,1557,1996
+Cameroon,1549,1996
+Iran,1547,1996
+Trinidad and Tobago,1544,1996
+Zaire,1540,1996
+Jamaica,1539,1996
+Macedonia,1539,1996
+Sierra Leone,1537,1996
+United Arab Emirates,1529,1996
+Finland,1529,1996
+El Salvador,1520,1996
+Cuba,1515,1996
+Turkmenistan,1511,1996
+Libya,1502,1996
+Zimbabwe,1500,1996
+North Korea,1497,1996
+Madagascar,1497,1996
+Kuwait,1493,1996
+New Zealand,1489,1996
+Gabon,1487,1996
+Moldova,1466,1996
+Martinique,1465,1996
+Senegal,1463,1996
+Belarus,1462,1996
+Guatemala,1454,1996
+Azerbaijan,1453,1996
+Angola,1451,1996
+Northern Cyprus,1451,1996
+Albania,1450,1996
+Syria,1447,1996
+Kenya,1444,1996
+Latvia,1433,1996
+Lithuania,1433,1996
+Malawi,1432,1996
+Bahrain,1429,1996
+Qatar,1421,1996
+Fiji,1420,1996
+Burkina Faso,1418,1996
+Tanzania,1413,1996
+Uganda,1410,1996
+Thailand,1402,1996
+Mozambique,1400,1996
+Cyprus,1396,1996
+Liberia,1395,1996
+Sudan,1394,1996
+Kosovo,1390,1996
+Guadeloupe,1389,1996
+Tajikistan,1377,1996
+Bermuda,1375,1996
+Burundi,1367,1996
+Congo,1364,1996
+Venezuela,1335,1996
+Guinea,1324,1996
+Gambia,1322,1996
+Malta,1321,1996
+Niger,1321,1996
+Mali,1318,1996
+Jordan,1317,1996
+Ethiopia,1312,1996
+Netherlands Antilles,1312,1996
+Haiti,1309,1996
+Saint Vincent and the Grenadines,1305,1996
+Togo,1302,1996
+Suriname,1298,1996
+Panama,1295,1996
+Grenada,1294,1996
+Solomon Islands,1290,1996
+Cape Verde,1289,1996
+Oman,1287,1996
+Singapore,1283,1996
+Armenia,1281,1996
+Saint Lucia,1274,1996
+Lebanon,1266,1996
+Barbados,1258,1996
+Mauritania,1255,1996
+Luxembourg,1254,1996
+Indonesia,1250,1996
+Reunion,1247,1996
+Malaysia,1241,1996
+Guinea-Bissau,1231,1996
+Eritrea,1229,1996
+Central African Republic,1229,1996
+Palestine,1228,1996
+Chad,1227,1996
+Swaziland,1225,1996
+Vietnam,1211,1996
+Hong Kong,1204,1996
+New Caledonia,1202,1996
+French Guiana,1195,1996
+Yemen,1195,1996
+Dominica,1194,1996
+Kyrgyzstan,1194,1996
+Faroe Islands,1189,1996
+Zanzibar,1187,1996
+Lesotho,1186,1996
+Mauritius,1181,1996
+Namibia,1160,1996
+Antigua and Barbuda,1148,1996
+Myanmar,1140,1996
+Saint Kitts and Nevis,1138,1996
+Benin,1138,1996
+Somalia,1136,1996
+Cambodia,1123,1996
+Belize,1108,1996
+Saint Martin,1104,1996
+Bonaire,1103,1996
+Liechtenstein,1100,1996
+India,1095,1996
+Rwanda,1091,1996
+Estonia,1089,1996
+Equatorial Guinea,1085,1996
+Papua New Guinea,1075,1996
+Guyana,1071,1996
+Cayman Islands,1068,1996
+Puerto Rico,1062,1996
+São Tomé e Príncipe,1049,1996
+Greenland,1035,1996
+Vanuatu,1032,1996
+Bangladesh,1031,1996
+Macau,1023,1996
+Botswana,1023,1996
+Chinese Taipei,1020,1996
+Dominican Republic,1020,1996
+Gibraltar,1017,1996
+Aruba,1010,1996
+Sint Maarten,970,1996
+Laos,966,1996
+San Marino,962,1996
+Nicaragua,942,1996
+Seychelles,926,1996
+Sri Lanka,918,1996
+Mongolia,896,1996
+Djibouti,891,1996
+Nepal,877,1996
+Pakistan,871,1996
+Comoros,870,1996
+Afghanistan,862,1996
+Bahamas,862,1996
+British Virgin Islands,823,1996
+Brunei,815,1996
+Philippines,812,1996
+Maldives,769,1996
+Tuvalu,752,1996
+Wallis and Futuna,701,1996
+Cook Islands,692,1996
+Tibet,685,1996
+Tonga,680,1996
+Guam,663,1996
+Montserrat,637,1996
+Bhutan,617,1996
+Western Samoa,616,1996
+Kiribati,599,1996
+American Samoa,536,1996
+Anguilla,529,1996
+Niue,496,1996
+Germany,2081,1997
+Brazil,2066,1997
+Spain,2025,1997
+France,2015,1997
+Italy,1973,1997
+Denmark,1970,1997
+Netherlands,1961,1997
+England,1956,1997
+Yugoslavia,1933,1997
+Czech Republic,1924,1997
+Croatia,1889,1997
+Portugal,1886,1997
+Russia,1886,1997
+Colombia,1880,1997
+Romania,1858,1997
+Norway,1853,1997
+Bulgaria,1828,1997
+Sweden,1819,1997
+Scotland,1814,1997
+Paraguay,1812,1997
+Argentina,1794,1997
+Mexico,1793,1997
+Uruguay,1768,1997
+South Africa,1765,1997
+Nigeria,1760,1997
+Belgium,1756,1997
+Australia,1755,1997
+Japan,1746,1997
+Chile,1739,1997
+Austria,1731,1997
+Ireland,1731,1997
+Switzerland,1720,1997
+United States,1707,1997
+Turkey,1696,1997
+Ecuador,1689,1997
+Slovakia,1684,1997
+Iran,1679,1997
+Canada,1674,1997
+Morocco,1671,1997
+Greece,1667,1997
+Bolivia,1663,1997
+Poland,1654,1997
+Iraq,1647,1997
+Ukraine,1639,1997
+Saudi Arabia,1637,1997
+Tunisia,1636,1997
+Kuwait,1626,1997
+Northern Ireland,1624,1997
+United Arab Emirates,1622,1997
+Zambia,1622,1997
+Egypt,1622,1997
+Hungary,1620,1997
+Israel,1613,1997
+Algeria,1610,1997
+Bosnia and Herzegovina,1605,1997
+Peru,1599,1997
+Wales,1598,1997
+Uzbekistan,1597,1997
+Ghana,1586,1997
+Georgia,1583,1997
+Cameroon,1583,1997
+South Korea,1582,1997
+Costa Rica,1574,1997
+Jamaica,1566,1997
+Honduras,1563,1997
+China,1550,1997
+Slovenia,1549,1997
+Macedonia,1541,1997
+Zimbabwe,1532,1997
+Iceland,1523,1997
+El Salvador,1518,1997
+Ivory Coast,1517,1997
+Gabon,1514,1997
+Tahiti,1511,1997
+Qatar,1507,1997
+Libya,1502,1997
+Guatemala,1502,1997
+Angola,1501,1997
+Zaire,1499,1997
+North Korea,1497,1997
+Trinidad and Tobago,1481,1997
+New Zealand,1479,1997
+Martinique,1479,1997
+Kazakhstan,1473,1997
+Madagascar,1473,1997
+Syria,1468,1997
+Lithuania,1467,1997
+Finland,1464,1997
+Senegal,1454,1997
+Cuba,1453,1997
+Northern Cyprus,1451,1997
+Moldova,1449,1997
+Malawi,1442,1997
+Tajikistan,1427,1997
+Cyprus,1426,1997
+Congo,1426,1997
+Azerbaijan,1425,1997
+Turkmenistan,1424,1997
+Albania,1422,1997
+Fiji,1420,1997
+Sierra Leone,1419,1997
+Burundi,1418,1997
+Belarus,1409,1997
+Liberia,1409,1997
+Uganda,1405,1997
+Sudan,1404,1997
+Thailand,1403,1997
+Kenya,1393,1997
+Latvia,1392,1997
+Kosovo,1390,1997
+Guadeloupe,1389,1997
+Burkina Faso,1387,1997
+Bahrain,1382,1997
+Lebanon,1382,1997
+Bermuda,1375,1997
+Togo,1374,1997
+Panama,1373,1997
+Guinea,1370,1997
+Mozambique,1367,1997
+Mali,1366,1997
+Venezuela,1365,1997
+Tanzania,1352,1997
+Haiti,1339,1997
+Armenia,1332,1997
+Niger,1325,1997
+Jordan,1320,1997
+Ethiopia,1317,1997
+Malaysia,1301,1997
+Malta,1300,1997
+Suriname,1297,1997
+Gambia,1296,1997
+Barbados,1290,1997
+Singapore,1289,1997
+Cape Verde,1289,1997
+Solomon Islands,1267,1997
+Vietnam,1263,1997
+Oman,1259,1997
+Grenada,1254,1997
+Luxembourg,1252,1997
+Reunion,1247,1997
+Namibia,1246,1997
+Netherlands Antilles,1246,1997
+Saint Vincent and the Grenadines,1235,1997
+Indonesia,1234,1997
+Guinea-Bissau,1234,1997
+Eritrea,1229,1997
+Palestine,1228,1997
+Chad,1227,1997
+Saint Kitts and Nevis,1216,1997
+Hong Kong,1211,1997
+Central African Republic,1208,1997
+New Caledonia,1202,1997
+Swaziland,1202,1997
+Kyrgyzstan,1201,1997
+Mauritania,1201,1997
+Estonia,1199,1997
+Saint Lucia,1196,1997
+Benin,1196,1997
+French Guiana,1187,1997
+Lesotho,1186,1997
+Dominica,1184,1997
+Yemen,1175,1997
+Faroe Islands,1173,1997
+Zanzibar,1172,1997
+Mauritius,1153,1997
+Somalia,1136,1997
+Myanmar,1134,1997
+Antigua and Barbuda,1119,1997
+Saint Martin,1104,1997
+Bonaire,1103,1997
+Dominican Republic,1101,1997
+Papua New Guinea,1093,1997
+Rwanda,1092,1997
+Equatorial Guinea,1085,1997
+Belize,1083,1997
+Liechtenstein,1078,1997
+Andorra,1077,1997
+Guyana,1073,1997
+India,1055,1997
+São Tomé e Príncipe,1049,1997
+Cayman Islands,1047,1997
+Puerto Rico,1040,1997
+Greenland,1035,1997
+Vanuatu,1032,1997
+Bangladesh,1031,1997
+Macau,1027,1997
+Cambodia,1024,1997
+Chinese Taipei,1018,1997
+Gibraltar,1017,1997
+Botswana,1014,1997
+Laos,973,1997
+Sri Lanka,971,1997
+Sint Maarten,962,1997
+Aruba,961,1997
+San Marino,956,1997
+Nicaragua,938,1997
+Seychelles,929,1997
+Mongolia,896,1997
+Djibouti,891,1997
+Comoros,870,1997
+Pakistan,867,1997
+Afghanistan,862,1997
+Bahamas,862,1997
+British Virgin Islands,823,1997
+Brunei,823,1997
+Nepal,816,1997
+Tuvalu,752,1997
+Maldives,746,1997
+Philippines,733,1997
+Tonga,714,1997
+Wallis and Futuna,701,1997
+Tibet,685,1997
+Guam,650,1997
+Cook Islands,646,1997
+Montserrat,637,1997
+Western Samoa,628,1997
+Bhutan,617,1997
+Kiribati,599,1997
+American Samoa,536,1997
+Anguilla,522,1997
+Niue,496,1997
+Brazil,2178,1998
+Germany,2070,1998
+Spain,2040,1998
+France,2013,1998
+England,2001,1998
+Italy,1974,1998
+Yugoslavia,1973,1998
+Netherlands,1939,1998
+Denmark,1930,1998
+Romania,1885,1998
+Portugal,1884,1998
+Russia,1872,1998
+Czech Republic,1871,1998
+Croatia,1867,1998
+Norway,1857,1998
+Australia,1848,1998
+Argentina,1829,1998
+Sweden,1825,1998
+Bulgaria,1821,1998
+Belgium,1798,1998
+Scotland,1793,1998
+Mexico,1787,1998
+Colombia,1767,1998
+South Korea,1760,1998
+Japan,1758,1998
+Uruguay,1755,1998
+Ecuador,1755,1998
+Austria,1749,1998
+Chile,1749,1998
+Paraguay,1746,1998
+Morocco,1744,1998
+Greece,1731,1998
+Slovakia,1726,1998
+Peru,1725,1998
+United States,1719,1998
+Turkey,1714,1998
+Ireland,1712,1998
+Nigeria,1700,1998
+Bolivia,1690,1998
+Iran,1688,1998
+South Africa,1680,1998
+Ukraine,1676,1998
+Switzerland,1675,1998
+Tunisia,1671,1998
+Poland,1671,1998
+China,1644,1998
+Georgia,1642,1998
+Saudi Arabia,1641,1998
+Zambia,1635,1998
+Bosnia and Herzegovina,1630,1998
+Jamaica,1629,1998
+Kuwait,1616,1998
+Costa Rica,1616,1998
+Israel,1613,1998
+Egypt,1602,1998
+Hungary,1594,1998
+Iraq,1590,1998
+United Arab Emirates,1584,1998
+Northern Ireland,1577,1998
+Wales,1575,1998
+Uzbekistan,1572,1998
+Algeria,1562,1998
+Cameroon,1561,1998
+Honduras,1552,1998
+Guatemala,1552,1998
+Qatar,1551,1998
+Angola,1546,1998
+Ivory Coast,1536,1998
+Slovenia,1527,1998
+Finland,1525,1998
+Canada,1523,1998
+Lithuania,1521,1998
+Kazakhstan,1516,1998
+El Salvador,1513,1998
+Macedonia,1511,1998
+Tajikistan,1497,1998
+North Korea,1497,1998
+Iceland,1489,1998
+Martinique,1488,1998
+Kenya,1482,1998
+Ghana,1480,1998
+Guinea,1480,1998
+Congo,1475,1998
+Madagascar,1473,1998
+Cuba,1469,1998
+Trinidad and Tobago,1463,1998
+Cyprus,1459,1998
+Libya,1458,1998
+Dem. Rep. of Congo,1453,1998
+Mali,1451,1998
+Northern Cyprus,1451,1998
+Syria,1447,1998
+Thailand,1447,1998
+Gabon,1440,1998
+Sierra Leone,1439,1998
+Tahiti,1438,1998
+New Zealand,1435,1998
+Zimbabwe,1433,1998
+Senegal,1433,1998
+Jordan,1426,1998
+Burundi,1418,1998
+Mozambique,1414,1998
+Latvia,1413,1998
+Uganda,1409,1998
+Albania,1406,1998
+Sudan,1404,1998
+Moldova,1394,1998
+Kosovo,1390,1998
+Guadeloupe,1389,1998
+Togo,1388,1998
+Fiji,1382,1998
+Turkmenistan,1380,1998
+Liberia,1370,1998
+Haiti,1366,1998
+Bermuda,1364,1998
+Armenia,1364,1998
+Namibia,1364,1998
+Lebanon,1362,1998
+Malawi,1361,1998
+Belarus,1352,1998
+Azerbaijan,1341,1998
+Solomon Islands,1341,1998
+Indonesia,1337,1998
+Venezuela,1335,1998
+Panama,1330,1998
+Niger,1325,1998
+Bahrain,1324,1998
+Burkina Faso,1321,1998
+Tanzania,1320,1998
+Barbados,1319,1998
+Gambia,1309,1998
+Grenada,1302,1998
+Suriname,1297,1998
+Ethiopia,1292,1998
+Oman,1289,1998
+Malaysia,1255,1998
+Reunion,1247,1998
+Cape Verde,1246,1998
+Kyrgyzstan,1237,1998
+Saint Kitts and Nevis,1234,1998
+Faroe Islands,1234,1998
+Singapore,1233,1998
+Eritrea,1229,1998
+Palestine,1229,1998
+Malta,1227,1998
+Chad,1218,1998
+Hong Kong,1217,1998
+Netherlands Antilles,1216,1998
+Central African Republic,1208,1998
+Benin,1207,1998
+Luxembourg,1207,1998
+Saint Vincent and the Grenadines,1204,1998
+Yemen,1202,1998
+New Caledonia,1197,1998
+Lesotho,1196,1998
+Saint Lucia,1195,1998
+Guinea-Bissau,1194,1998
+Vietnam,1188,1998
+Mauritania,1188,1998
+Estonia,1187,1998
+Dominica,1178,1998
+Swaziland,1174,1998
+Zanzibar,1167,1998
+French Guiana,1159,1998
+Mauritius,1151,1998
+Somalia,1136,1998
+Antigua and Barbuda,1119,1998
+India,1108,1998
+Bonaire,1103,1998
+Saint Martin,1102,1998
+Myanmar,1102,1998
+Papua New Guinea,1102,1998
+Dominican Republic,1101,1998
+Rwanda,1092,1998
+Belize,1088,1998
+Equatorial Guinea,1085,1998
+Andorra,1068,1998
+Guyana,1064,1998
+Gibraltar,1056,1998
+Liechtenstein,1050,1998
+São Tomé e Príncipe,1049,1998
+Cayman Islands,1047,1998
+Puerto Rico,1040,1998
+Cambodia,1036,1998
+Vanuatu,1032,1998
+Chinese Taipei,1028,1998
+Laos,1005,1998
+Macau,1004,1998
+Botswana,1002,1998
+Greenland,996,1998
+Aruba,986,1998
+Bangladesh,968,1998
+Sint Maarten,957,1998
+Sri Lanka,955,1998
+San Marino,953,1998
+Nicaragua,935,1998
+Seychelles,929,1998
+Mongolia,896,1998
+Djibouti,891,1998
+Pakistan,883,1998
+Comoros,870,1998
+Afghanistan,862,1998
+Bahamas,862,1998
+British Virgin Islands,800,1998
+Brunei,787,1998
+Maldives,781,1998
+Nepal,753,1998
+Tuvalu,752,1998
+Philippines,709,1998
+Tonga,707,1998
+Wallis and Futuna,701,1998
+Tibet,685,1998
+Guam,650,1998
+Cook Islands,646,1998
+Montserrat,637,1998
+Western Samoa,628,1998
+Bhutan,617,1998
+Kiribati,599,1998
+American Samoa,536,1998
+Anguilla,505,1998
+Niue,496,1998
+France,2076,1999
+Brazil,2050,1999
+Italy,2020,1999
+Netherlands,1993,1999
+Germany,1978,1999
+Spain,1978,1999
+Croatia,1964,1999
+England,1944,1999
+Yugoslavia,1943,1999
+Argentina,1930,1999
+Portugal,1904,1999
+Romania,1903,1999
+Czech Republic,1902,1999
+Sweden,1886,1999
+Mexico,1863,1999
+Norway,1830,1999
+Denmark,1819,1999
+Belgium,1815,1999
+Morocco,1808,1999
+Paraguay,1803,1999
+Russia,1778,1999
+Australia,1763,1999
+Poland,1763,1999
+Uruguay,1758,1999
+Chile,1755,1999
+Ecuador,1749,1999
+Iran,1747,1999
+Colombia,1738,1999
+Ireland,1738,1999
+Austria,1730,1999
+Greece,1720,1999
+Peru,1715,1999
+Scotland,1713,1999
+Saudi Arabia,1710,1999
+Ukraine,1708,1999
+China,1706,1999
+Nigeria,1696,1999
+Japan,1696,1999
+United States,1695,1999
+Israel,1690,1999
+Bolivia,1690,1999
+South Korea,1689,1999
+Slovakia,1687,1999
+Egypt,1679,1999
+South Africa,1673,1999
+Bulgaria,1673,1999
+Hungary,1671,1999
+Switzerland,1669,1999
+Jamaica,1669,1999
+Turkey,1663,1999
+Kuwait,1663,1999
+Tunisia,1632,1999
+Costa Rica,1618,1999
+Ivory Coast,1617,1999
+Wales,1610,1999
+Georgia,1607,1999
+Iraq,1598,1999
+Zambia,1593,1999
+Finland,1589,1999
+Northern Ireland,1576,1999
+Guatemala,1569,1999
+Macedonia,1566,1999
+Cameroon,1563,1999
+Bosnia and Herzegovina,1561,1999
+Ghana,1553,1999
+Uzbekistan,1544,1999
+New Zealand,1540,1999
+Iceland,1536,1999
+Slovenia,1532,1999
+Canada,1531,1999
+Qatar,1531,1999
+Honduras,1530,1999
+United Arab Emirates,1525,1999
+Algeria,1519,1999
+Cyprus,1514,1999
+Dem. Rep. of Congo,1512,1999
+Lithuania,1481,1999
+Angola,1481,1999
+El Salvador,1480,1999
+Kazakhstan,1480,1999
+Madagascar,1475,1999
+Congo,1475,1999
+Trinidad and Tobago,1475,1999
+Kenya,1472,1999
+North Korea,1466,1999
+Syria,1464,1999
+Zimbabwe,1462,1999
+Gabon,1460,1999
+Burundi,1457,1999
+Guinea,1455,1999
+Northern Cyprus,1451,1999
+Latvia,1448,1999
+Tajikistan,1439,1999
+Albania,1438,1999
+Turkmenistan,1435,1999
+Sierra Leone,1434,1999
+Uganda,1433,1999
+Cuba,1432,1999
+Mali,1432,1999
+Senegal,1430,1999
+Fiji,1428,1999
+Jordan,1425,1999
+Belarus,1412,1999
+Martinique,1401,1999
+Moldova,1400,1999
+Thailand,1400,1999
+Haiti,1399,1999
+Oman,1391,1999
+Kosovo,1390,1999
+Togo,1388,1999
+Burkina Faso,1385,1999
+Tahiti,1383,1999
+Namibia,1382,1999
+Sudan,1380,1999
+Armenia,1376,1999
+Libya,1370,1999
+Liberia,1361,1999
+Guadeloupe,1354,1999
+Lebanon,1352,1999
+Venezuela,1335,1999
+Niger,1332,1999
+Panama,1330,1999
+Azerbaijan,1330,1999
+Mozambique,1326,1999
+Bahrain,1326,1999
+Solomon Islands,1324,1999
+Indonesia,1323,1999
+Singapore,1322,1999
+Malawi,1317,1999
+Gambia,1303,1999
+Bermuda,1302,1999
+Barbados,1296,1999
+Ethiopia,1292,1999
+Grenada,1285,1999
+Reunion,1277,1999
+Suriname,1274,1999
+Saint Kitts and Nevis,1265,1999
+Tanzania,1262,1999
+Benin,1242,1999
+Saint Vincent and the Grenadines,1242,1999
+Chad,1241,1999
+Cape Verde,1239,1999
+Kyrgyzstan,1237,1999
+Saint Lucia,1231,1999
+Palestine,1221,1999
+Vietnam,1217,1999
+Estonia,1214,1999
+Eritrea,1213,1999
+Faroe Islands,1212,1999
+Malta,1211,1999
+Central African Republic,1208,1999
+Luxembourg,1207,1999
+Malaysia,1203,1999
+Yemen,1202,1999
+Antigua and Barbuda,1200,1999
+Guinea-Bissau,1194,1999
+Mauritania,1188,1999
+Netherlands Antilles,1183,1999
+Hong Kong,1175,1999
+Dominica,1172,1999
+Zanzibar,1167,1999
+Swaziland,1161,1999
+Cayman Islands,1138,1999
+Lesotho,1138,1999
+Somalia,1136,1999
+Mauritius,1131,1999
+Myanmar,1128,1999
+French Guiana,1128,1999
+New Caledonia,1126,1999
+Rwanda,1118,1999
+Dominican Republic,1115,1999
+Papua New Guinea,1104,1999
+Bonaire,1103,1999
+Saint Martin,1102,1999
+India,1099,1999
+Belize,1088,1999
+Liechtenstein,1077,1999
+Equatorial Guinea,1070,1999
+Guyana,1069,1999
+Vanuatu,1066,1999
+Gibraltar,1056,1999
+Andorra,1056,1999
+São Tomé e Príncipe,1034,1999
+Chinese Taipei,1028,1999
+Botswana,1016,1999
+Puerto Rico,1010,1999
+Aruba,1006,1999
+Macau,1004,1999
+Cambodia,998,1999
+Greenland,996,1999
+Laos,981,1999
+Seychelles,974,1999
+Bangladesh,968,1999
+San Marino,947,1999
+Sri Lanka,945,1999
+Sint Maarten,944,1999
+Nicaragua,935,1999
+Mongolia,892,1999
+Djibouti,888,1999
+Pakistan,883,1999
+Afghanistan,862,1999
+Bahamas,862,1999
+Comoros,847,1999
+Maldives,789,1999
+British Virgin Islands,774,1999
+Brunei,772,1999
+Tuvalu,752,1999
+Nepal,748,1999
+Philippines,714,1999
+US Virgin Islands,710,1999
+Wallis and Futuna,701,1999
+Tonga,688,1999
+Tibet,685,1999
+Northern Mariana Islands,682,1999
+Samoa,676,1999
+Guam,665,1999
+Cook Islands,662,1999
+Montserrat,637,1999
+Bhutan,617,1999
+Kiribati,599,1999
+Anguilla,497,1999
+Niue,496,1999
+American Samoa,485,1999
+Palau,403,1999
+Brazil,2094,2000
+France,2039,2000
+Spain,2006,2000
+Netherlands,1955,2000
+Czech Republic,1944,2000
+Argentina,1935,2000
+Yugoslavia,1935,2000
+Italy,1928,2000
+Croatia,1914,2000
+Portugal,1911,2000
+Denmark,1908,2000
+England,1907,2000
+Mexico,1905,2000
+Norway,1905,2000
+Romania,1902,2000
+Sweden,1892,2000
+Germany,1887,2000
+Russia,1819,2000
+Paraguay,1814,2000
+United States,1806,2000
+Belgium,1795,2000
+Colombia,1791,2000
+Morocco,1784,2000
+Ireland,1767,2000
+Iran,1767,2000
+Australia,1763,2000
+Chile,1752,2000
+Greece,1741,2000
+Poland,1741,2000
+Peru,1741,2000
+Turkey,1738,2000
+Switzerland,1734,2000
+Uruguay,1733,2000
+Scotland,1728,2000
+Ukraine,1710,2000
+Austria,1708,2000
+China,1706,2000
+South Korea,1699,2000
+Nigeria,1693,2000
+Ecuador,1687,2000
+Slovakia,1677,2000
+Israel,1667,2000
+Bulgaria,1663,2000
+Saudi Arabia,1661,2000
+South Africa,1661,2000
+Tunisia,1653,2000
+Bolivia,1647,2000
+Egypt,1647,2000
+Kuwait,1647,2000
+Japan,1642,2000
+Costa Rica,1629,2000
+Honduras,1621,2000
+Hungary,1619,2000
+Iraq,1612,2000
+Slovenia,1609,2000
+Zambia,1599,2000
+Ghana,1594,2000
+Jamaica,1588,2000
+Trinidad and Tobago,1585,2000
+Cameroon,1584,2000
+Uzbekistan,1572,2000
+Ivory Coast,1570,2000
+Finland,1570,2000
+Canada,1566,2000
+Wales,1565,2000
+Iceland,1556,2000
+Guatemala,1553,2000
+Macedonia,1549,2000
+Bosnia and Herzegovina,1543,2000
+Qatar,1531,2000
+Senegal,1528,2000
+Dem. Rep. of Congo,1525,2000
+Algeria,1517,2000
+Cyprus,1517,2000
+Cuba,1514,2000
+Northern Ireland,1510,2000
+Georgia,1509,2000
+New Zealand,1509,2000
+Zimbabwe,1495,2000
+Angola,1485,2000
+Kazakhstan,1480,2000
+Mali,1477,2000
+Latvia,1471,2000
+Gabon,1468,2000
+North Korea,1467,2000
+United Arab Emirates,1465,2000
+Thailand,1464,2000
+Libya,1463,2000
+Lithuania,1462,2000
+Guinea,1461,2000
+Jordan,1458,2000
+Northern Cyprus,1451,2000
+Madagascar,1443,2000
+Tajikistan,1441,2000
+Kenya,1436,2000
+Albania,1436,2000
+Sierra Leone,1433,2000
+Syria,1430,2000
+Fiji,1428,2000
+Burkina Faso,1427,2000
+Moldova,1424,2000
+Belarus,1415,2000
+Congo,1414,2000
+Haiti,1411,2000
+Burundi,1409,2000
+Liberia,1406,2000
+Turkmenistan,1403,2000
+Venezuela,1394,2000
+Kosovo,1390,2000
+El Salvador,1387,2000
+Tahiti,1383,2000
+Armenia,1367,2000
+Uganda,1366,2000
+Indonesia,1360,2000
+Martinique,1355,2000
+Panama,1347,2000
+Lebanon,1345,2000
+Togo,1340,2000
+Oman,1339,2000
+Guadeloupe,1338,2000
+Sudan,1335,2000
+Estonia,1334,2000
+Niger,1332,2000
+Azerbaijan,1327,2000
+Bahrain,1326,2000
+Namibia,1325,2000
+Barbados,1324,2000
+Solomon Islands,1324,2000
+Ethiopia,1319,2000
+Grenada,1319,2000
+Gambia,1299,2000
+Bermuda,1298,2000
+Singapore,1296,2000
+Vietnam,1287,2000
+Saint Kitts and Nevis,1280,2000
+Suriname,1278,2000
+Reunion,1277,2000
+Mozambique,1275,2000
+Chad,1274,2000
+Central African Republic,1263,2000
+Palestine,1256,2000
+Swaziland,1253,2000
+Tanzania,1252,2000
+Saint Lucia,1250,2000
+Saint Vincent and the Grenadines,1245,2000
+Benin,1242,2000
+Cape Verde,1239,2000
+Malawi,1237,2000
+Mauritius,1223,2000
+Malta,1220,2000
+Malaysia,1208,2000
+Kyrgyzstan,1202,2000
+Yemen,1202,2000
+Rwanda,1200,2000
+Guinea-Bissau,1194,2000
+Hong Kong,1194,2000
+Luxembourg,1189,2000
+Mauritania,1188,2000
+Faroe Islands,1187,2000
+Eritrea,1181,2000
+Zanzibar,1175,2000
+Antigua and Barbuda,1166,2000
+Netherlands Antilles,1154,2000
+Dominica,1146,2000
+New Caledonia,1126,2000
+India,1125,2000
+French Guiana,1122,2000
+Cayman Islands,1120,2000
+Somalia,1112,2000
+Dominican Republic,1111,2000
+Lesotho,1108,2000
+Papua New Guinea,1104,2000
+Bonaire,1103,2000
+Saint Martin,1102,2000
+Myanmar,1093,2000
+Liechtenstein,1089,2000
+Belize,1081,2000
+Vanuatu,1066,2000
+Guyana,1065,2000
+Equatorial Guinea,1056,2000
+Gibraltar,1056,2000
+Bangladesh,1042,2000
+Andorra,1032,2000
+São Tomé e Príncipe,1030,2000
+Chinese Taipei,1028,2000
+Aruba,1006,2000
+Macau,1004,2000
+Greenland,996,2000
+Botswana,993,2000
+Seychelles,974,2000
+Laos,973,2000
+Sint Maarten,944,2000
+San Marino,943,2000
+Nicaragua,932,2000
+Puerto Rico,928,2000
+Cambodia,922,2000
+Mongolia,892,2000
+Djibouti,875,2000
+Maldives,873,2000
+British Virgin Islands,864,2000
+Afghanistan,862,2000
+Comoros,847,2000
+Bahamas,845,2000
+Sri Lanka,820,2000
+Pakistan,816,2000
+Turks and Caicos,776,2000
+Nepal,772,2000
+Brunei,762,2000
+Tuvalu,752,2000
+US Virgin Islands,727,2000
+Wallis and Futuna,701,2000
+Philippines,696,2000
+Guam,693,2000
+Tonga,688,2000
+Tibet,685,2000
+Samoa,676,2000
+Cook Islands,662,2000
+Northern Mariana Islands,636,2000
+Micronesia,618,2000
+Montserrat,612,2000
+Kiribati,599,2000
+Bhutan,584,2000
+Anguilla,497,2000
+Niue,496,2000
+American Samoa,485,2000
+Palau,403,2000
+France,2112,2001
+Brazil,2022,2001
+Portugal,2019,2001
+Italy,2013,2001
+Argentina,2003,2001
+Netherlands,2000,2001
+Spain,1961,2001
+Czech Republic,1923,2001
+Yugoslavia,1897,2001
+Croatia,1887,2001
+Germany,1883,2001
+Paraguay,1866,2001
+England,1851,2001
+Russia,1833,2001
+Romania,1825,2001
+Mexico,1824,2001
+Sweden,1819,2001
+Denmark,1814,2001
+Japan,1811,2001
+Ireland,1811,2001
+United States,1808,2001
+Norway,1791,2001
+Australia,1788,2001
+Belgium,1786,2001
+Colombia,1762,2001
+Poland,1758,2001
+South Korea,1757,2001
+Slovakia,1756,2001
+Uruguay,1754,2001
+Turkey,1754,2001
+Scotland,1745,2001
+Iran,1742,2001
+Cameroon,1722,2001
+Ukraine,1722,2001
+Austria,1721,2001
+Honduras,1711,2001
+Switzerland,1711,2001
+Chile,1711,2001
+Greece,1705,2001
+Nigeria,1704,2001
+Saudi Arabia,1695,2001
+Egypt,1694,2001
+Ecuador,1689,2001
+China,1686,2001
+Morocco,1680,2001
+Israel,1674,2001
+South Africa,1674,2001
+Hungary,1670,2001
+Peru,1669,2001
+Bulgaria,1665,2001
+Slovenia,1660,2001
+Trinidad and Tobago,1650,2001
+Tunisia,1647,2001
+Canada,1630,2001
+Kuwait,1621,2001
+Costa Rica,1606,2001
+Iraq,1604,2001
+Bolivia,1597,2001
+Iceland,1597,2001
+Finland,1591,2001
+Ivory Coast,1576,2001
+Guatemala,1569,2001
+Wales,1559,2001
+Jamaica,1558,2001
+Cyprus,1555,2001
+Georgia,1553,2001
+Bosnia and Herzegovina,1549,2001
+New Zealand,1541,2001
+Thailand,1535,2001
+Qatar,1531,2001
+United Arab Emirates,1528,2001
+Algeria,1525,2001
+Macedonia,1523,2001
+Northern Ireland,1517,2001
+Ghana,1514,2001
+Syria,1510,2001
+Guinea,1507,2001
+Albania,1499,2001
+Zimbabwe,1486,2001
+Angola,1475,2001
+Cuba,1470,2001
+Uzbekistan,1466,2001
+Madagascar,1463,2001
+Zambia,1461,2001
+Senegal,1459,2001
+El Salvador,1456,2001
+Dem. Rep. of Congo,1456,2001
+Northern Cyprus,1451,2001
+North Korea,1446,2001
+Kazakhstan,1443,2001
+Uganda,1441,2001
+Jordan,1439,2001
+Libya,1437,2001
+Tajikistan,1436,2001
+Fiji,1430,2001
+Congo,1429,2001
+Liberia,1428,2001
+Togo,1426,2001
+Burkina Faso,1424,2001
+Gabon,1423,2001
+Belarus,1421,2001
+Mali,1419,2001
+Latvia,1417,2001
+Moldova,1413,2001
+Venezuela,1410,2001
+Haiti,1408,2001
+Turkmenistan,1399,2001
+Kosovo,1390,2001
+Panama,1389,2001
+Lebanon,1387,2001
+Armenia,1384,2001
+Lithuania,1378,2001
+Burundi,1378,2001
+Ethiopia,1371,2001
+Estonia,1365,2001
+Indonesia,1361,2001
+Martinique,1355,2001
+Sierra Leone,1349,2001
+Guadeloupe,1338,2001
+Cape Verde,1334,2001
+Barbados,1332,2001
+Kenya,1332,2001
+Namibia,1322,2001
+Sudan,1318,2001
+Rwanda,1317,2001
+Bahrain,1315,2001
+Oman,1311,2001
+Niger,1309,2001
+Solomon Islands,1308,2001
+Tahiti,1304,2001
+Gambia,1299,2001
+Grenada,1299,2001
+Malaysia,1294,2001
+Chad,1292,2001
+Bermuda,1289,2001
+Suriname,1281,2001
+Reunion,1277,2001
+Saint Lucia,1271,2001
+Malawi,1265,2001
+Azerbaijan,1265,2001
+Singapore,1262,2001
+Vietnam,1250,2001
+Benin,1245,2001
+Saint Vincent and the Grenadines,1244,2001
+Central African Republic,1242,2001
+Malta,1235,2001
+Mauritius,1230,2001
+Tanzania,1230,2001
+Saint Kitts and Nevis,1227,2001
+Palestine,1225,2001
+Mozambique,1223,2001
+Mayotte,1214,2001
+Hong Kong,1208,2001
+Eritrea,1207,2001
+Faroe Islands,1203,2001
+Lesotho,1199,2001
+Guinea-Bissau,1195,2001
+Mauritania,1192,2001
+Yemen,1179,2001
+Luxembourg,1176,2001
+Swaziland,1173,2001
+Kyrgyzstan,1169,2001
+Netherlands Antilles,1166,2001
+Zanzibar,1163,2001
+Antigua and Barbuda,1163,2001
+New Caledonia,1158,2001
+Vanuatu,1143,2001
+Cayman Islands,1134,2001
+Dominica,1133,2001
+French Guiana,1122,2001
+Dominican Republic,1111,2001
+Myanmar,1106,2001
+Bonaire,1103,2001
+Saint Martin,1102,2001
+Botswana,1098,2001
+India,1083,2001
+São Tomé e Príncipe,1078,2001
+Belize,1077,2001
+Liechtenstein,1076,2001
+Somalia,1074,2001
+Guyana,1074,2001
+Gibraltar,1056,2001
+Andorra,1052,2001
+Equatorial Guinea,1036,2001
+Chinese Taipei,1035,2001
+Papua New Guinea,1024,2001
+Bangladesh,1011,2001
+Aruba,1003,2001
+Greenland,996,2001
+Macau,989,2001
+Seychelles,975,2001
+Cambodia,946,2001
+San Marino,936,2001
+Sint Maarten,931,2001
+Nicaragua,920,2001
+Puerto Rico,913,2001
+Laos,896,2001
+Djibouti,887,2001
+Sri Lanka,885,2001
+Maldives,872,2001
+Mongolia,862,2001
+Afghanistan,862,2001
+Bahamas,853,2001
+Comoros,847,2001
+British Virgin Islands,840,2001
+Pakistan,807,2001
+Nepal,783,2001
+Turks and Caicos,767,2001
+Brunei,754,2001
+Tuvalu,752,2001
+Cook Islands,716,2001
+Philippines,716,2001
+US Virgin Islands,712,2001
+Samoa,709,2001
+Wallis and Futuna,701,2001
+Tibet,685,2001
+Guam,660,2001
+Tonga,640,2001
+Northern Mariana Islands,636,2001
+Micronesia,618,2001
+Montserrat,607,2001
+Kiribati,599,2001
+Bhutan,562,2001
+Anguilla,498,2001
+Niue,496,2001
+American Samoa,441,2001
+Palau,403,2001
+France,2114,2002
+Argentina,2022,2002
+Italy,2015,2002
+Portugal,2011,2002
+Netherlands,1996,2002
+Spain,1966,2002
+England,1932,2002
+Sweden,1888,2002
+Croatia,1885,2002
+Colombia,1876,2002
+Denmark,1875,2002
+Germany,1869,2002
+Japan,1867,2002
+Ireland,1861,2002
+Russia,1837,2002
+Yugoslavia,1834,2002
+Belgium,1834,2002
+Brazil,1833,2002
+Australia,1828,2002
+Czech Republic,1825,2002
+Romania,1814,2002
+Mexico,1808,2002
+South Korea,1803,2002
+Turkey,1796,2002
+Uruguay,1788,2002
+Costa Rica,1774,2002
+Slovenia,1758,2002
+Iran,1753,2002
+United States,1752,2002
+Poland,1747,2002
+Norway,1746,2002
+Scotland,1734,2002
+Ecuador,1733,2002
+Honduras,1731,2002
+Paraguay,1725,2002
+China,1724,2002
+Nigeria,1722,2002
+Finland,1716,2002
+Cameroon,1716,2002
+Saudi Arabia,1699,2002
+Ukraine,1696,2002
+Slovakia,1696,2002
+Tunisia,1689,2002
+Bulgaria,1684,2002
+Austria,1673,2002
+Israel,1672,2002
+Switzerland,1659,2002
+Greece,1654,2002
+Morocco,1649,2002
+Egypt,1648,2002
+South Africa,1631,2002
+Peru,1623,2002
+Ivory Coast,1618,2002
+Iceland,1606,2002
+Hungary,1600,2002
+Chile,1598,2002
+Georgia,1593,2002
+Canada,1587,2002
+Senegal,1587,2002
+Guatemala,1575,2002
+Trinidad and Tobago,1571,2002
+Venezuela,1571,2002
+Qatar,1568,2002
+Bolivia,1563,2002
+Kuwait,1554,2002
+Wales,1552,2002
+Northern Ireland,1546,2002
+Angola,1539,2002
+Jamaica,1535,2002
+Iraq,1533,2002
+Bosnia and Herzegovina,1531,2002
+Algeria,1526,2002
+New Zealand,1524,2002
+Ghana,1522,2002
+Liberia,1519,2002
+Bahrain,1515,2002
+Togo,1514,2002
+Cyprus,1511,2002
+Zimbabwe,1508,2002
+Belarus,1507,2002
+Zambia,1500,2002
+Uzbekistan,1497,2002
+Guinea,1493,2002
+El Salvador,1487,2002
+United Arab Emirates,1470,2002
+Albania,1470,2002
+North Korea,1469,2002
+Kazakhstan,1465,2002
+Haiti,1462,2002
+Gabon,1451,2002
+Northern Cyprus,1451,2002
+Cuba,1448,2002
+Syria,1445,2002
+Macedonia,1445,2002
+Thailand,1442,2002
+Tajikistan,1436,2002
+Dem. Rep. of Congo,1430,2002
+Oman,1428,2002
+Fiji,1425,2002
+Ethiopia,1423,2002
+Turkmenistan,1423,2002
+Latvia,1416,2002
+Mali,1412,2002
+Lithuania,1412,2002
+Armenia,1409,2002
+Burkina Faso,1408,2002
+Martinique,1401,2002
+Panama,1396,2002
+Moldova,1394,2002
+Lebanon,1392,2002
+Kosovo,1390,2002
+Jordan,1386,2002
+Sudan,1384,2002
+Kenya,1375,2002
+Congo,1371,2002
+Indonesia,1359,2002
+Burundi,1357,2002
+Tahiti,1346,2002
+Madagascar,1346,2002
+Estonia,1345,2002
+Libya,1344,2002
+Gambia,1336,2002
+Saint Kitts and Nevis,1332,2002
+Cape Verde,1332,2002
+Rwanda,1321,2002
+Barbados,1317,2002
+Tanzania,1317,2002
+Uganda,1315,2002
+Niger,1309,2002
+Grenada,1306,2002
+Azerbaijan,1301,2002
+Sierra Leone,1298,2002
+Chad,1292,2002
+Solomon Islands,1290,2002
+Guadeloupe,1290,2002
+Bermuda,1280,2002
+Malaysia,1277,2002
+Reunion,1277,2002
+Suriname,1265,2002
+Vietnam,1260,2002
+Saint Lucia,1258,2002
+Saint Vincent and the Grenadines,1257,2002
+Malawi,1255,2002
+Mauritius,1251,2002
+Benin,1246,2002
+Faroe Islands,1244,2002
+Palestine,1243,2002
+Namibia,1243,2002
+Central African Republic,1242,2002
+Guinea-Bissau,1239,2002
+Mozambique,1239,2002
+Singapore,1219,2002
+Mayotte,1212,2002
+Malta,1211,2002
+Yemen,1208,2002
+Swaziland,1192,2002
+Lesotho,1177,2002
+Hong Kong,1172,2002
+Eritrea,1171,2002
+Netherlands Antilles,1166,2002
+Kyrgyzstan,1166,2002
+New Caledonia,1158,2002
+Zanzibar,1144,2002
+Mauritania,1142,2002
+Cayman Islands,1142,2002
+India,1128,2002
+Dominican Republic,1126,2002
+French Guiana,1122,2002
+Botswana,1119,2002
+Belize,1116,2002
+Luxembourg,1114,2002
+Myanmar,1106,2002
+Guyana,1105,2002
+Antigua and Barbuda,1104,2002
+Bonaire,1103,2002
+Vanuatu,1103,2002
+Saint Martin,1098,2002
+São Tomé e Príncipe,1078,2002
+Somalia,1062,2002
+Gibraltar,1056,2002
+Dominica,1055,2002
+Liechtenstein,1054,2002
+Andorra,1051,2002
+Equatorial Guinea,1036,2002
+Papua New Guinea,1024,2002
+Bangladesh,1012,2002
+Greenland,1008,2002
+Chinese Taipei,1002,2002
+Aruba,979,2002
+Seychelles,975,2002
+San Marino,953,2002
+Sint Maarten,931,2002
+Monaco,904,2002
+Sri Lanka,903,2002
+Macau,902,2002
+Nicaragua,902,2002
+Maldives,901,2002
+Laos,888,2002
+Puerto Rico,885,2002
+Cambodia,883,2002
+Nepal,882,2002
+British Virgin Islands,877,2002
+Djibouti,872,2002
+Afghanistan,862,2002
+Bahamas,851,2002
+Comoros,847,2002
+Mongolia,807,2002
+Pakistan,781,2002
+Turks and Caicos,767,2002
+Tuvalu,752,2002
+Brunei,726,2002
+Philippines,708,2002
+Samoa,703,2002
+Cook Islands,703,2002
+Wallis and Futuna,701,2002
+US Virgin Islands,698,2002
+Tonga,679,2002
+Tibet,676,2002
+Guam,660,2002
+Northern Mariana Islands,636,2002
+Micronesia,618,2002
+Kiribati,599,2002
+Falkland Islands,593,2002
+Bhutan,561,2002
+Montserrat,559,2002
+Anguilla,542,2002
+Niue,496,2002
+American Samoa,406,2002
+Palau,403,2002
+Brazil,2057,2003
+Netherlands,2051,2003
+Spain,1997,2003
+Argentina,1994,2003
+France,1978,2003
+England,1953,2003
+Germany,1937,2003
+Portugal,1931,2003
+Denmark,1911,2003
+Turkey,1895,2003
+Italy,1879,2003
+Czech Republic,1872,2003
+Colombia,1862,2003
+Ireland,1848,2003
+Mexico,1832,2003
+United States,1826,2003
+Sweden,1821,2003
+Yugoslavia,1812,2003
+Japan,1809,2003
+Russia,1807,2003
+Australia,1806,2003
+Croatia,1803,2003
+Norway,1798,2003
+Cameroon,1796,2003
+Romania,1792,2003
+Uruguay,1790,2003
+Belgium,1785,2003
+Senegal,1780,2003
+Honduras,1768,2003
+South Korea,1766,2003
+Paraguay,1764,2003
+Costa Rica,1753,2003
+Bulgaria,1751,2003
+Nigeria,1742,2003
+Ecuador,1721,2003
+Iran,1709,2003
+Switzerland,1708,2003
+Poland,1708,2003
+Scotland,1693,2003
+Ukraine,1688,2003
+Israel,1687,2003
+Austria,1682,2003
+Wales,1676,2003
+Slovakia,1672,2003
+Saudi Arabia,1671,2003
+Greece,1666,2003
+South Africa,1665,2003
+Finland,1664,2003
+Slovenia,1659,2003
+Canada,1634,2003
+Peru,1623,2003
+Tunisia,1619,2003
+Venezuela,1609,2003
+Iraq,1608,2003
+Egypt,1607,2003
+China,1603,2003
+Hungary,1593,2003
+Chile,1592,2003
+Georgia,1585,2003
+Qatar,1585,2003
+New Zealand,1578,2003
+Jamaica,1577,2003
+Morocco,1559,2003
+Belarus,1552,2003
+Bolivia,1546,2003
+Iceland,1545,2003
+Ivory Coast,1542,2003
+Guatemala,1530,2003
+Jordan,1526,2003
+Northern Ireland,1524,2003
+Ghana,1506,2003
+Cyprus,1504,2003
+Kenya,1503,2003
+Algeria,1503,2003
+Bosnia and Herzegovina,1501,2003
+Haiti,1499,2003
+North Korea,1499,2003
+El Salvador,1499,2003
+Cuba,1495,2003
+Mali,1493,2003
+Angola,1489,2003
+Liberia,1488,2003
+Kuwait,1484,2003
+Bahrain,1482,2003
+Guinea,1481,2003
+Zimbabwe,1476,2003
+Trinidad and Tobago,1473,2003
+Uzbekistan,1473,2003
+Latvia,1467,2003
+Dem. Rep. of Congo,1466,2003
+Macedonia,1462,2003
+Zambia,1453,2003
+Kazakhstan,1452,2003
+Northern Cyprus,1451,2003
+Togo,1446,2003
+Albania,1445,2003
+Martinique,1444,2003
+Estonia,1437,2003
+Tajikistan,1436,2003
+Oman,1436,2003
+Thailand,1426,2003
+Madagascar,1424,2003
+Turkmenistan,1423,2003
+Armenia,1416,2003
+Burkina Faso,1414,2003
+United Arab Emirates,1409,2003
+Syria,1407,2003
+Gabon,1397,2003
+Uganda,1396,2003
+Panama,1396,2003
+Congo,1391,2003
+Sudan,1382,2003
+Fiji,1380,2003
+Libya,1378,2003
+Kosovo,1378,2003
+Lithuania,1378,2003
+Saint Kitts and Nevis,1375,2003
+Tahiti,1374,2003
+Guadeloupe,1366,2003
+Gambia,1360,2003
+Lebanon,1358,2003
+Sierra Leone,1353,2003
+Moldova,1352,2003
+Indonesia,1349,2003
+Malawi,1349,2003
+Barbados,1343,2003
+Rwanda,1329,2003
+Cape Verde,1329,2003
+Niger,1326,2003
+Azerbaijan,1308,2003
+Burundi,1300,2003
+Suriname,1293,2003
+Tanzania,1290,2003
+Vietnam,1288,2003
+Benin,1287,2003
+Malaysia,1285,2003
+Bermuda,1280,2003
+Reunion,1279,2003
+Ethiopia,1269,2003
+Chad,1269,2003
+Saint Lucia,1266,2003
+Grenada,1258,2003
+Saint Vincent and the Grenadines,1257,2003
+Palestine,1257,2003
+Faroe Islands,1253,2003
+Swaziland,1246,2003
+Solomon Islands,1246,2003
+Mozambique,1243,2003
+Malta,1240,2003
+Guinea-Bissau,1239,2003
+Central African Republic,1231,2003
+Mauritius,1230,2003
+Mayotte,1212,2003
+Namibia,1199,2003
+Yemen,1182,2003
+Singapore,1179,2003
+Eritrea,1178,2003
+Hong Kong,1172,2003
+Kyrgyzstan,1166,2003
+Zanzibar,1154,2003
+Netherlands Antilles,1153,2003
+Botswana,1153,2003
+Vanuatu,1152,2003
+Lesotho,1137,2003
+India,1133,2003
+Belize,1132,2003
+Myanmar,1126,2003
+French Guiana,1116,2003
+Mauritania,1114,2003
+Antigua and Barbuda,1107,2003
+Cayman Islands,1106,2003
+Bonaire,1103,2003
+Dominican Republic,1103,2003
+Luxembourg,1102,2003
+Guyana,1100,2003
+New Caledonia,1097,2003
+Papua New Guinea,1088,2003
+São Tomé e Príncipe,1078,2003
+Andorra,1075,2003
+Liechtenstein,1070,2003
+Somalia,1067,2003
+Gibraltar,1052,2003
+Dominica,1050,2003
+Saint Martin,1049,2003
+Chinese Taipei,1024,2003
+Equatorial Guinea,1018,2003
+Bangladesh,1012,2003
+Greenland,1008,2003
+Seychelles,995,2003
+Aruba,957,2003
+San Marino,945,2003
+Sint Maarten,931,2003
+Nicaragua,914,2003
+Sri Lanka,914,2003
+Monaco,903,2003
+Macau,902,2003
+Laos,898,2003
+Maldives,894,2003
+Nepal,882,2003
+Puerto Rico,875,2003
+Djibouti,872,2003
+Cambodia,866,2003
+Afghanistan,862,2003
+British Virgin Islands,856,2003
+Bahamas,851,2003
+Comoros,847,2003
+Mongolia,807,2003
+Pakistan,782,2003
+Turks and Caicos,767,2003
+Tuvalu,752,2003
+Brunei,726,2003
+Vatican,705,2003
+Samoa,704,2003
+Cook Islands,703,2003
+Wallis and Futuna,701,2003
+US Virgin Islands,691,2003
+Philippines,683,2003
+Tibet,676,2003
+Tonga,660,2003
+Guam,660,2003
+Northern Mariana Islands,636,2003
+Micronesia,618,2003
+Kiribati,599,2003
+Falkland Islands,593,2003
+Bhutan,574,2003
+Montserrat,546,2003
+Anguilla,540,2003
+Niue,496,2003
+Palau,403,2003
+American Samoa,382,2003
+France,2052,2004
+Argentina,2017,2004
+Spain,2006,2004
+Netherlands,1992,2004
+Brazil,1991,2004
+Czech Republic,1983,2004
+England,1955,2004
+Italy,1924,2004
+Portugal,1919,2004
+Denmark,1896,2004
+Germany,1882,2004
+Uruguay,1862,2004
+Mexico,1848,2004
+Turkey,1842,2004
+Ireland,1833,2004
+United States,1832,2004
+Australia,1828,2004
+Croatia,1828,2004
+Belgium,1804,2004
+Romania,1804,2004
+Sweden,1803,2004
+Paraguay,1793,2004
+Greece,1793,2004
+Cameroon,1787,2004
+Russia,1781,2004
+Japan,1779,2004
+Bulgaria,1765,2004
+Senegal,1753,2004
+Poland,1742,2004
+Nigeria,1738,2004
+Serbia and Montenegro,1735,2004
+Costa Rica,1734,2004
+Switzerland,1726,2004
+Ecuador,1716,2004
+Iran,1714,2004
+Norway,1710,2004
+Finland,1707,2004
+Colombia,1704,2004
+Egypt,1703,2004
+South Korea,1693,2004
+Peru,1690,2004
+Scotland,1680,2004
+Saudi Arabia,1675,2004
+Austria,1675,2004
+Slovakia,1668,2004
+Honduras,1666,2004
+Slovenia,1665,2004
+Ukraine,1658,2004
+Israel,1651,2004
+Tunisia,1649,2004
+South Africa,1646,2004
+Venezuela,1636,2004
+Chile,1630,2004
+Wales,1617,2004
+Iraq,1615,2004
+Bosnia and Herzegovina,1599,2004
+Jamaica,1599,2004
+Canada,1594,2004
+Iceland,1590,2004
+Bolivia,1588,2004
+Jordan,1581,2004
+Ivory Coast,1579,2004
+Morocco,1574,2004
+China,1570,2004
+Georgia,1565,2004
+Oman,1557,2004
+Mali,1555,2004
+Guatemala,1545,2004
+Latvia,1543,2004
+Cuba,1542,2004
+New Zealand,1529,2004
+Hungary,1527,2004
+Algeria,1526,2004
+Kuwait,1522,2004
+Qatar,1522,2004
+Belarus,1518,2004
+Guinea,1516,2004
+Albania,1515,2004
+Bahrain,1509,2004
+Dem. Rep. of Congo,1509,2004
+El Salvador,1509,2004
+Uzbekistan,1502,2004
+Zimbabwe,1486,2004
+Macedonia,1477,2004
+Haiti,1475,2004
+Kenya,1474,2004
+Northern Ireland,1469,2004
+Cyprus,1468,2004
+Angola,1464,2004
+Ghana,1453,2004
+Northern Cyprus,1451,2004
+United Arab Emirates,1449,2004
+Turkmenistan,1448,2004
+Zambia,1448,2004
+Burkina Faso,1447,2004
+Thailand,1444,2004
+Armenia,1443,2004
+Togo,1430,2004
+Tajikistan,1428,2004
+North Korea,1426,2004
+Lithuania,1425,2004
+Martinique,1422,2004
+Liberia,1422,2004
+Uganda,1421,2004
+Kazakhstan,1420,2004
+Trinidad and Tobago,1418,2004
+Estonia,1416,2004
+Moldova,1415,2004
+Congo,1398,2004
+Fiji,1398,2004
+Panama,1394,2004
+Libya,1392,2004
+Barbados,1388,2004
+Kosovo,1378,2004
+Sudan,1372,2004
+Saint Kitts and Nevis,1370,2004
+Syria,1365,2004
+Guadeloupe,1354,2004
+Gabon,1353,2004
+Gambia,1350,2004
+Cape Verde,1347,2004
+Azerbaijan,1347,2004
+Indonesia,1344,2004
+Lebanon,1342,2004
+Benin,1340,2004
+Malawi,1322,2004
+Sierra Leone,1321,2004
+Rwanda,1315,2004
+Niger,1308,2004
+Mauritius,1301,2004
+Chad,1297,2004
+Suriname,1293,2004
+Vietnam,1292,2004
+Tahiti,1287,2004
+Ethiopia,1281,2004
+Saint Lucia,1278,2004
+Reunion,1276,2004
+Madagascar,1267,2004
+Malaysia,1266,2004
+Grenada,1258,2004
+Saint Vincent and the Grenadines,1257,2004
+Burundi,1253,2004
+Solomon Islands,1251,2004
+Bermuda,1250,2004
+Mozambique,1250,2004
+Central African Republic,1237,2004
+Malta,1232,2004
+Faroe Islands,1231,2004
+Palestine,1230,2004
+Botswana,1227,2004
+Tanzania,1225,2004
+Guinea-Bissau,1224,2004
+Mayotte,1216,2004
+Vanuatu,1208,2004
+Swaziland,1193,2004
+New Caledonia,1187,2004
+Singapore,1180,2004
+Hong Kong,1178,2004
+Kyrgyzstan,1172,2004
+Yemen,1171,2004
+Lesotho,1171,2004
+Namibia,1161,2004
+India,1154,2004
+Zanzibar,1154,2004
+Mauritania,1153,2004
+Netherlands Antilles,1153,2004
+Myanmar,1148,2004
+Eritrea,1145,2004
+Belize,1132,2004
+French Guiana,1117,2004
+Cayman Islands,1106,2004
+Dominican Republic,1103,2004
+Bonaire,1103,2004
+Guyana,1100,2004
+Luxembourg,1086,2004
+Antigua and Barbuda,1086,2004
+Equatorial Guinea,1080,2004
+Gibraltar,1078,2004
+Liechtenstein,1073,2004
+Chinese Taipei,1071,2004
+Somalia,1059,2004
+Andorra,1051,2004
+São Tomé e Príncipe,1050,2004
+Dominica,1050,2004
+Seychelles,1050,2004
+Saint Martin,1049,2004
+Papua New Guinea,1030,2004
+Bangladesh,1012,2004
+Greenland,982,2004
+Sri Lanka,959,2004
+Aruba,957,2004
+Nicaragua,948,2004
+Maldives,946,2004
+San Marino,944,2004
+Sint Maarten,931,2004
+Monaco,903,2004
+Laos,891,2004
+Puerto Rico,875,2004
+Djibouti,872,2004
+Cambodia,866,2004
+British Virgin Islands,856,2004
+Nepal,854,2004
+Pakistan,850,2004
+Bahamas,850,2004
+Macau,831,2004
+Comoros,827,2004
+Afghanistan,817,2004
+Turks and Caicos,767,2004
+Mongolia,755,2004
+Tuvalu,755,2004
+Brunei,732,2004
+Tonga,706,2004
+Vatican,705,2004
+Samoa,704,2004
+Cook Islands,703,2004
+Wallis and Futuna,701,2004
+US Virgin Islands,691,2004
+Timor-Leste,686,2004
+Philippines,683,2004
+Tibet,676,2004
+Northern Mariana Islands,636,2004
+Falkland Islands,593,2004
+Bhutan,587,2004
+Kiribati,579,2004
+Micronesia,565,2004
+Guam,562,2004
+Montserrat,546,2004
+Anguilla,540,2004
+Niue,496,2004
+Palau,403,2004
+American Samoa,382,2004
+Argentina,2028,2005
+Czech Republic,1988,2005
+France,1987,2005
+England,1977,2005
+Brazil,1973,2005
+Spain,1966,2005
+Netherlands,1941,2005
+Italy,1907,2005
+Portugal,1902,2005
+Mexico,1886,2005
+Germany,1883,2005
+Greece,1882,2005
+Sweden,1873,2005
+Denmark,1864,2005
+Ireland,1861,2005
+Japan,1846,2005
+Croatia,1838,2005
+Romania,1836,2005
+United States,1829,2005
+Uruguay,1820,2005
+Australia,1810,2005
+Poland,1801,2005
+Colombia,1800,2005
+Iran,1797,2005
+Norway,1796,2005
+Turkey,1796,2005
+Paraguay,1774,2005
+Serbia and Montenegro,1772,2005
+Russia,1757,2005
+Nigeria,1756,2005
+Ukraine,1739,2005
+Bulgaria,1731,2005
+Belgium,1726,2005
+South Korea,1712,2005
+Cameroon,1704,2005
+Senegal,1693,2005
+Switzerland,1691,2005
+Costa Rica,1690,2005
+Israel,1686,2005
+Finland,1686,2005
+Peru,1682,2005
+Morocco,1674,2005
+Ecuador,1666,2005
+Slovakia,1666,2005
+Slovenia,1664,2005
+Ivory Coast,1662,2005
+Chile,1654,2005
+Egypt,1648,2005
+Austria,1647,2005
+Honduras,1645,2005
+Jamaica,1626,2005
+Tunisia,1624,2005
+Wales,1624,2005
+Bosnia and Herzegovina,1622,2005
+Venezuela,1622,2005
+Oman,1619,2005
+Guatemala,1615,2005
+Belarus,1614,2005
+China,1611,2005
+Uzbekistan,1608,2005
+Hungary,1607,2005
+Scotland,1605,2005
+Cuba,1589,2005
+Bahrain,1589,2005
+Bolivia,1589,2005
+South Africa,1586,2005
+Jordan,1578,2005
+Saudi Arabia,1570,2005
+Canada,1562,2005
+Libya,1544,2005
+Angola,1541,2005
+Albania,1540,2005
+Georgia,1528,2005
+Guinea,1527,2005
+Iceland,1526,2005
+Qatar,1526,2005
+New Zealand,1525,2005
+Mali,1525,2005
+Panama,1516,2005
+Trinidad and Tobago,1509,2005
+Northern Ireland,1507,2005
+Togo,1507,2005
+Iraq,1504,2005
+Kuwait,1502,2005
+Macedonia,1501,2005
+Zimbabwe,1497,2005
+Zambia,1493,2005
+Latvia,1492,2005
+Haiti,1487,2005
+Ghana,1484,2005
+North Korea,1462,2005
+Lithuania,1458,2005
+Northern Cyprus,1451,2005
+Syria,1449,2005
+Dem. Rep. of Congo,1444,2005
+Cyprus,1440,2005
+Kenya,1431,2005
+Algeria,1426,2005
+Armenia,1424,2005
+Gabon,1415,2005
+El Salvador,1405,2005
+Congo,1402,2005
+Moldova,1401,2005
+United Arab Emirates,1398,2005
+Burkina Faso,1392,2005
+Azerbaijan,1391,2005
+Estonia,1382,2005
+Liberia,1382,2005
+Kosovo,1378,2005
+Sudan,1370,2005
+Solomon Islands,1367,2005
+Tajikistan,1365,2005
+Cape Verde,1360,2005
+Martinique,1359,2005
+Turkmenistan,1358,2005
+Guadeloupe,1355,2005
+Kazakhstan,1350,2005
+Gambia,1350,2005
+Rwanda,1348,2005
+Ethiopia,1346,2005
+Saint Vincent and the Grenadines,1343,2005
+Lebanon,1343,2005
+Uganda,1337,2005
+Mauritius,1335,2005
+Indonesia,1322,2005
+Sierra Leone,1321,2005
+Barbados,1318,2005
+Thailand,1317,2005
+Fiji,1313,2005
+Burundi,1311,2005
+Niger,1308,2005
+Botswana,1300,2005
+Chad,1297,2005
+Malawi,1292,2005
+Benin,1282,2005
+Mozambique,1279,2005
+Reunion,1276,2005
+Saint Lucia,1267,2005
+Palestine,1263,2005
+Faroe Islands,1255,2005
+Malta,1246,2005
+Tahiti,1246,2005
+Saint Kitts and Nevis,1246,2005
+Madagascar,1245,2005
+Suriname,1242,2005
+Vanuatu,1238,2005
+Central African Republic,1237,2005
+Grenada,1234,2005
+Malaysia,1228,2005
+Guinea-Bissau,1224,2005
+Singapore,1222,2005
+Mayotte,1216,2005
+Hong Kong,1206,2005
+French Guiana,1205,2005
+Vietnam,1198,2005
+Yemen,1197,2005
+Kyrgyzstan,1192,2005
+Swaziland,1190,2005
+New Caledonia,1189,2005
+Netherlands Antilles,1185,2005
+India,1181,2005
+Bermuda,1178,2005
+Lesotho,1169,2005
+Namibia,1156,2005
+Mauritania,1153,2005
+Zanzibar,1149,2005
+Eritrea,1145,2005
+Myanmar,1143,2005
+Tanzania,1133,2005
+Belize,1126,2005
+Liechtenstein,1106,2005
+Bonaire,1103,2005
+Antigua and Barbuda,1099,2005
+Andorra,1093,2005
+Guyana,1082,2005
+Cayman Islands,1081,2005
+Equatorial Guinea,1080,2005
+Gibraltar,1078,2005
+Dominican Republic,1062,2005
+Seychelles,1050,2005
+São Tomé e Príncipe,1050,2005
+Papua New Guinea,1048,2005
+Dominica,1036,2005
+Somalia,1035,2005
+Saint Martin,1026,2005
+Chinese Taipei,1015,2005
+Luxembourg,1012,2005
+Bangladesh,1012,2005
+Nicaragua,1005,2005
+Maldives,993,2005
+Sri Lanka,983,2005
+Greenland,982,2005
+San Marino,946,2005
+Aruba,936,2005
+Sint Maarten,931,2005
+Monaco,903,2005
+British Virgin Islands,900,2005
+Puerto Rico,883,2005
+Laos,876,2005
+Djibouti,872,2005
+Nepal,854,2005
+Pakistan,850,2005
+Bahamas,836,2005
+Macau,831,2005
+Cambodia,828,2005
+Comoros,827,2005
+Afghanistan,817,2005
+Turks and Caicos,765,2005
+Tuvalu,755,2005
+Mongolia,755,2005
+Brunei,732,2005
+Tonga,716,2005
+Vatican,705,2005
+Wallis and Futuna,701,2005
+Philippines,696,2005
+Samoa,685,2005
+US Virgin Islands,681,2005
+Tibet,676,2005
+Cook Islands,674,2005
+Timor-Leste,659,2005
+Northern Mariana Islands,636,2005
+Falkland Islands,593,2005
+Bhutan,587,2005
+Kiribati,579,2005
+Micronesia,565,2005
+Guam,562,2005
+Anguilla,557,2005
+Montserrat,540,2005
+Niue,496,2005
+Palau,403,2005
+American Samoa,373,2005
+Brazil,2028,2006
+Netherlands,1996,2006
+France,1975,2006
+Czech Republic,1968,2006
+England,1963,2006
+Spain,1958,2006
+Italy,1939,2006
+Argentina,1932,2006
+Portugal,1909,2006
+Sweden,1903,2006
+Germany,1893,2006
+Denmark,1890,2006
+Croatia,1863,2006
+Romania,1854,2006
+Poland,1847,2006
+Turkey,1845,2006
+United States,1841,2006
+Mexico,1835,2006
+Ireland,1823,2006
+Uruguay,1821,2006
+Greece,1812,2006
+Japan,1811,2006
+Iran,1796,2006
+Serbia and Montenegro,1791,2006
+Switzerland,1779,2006
+Paraguay,1778,2006
+Ukraine,1774,2006
+Australia,1768,2006
+Norway,1766,2006
+Colombia,1763,2006
+Nigeria,1755,2006
+Russia,1750,2006
+Cameroon,1745,2006
+Costa Rica,1732,2006
+Israel,1724,2006
+Honduras,1722,2006
+Bulgaria,1719,2006
+Tunisia,1716,2006
+Egypt,1716,2006
+Ecuador,1714,2006
+Senegal,1705,2006
+Belgium,1700,2006
+Ivory Coast,1697,2006
+South Korea,1687,2006
+Scotland,1683,2006
+Slovakia,1681,2006
+Chile,1680,2006
+Morocco,1670,2006
+Austria,1668,2006
+Peru,1663,2006
+Finland,1660,2006
+Jamaica,1648,2006
+China,1643,2006
+Bosnia and Herzegovina,1630,2006
+Iraq,1611,2006
+Saudi Arabia,1608,2006
+Ghana,1605,2006
+Venezuela,1603,2006
+Slovenia,1598,2006
+Hungary,1595,2006
+Wales,1591,2006
+Belarus,1587,2006
+Togo,1587,2006
+Oman,1583,2006
+Guatemala,1583,2006
+Trinidad and Tobago,1577,2006
+Uzbekistan,1576,2006
+Canada,1565,2006
+Bolivia,1559,2006
+Angola,1547,2006
+Cuba,1545,2006
+Jordan,1541,2006
+Bahrain,1539,2006
+Zambia,1535,2006
+Albania,1531,2006
+New Zealand,1522,2006
+South Africa,1519,2006
+Mali,1517,2006
+Qatar,1514,2006
+Guinea,1512,2006
+Syria,1511,2006
+Iceland,1508,2006
+Zimbabwe,1506,2006
+Northern Ireland,1502,2006
+North Korea,1499,2006
+Georgia,1497,2006
+Libya,1482,2006
+Latvia,1482,2006
+Macedonia,1482,2006
+Haiti,1480,2006
+Panama,1476,2006
+Lithuania,1462,2006
+Cyprus,1462,2006
+Northern Cyprus,1459,2006
+United Arab Emirates,1459,2006
+Dem. Rep. of Congo,1456,2006
+Kuwait,1448,2006
+Ethiopia,1442,2006
+Moldova,1428,2006
+Estonia,1426,2006
+Algeria,1414,2006
+Burkina Faso,1412,2006
+Armenia,1410,2006
+Gabon,1398,2006
+Congo,1382,2006
+El Salvador,1382,2006
+Uganda,1375,2006
+Kosovo,1370,2006
+Kenya,1368,2006
+Martinique,1359,2006
+Guadeloupe,1358,2006
+Solomon Islands,1354,2006
+Turkmenistan,1350,2006
+Azerbaijan,1348,2006
+Saint Vincent and the Grenadines,1344,2006
+Lebanon,1339,2006
+Gambia,1338,2006
+Malawi,1332,2006
+Mauritius,1331,2006
+Singapore,1322,2006
+Sierra Leone,1321,2006
+Fiji,1320,2006
+Kazakhstan,1319,2006
+Rwanda,1317,2006
+Cape Verde,1314,2006
+Sudan,1313,2006
+Botswana,1310,2006
+Niger,1308,2006
+Tajikistan,1308,2006
+Thailand,1302,2006
+Mozambique,1298,2006
+Indonesia,1294,2006
+Benin,1291,2006
+Barbados,1288,2006
+Liberia,1284,2006
+Chad,1280,2006
+Reunion,1268,2006
+Saint Lucia,1267,2006
+Malta,1266,2006
+Saint Kitts and Nevis,1246,2006
+Tahiti,1246,2006
+Guinea-Bissau,1245,2006
+Madagascar,1245,2006
+Suriname,1242,2006
+Vanuatu,1238,2006
+Hong Kong,1232,2006
+Burundi,1230,2006
+Grenada,1225,2006
+Yemen,1221,2006
+Mayotte,1216,2006
+French Guiana,1216,2006
+Central African Republic,1213,2006
+Faroe Islands,1213,2006
+Zanzibar,1209,2006
+Malaysia,1201,2006
+Vietnam,1198,2006
+Swaziland,1195,2006
+Kyrgyzstan,1192,2006
+Palestine,1191,2006
+New Caledonia,1189,2006
+Tanzania,1186,2006
+Netherlands Antilles,1185,2006
+India,1182,2006
+Bermuda,1172,2006
+Namibia,1171,2006
+Mauritania,1153,2006
+Lesotho,1128,2006
+Liechtenstein,1125,2006
+Myanmar,1111,2006
+Antigua and Barbuda,1111,2006
+Guyana,1109,2006
+Andorra,1104,2006
+Bonaire,1103,2006
+Eritrea,1097,2006
+Belize,1093,2006
+Equatorial Guinea,1091,2006
+Gibraltar,1088,2006
+Cayman Islands,1081,2006
+Dominican Republic,1062,2006
+São Tomé e Príncipe,1050,2006
+Papua New Guinea,1048,2006
+Seychelles,1047,2006
+Bangladesh,1044,2006
+Nicaragua,1029,2006
+Maldives,1027,2006
+Saint Martin,1026,2006
+Dominica,1017,2006
+Somalia,1016,2006
+Greenland,982,2006
+Luxembourg,980,2006
+Chinese Taipei,969,2006
+San Marino,940,2006
+Aruba,936,2006
+Sint Maarten,931,2006
+Sri Lanka,909,2006
+British Virgin Islands,900,2006
+Monaco,893,2006
+Pakistan,881,2006
+Puerto Rico,880,2006
+Laos,876,2006
+Djibouti,847,2006
+Nepal,843,2006
+Bahamas,836,2006
+Macau,829,2006
+Comoros,827,2006
+Cambodia,825,2006
+Afghanistan,809,2006
+Mongolia,779,2006
+Turks and Caicos,765,2006
+Tuvalu,755,2006
+Brunei,732,2006
+Tonga,716,2006
+Vatican,705,2006
+Wallis and Futuna,701,2006
+Philippines,696,2006
+Samoa,685,2006
+US Virgin Islands,681,2006
+Tibet,676,2006
+Cook Islands,674,2006
+Timor-Leste,659,2006
+Northern Mariana Islands,636,2006
+Falkland Islands,593,2006
+Kiribati,579,2006
+Bhutan,567,2006
+Micronesia,565,2006
+Anguilla,557,2006
+Montserrat,540,2006
+Guam,537,2006
+Niue,496,2006
+Palau,403,2006
+American Samoa,373,2006
+Brazil,2080,2007
+France,2062,2007
+Italy,2020,2007
+Netherlands,1991,2007
+Argentina,1980,2007
+Germany,1976,2007
+England,1960,2007
+Denmark,1903,2007
+Croatia,1897,2007
+Portugal,1895,2007
+Czech Republic,1887,2007
+Spain,1885,2007
+Romania,1873,2007
+Sweden,1871,2007
+Switzerland,1846,2007
+Turkey,1844,2007
+Greece,1839,2007
+Uruguay,1822,2007
+Mexico,1817,2007
+Ukraine,1806,2007
+Colombia,1790,2007
+Cameroon,1788,2007
+Nigeria,1784,2007
+Poland,1780,2007
+United States,1775,2007
+Ivory Coast,1772,2007
+Russia,1772,2007
+Iran,1768,2007
+Norway,1766,2007
+Australia,1763,2007
+Serbia,1761,2007
+Paraguay,1761,2007
+Ecuador,1760,2007
+Ghana,1754,2007
+Ireland,1747,2007
+Scotland,1739,2007
+Honduras,1738,2007
+Bulgaria,1737,2007
+Chile,1736,2007
+Japan,1730,2007
+Egypt,1725,2007
+Slovakia,1717,2007
+Israel,1713,2007
+Finland,1685,2007
+Belgium,1675,2007
+South Korea,1668,2007
+Senegal,1654,2007
+Morocco,1652,2007
+Tunisia,1643,2007
+Costa Rica,1632,2007
+Peru,1631,2007
+Austria,1629,2007
+Venezuela,1625,2007
+Jamaica,1610,2007
+Saudi Arabia,1603,2007
+China,1598,2007
+Iraq,1598,2007
+Angola,1591,2007
+Canada,1589,2007
+Hungary,1584,2007
+Guinea,1582,2007
+Cuba,1579,2007
+Oman,1576,2007
+Wales,1575,2007
+Uzbekistan,1570,2007
+Bolivia,1565,2007
+Belarus,1562,2007
+Slovenia,1562,2007
+Bosnia and Herzegovina,1562,2007
+Jordan,1556,2007
+Mali,1553,2007
+Trinidad and Tobago,1551,2007
+Qatar,1549,2007
+Zambia,1548,2007
+Guatemala,1545,2007
+Northern Ireland,1537,2007
+Macedonia,1532,2007
+Georgia,1527,2007
+New Zealand,1520,2007
+Albania,1509,2007
+Cyprus,1506,2007
+Lithuania,1505,2007
+Panama,1503,2007
+Iceland,1497,2007
+North Korea,1494,2007
+United Arab Emirates,1490,2007
+Kuwait,1486,2007
+Latvia,1486,2007
+Bahrain,1485,2007
+Syria,1483,2007
+South Africa,1477,2007
+Dem. Rep. of Congo,1474,2007
+Northern Cyprus,1468,2007
+Zimbabwe,1462,2007
+Libya,1443,2007
+Haiti,1443,2007
+Togo,1437,2007
+Burkina Faso,1425,2007
+Moldova,1419,2007
+Algeria,1418,2007
+Estonia,1407,2007
+Ethiopia,1402,2007
+Uganda,1395,2007
+Guadeloupe,1395,2007
+Gabon,1392,2007
+Armenia,1385,2007
+Martinique,1377,2007
+Kosovo,1373,2007
+El Salvador,1371,2007
+Congo,1370,2007
+Sudan,1370,2007
+Saint Vincent and the Grenadines,1360,2007
+Solomon Islands,1354,2007
+Azerbaijan,1350,2007
+Turkmenistan,1350,2007
+Gambia,1347,2007
+Thailand,1344,2007
+Lebanon,1344,2007
+Guyana,1332,2007
+Kazakhstan,1327,2007
+Tajikistan,1327,2007
+Cape Verde,1324,2007
+Fiji,1320,2007
+Barbados,1318,2007
+Kenya,1317,2007
+Malawi,1314,2007
+Niger,1310,2007
+Tanzania,1306,2007
+Botswana,1305,2007
+Rwanda,1301,2007
+Sierra Leone,1300,2007
+Singapore,1286,2007
+Mozambique,1281,2007
+Indonesia,1281,2007
+Benin,1280,2007
+Liberia,1279,2007
+Reunion,1277,2007
+Mauritius,1260,2007
+Burundi,1259,2007
+Malta,1258,2007
+Chad,1254,2007
+Yemen,1249,2007
+Tahiti,1246,2007
+Guinea-Bissau,1245,2007
+Hong Kong,1239,2007
+Vanuatu,1238,2007
+Suriname,1234,2007
+Saint Kitts and Nevis,1229,2007
+Palestine,1225,2007
+Central African Republic,1223,2007
+Vietnam,1220,2007
+French Guiana,1216,2007
+Zanzibar,1211,2007
+Mayotte,1207,2007
+Namibia,1205,2007
+Bermuda,1204,2007
+Mauritania,1195,2007
+Kyrgyzstan,1193,2007
+New Caledonia,1189,2007
+Saint Lucia,1185,2007
+Grenada,1184,2007
+Swaziland,1184,2007
+Equatorial Guinea,1183,2007
+Malaysia,1182,2007
+Madagascar,1182,2007
+Faroe Islands,1179,2007
+Myanmar,1161,2007
+Eritrea,1130,2007
+Lesotho,1121,2007
+India,1117,2007
+Netherlands Antilles,1114,2007
+Liechtenstein,1114,2007
+Seychelles,1106,2007
+Bonaire,1103,2007
+Belize,1093,2007
+Andorra,1092,2007
+Gibraltar,1089,2007
+Dominican Republic,1072,2007
+Antigua and Barbuda,1066,2007
+São Tomé e Príncipe,1050,2007
+Papua New Guinea,1048,2007
+Nicaragua,1029,2007
+Maldives,1027,2007
+Saint Martin,1012,2007
+Bangladesh,996,2007
+Luxembourg,992,2007
+Dominica,991,2007
+Cayman Islands,982,2007
+Greenland,967,2007
+Somalia,954,2007
+Sri Lanka,943,2007
+San Marino,937,2007
+Aruba,936,2007
+Sint Maarten,931,2007
+Chinese Taipei,925,2007
+Laos,916,2007
+British Virgin Islands,900,2007
+Pakistan,890,2007
+Monaco,890,2007
+Bahamas,882,2007
+Puerto Rico,880,2007
+Comoros,855,2007
+Nepal,838,2007
+Macau,814,2007
+Afghanistan,811,2007
+Cambodia,811,2007
+Djibouti,802,2007
+Turks and Caicos,797,2007
+Mongolia,779,2007
+Tuvalu,755,2007
+Philippines,754,2007
+Tonga,716,2007
+Brunei,710,2007
+Vatican,705,2007
+Wallis and Futuna,701,2007
+Samoa,685,2007
+Cook Islands,674,2007
+Tibet,668,2007
+US Virgin Islands,659,2007
+Northern Mariana Islands,636,2007
+Falkland Islands,593,2007
+Timor-Leste,590,2007
+Kiribati,579,2007
+Micronesia,565,2007
+Bhutan,563,2007
+Anguilla,554,2007
+Montserrat,540,2007
+Guam,533,2007
+Niue,496,2007
+Palau,403,2007
+American Samoa,373,2007
+Brazil,2077,2008
+Italy,2032,2008
+France,2013,2008
+Argentina,2012,2008
+Spain,1965,2008
+Netherlands,1948,2008
+Czech Republic,1946,2008
+Germany,1943,2008
+Romania,1910,2008
+England,1909,2008
+Croatia,1894,2008
+Mexico,1883,2008
+Portugal,1878,2008
+Paraguay,1845,2008
+Colombia,1839,2008
+Greece,1836,2008
+Denmark,1823,2008
+Turkey,1815,2008
+Switzerland,1807,2008
+Sweden,1800,2008
+Uruguay,1796,2008
+Bulgaria,1791,2008
+Russia,1787,2008
+Poland,1782,2008
+Japan,1781,2008
+Iran,1779,2008
+Norway,1771,2008
+Ireland,1771,2008
+United States,1764,2008
+Ghana,1762,2008
+Scotland,1761,2008
+Ivory Coast,1754,2008
+Nigeria,1753,2008
+Serbia,1752,2008
+Israel,1743,2008
+Cameroon,1738,2008
+Australia,1731,2008
+Ukraine,1731,2008
+Chile,1727,2008
+Finland,1688,2008
+Egypt,1683,2008
+Morocco,1679,2008
+Ecuador,1673,2008
+Montenegro,1671,2008
+Venezuela,1670,2008
+Honduras,1664,2008
+South Korea,1660,2008
+Saudi Arabia,1656,2008
+Senegal,1655,2008
+Slovakia,1654,2008
+Iraq,1643,2008
+Belgium,1642,2008
+Costa Rica,1638,2008
+Tunisia,1637,2008
+Peru,1632,2008
+Wales,1628,2008
+Canada,1627,2008
+Guinea,1618,2008
+Austria,1598,2008
+Lithuania,1581,2008
+Northern Ireland,1580,2008
+Hungary,1571,2008
+Panama,1570,2008
+China,1570,2008
+Mali,1568,2008
+Belarus,1566,2008
+Zambia,1565,2008
+Jamaica,1562,2008
+Macedonia,1556,2008
+Uzbekistan,1556,2008
+Bolivia,1555,2008
+Haiti,1548,2008
+New Zealand,1547,2008
+Slovenia,1542,2008
+Bosnia and Herzegovina,1540,2008
+Oman,1539,2008
+Georgia,1537,2008
+Cyprus,1533,2008
+Angola,1529,2008
+Syria,1523,2008
+Jordan,1519,2008
+Guatemala,1506,2008
+Moldova,1504,2008
+Trinidad and Tobago,1500,2008
+Cuba,1499,2008
+Albania,1488,2008
+South Africa,1485,2008
+North Korea,1478,2008
+Latvia,1470,2008
+Qatar,1469,2008
+Libya,1465,2008
+Kuwait,1460,2008
+Zimbabwe,1457,2008
+Dem. Rep. of Congo,1456,2008
+Northern Cyprus,1454,2008
+Guadeloupe,1452,2008
+Bahrain,1451,2008
+Sudan,1449,2008
+Togo,1449,2008
+United Arab Emirates,1444,2008
+Thailand,1438,2008
+Gabon,1430,2008
+Armenia,1420,2008
+Congo,1416,2008
+Algeria,1406,2008
+Iceland,1405,2008
+Estonia,1402,2008
+Uganda,1400,2008
+Kosovo,1389,2008
+Benin,1385,2008
+Martinique,1377,2008
+Kazakhstan,1376,2008
+El Salvador,1375,2008
+Azerbaijan,1369,2008
+Turkmenistan,1360,2008
+Mozambique,1357,2008
+Singapore,1352,2008
+Gambia,1350,2008
+Guyana,1342,2008
+Saint Vincent and the Grenadines,1338,2008
+Burkina Faso,1338,2008
+Lebanon,1336,2008
+Rwanda,1336,2008
+Tanzania,1334,2008
+Kenya,1324,2008
+New Caledonia,1323,2008
+Botswana,1322,2008
+Ethiopia,1318,2008
+Solomon Islands,1310,2008
+Cape Verde,1306,2008
+Barbados,1302,2008
+Tajikistan,1287,2008
+Vietnam,1284,2008
+Burundi,1281,2008
+Namibia,1281,2008
+Zanzibar,1278,2008
+Malawi,1276,2008
+Indonesia,1276,2008
+Niger,1269,2008
+Fiji,1265,2008
+Chad,1257,2008
+Reunion,1251,2008
+Guinea-Bissau,1246,2008
+Malta,1244,2008
+Equatorial Guinea,1242,2008
+Liberia,1239,2008
+Suriname,1234,2008
+Vanuatu,1228,2008
+Mauritania,1225,2008
+Madagascar,1224,2008
+Sierra Leone,1223,2008
+Yemen,1215,2008
+French Guiana,1210,2008
+Saint Kitts and Nevis,1206,2008
+Hong Kong,1201,2008
+Tahiti,1196,2008
+Kyrgyzstan,1195,2008
+Liechtenstein,1193,2008
+Eritrea,1191,2008
+Palestine,1189,2008
+Saint Lucia,1185,2008
+Grenada,1184,2008
+Mauritius,1184,2008
+Mayotte,1183,2008
+Central African Republic,1181,2008
+India,1179,2008
+Swaziland,1169,2008
+Myanmar,1165,2008
+Faroe Islands,1162,2008
+Malaysia,1149,2008
+Bermuda,1141,2008
+Lesotho,1135,2008
+Gibraltar,1126,2008
+Netherlands Antilles,1114,2008
+Bonaire,1103,2008
+Antigua and Barbuda,1085,2008
+Seychelles,1075,2008
+Dominican Republic,1072,2008
+Andorra,1069,2008
+Maldives,1060,2008
+Nicaragua,1056,2008
+Belize,1051,2008
+São Tomé e Príncipe,1050,2008
+Papua New Guinea,1046,2008
+Luxembourg,1037,2008
+Dominica,998,2008
+Saint Martin,997,2008
+Cayman Islands,982,2008
+Chinese Taipei,982,2008
+Greenland,967,2008
+Bangladesh,964,2008
+Sri Lanka,941,2008
+Aruba,936,2008
+Sint Maarten,931,2008
+San Marino,925,2008
+British Virgin Islands,915,2008
+Somalia,914,2008
+Pakistan,908,2008
+Monaco,890,2008
+Bahamas,882,2008
+Puerto Rico,880,2008
+Laos,875,2008
+Comoros,844,2008
+Nepal,836,2008
+Djibouti,811,2008
+Afghanistan,809,2008
+Cambodia,801,2008
+Mongolia,798,2008
+Turks and Caicos,797,2008
+Macau,764,2008
+Philippines,763,2008
+Tuvalu,721,2008
+Cook Islands,711,2008
+Brunei,710,2008
+Tonga,705,2008
+Vatican,705,2008
+Samoa,702,2008
+Wallis and Futuna,701,2008
+US Virgin Islands,659,2008
+Tibet,631,2008
+Bhutan,600,2008
+Falkland Islands,593,2008
+Timor-Leste,588,2008
+Kiribati,579,2008
+Guam,571,2008
+Micronesia,565,2008
+Northern Mariana Islands,563,2008
+Anguilla,554,2008
+Montserrat,540,2008
+Niue,496,2008
+Palau,403,2008
+American Samoa,354,2008
+Spain,2101,2009
+Netherlands,2028,2009
+Brazil,2017,2009
+Italy,2005,2009
+England,1987,2009
+Argentina,1973,2009
+Germany,1966,2009
+France,1893,2009
+Russia,1882,2009
+Croatia,1881,2009
+Paraguay,1855,2009
+Czech Republic,1849,2009
+Romania,1837,2009
+Mexico,1835,2009
+Uruguay,1831,2009
+Turkey,1830,2009
+Denmark,1829,2009
+Portugal,1821,2009
+United States,1806,2009
+Chile,1799,2009
+Switzerland,1792,2009
+Bulgaria,1786,2009
+Ukraine,1779,2009
+Japan,1775,2009
+Serbia,1774,2009
+Ireland,1774,2009
+Greece,1773,2009
+Iran,1770,2009
+Egypt,1764,2009
+Sweden,1759,2009
+Australia,1756,2009
+Poland,1751,2009
+Colombia,1748,2009
+Cameroon,1748,2009
+Israel,1745,2009
+Nigeria,1740,2009
+Honduras,1725,2009
+South Korea,1723,2009
+Scotland,1722,2009
+Ivory Coast,1710,2009
+Norway,1707,2009
+Ecuador,1703,2009
+Costa Rica,1699,2009
+Ghana,1693,2009
+Montenegro,1685,2009
+Finland,1671,2009
+Morocco,1660,2009
+Venezuela,1659,2009
+Wales,1653,2009
+Saudi Arabia,1650,2009
+Jamaica,1636,2009
+Belgium,1633,2009
+Lithuania,1631,2009
+Slovakia,1630,2009
+Hungary,1621,2009
+Tunisia,1619,2009
+Peru,1611,2009
+Bolivia,1605,2009
+Iraq,1597,2009
+Guinea,1582,2009
+Slovenia,1581,2009
+Bosnia and Herzegovina,1575,2009
+Belarus,1569,2009
+Oman,1568,2009
+Austria,1566,2009
+Canada,1566,2009
+Trinidad and Tobago,1565,2009
+Macedonia,1560,2009
+Uzbekistan,1552,2009
+Northern Ireland,1548,2009
+Panama,1545,2009
+Senegal,1544,2009
+Syria,1541,2009
+Cyprus,1535,2009
+South Africa,1535,2009
+Mali,1534,2009
+China,1531,2009
+New Zealand,1526,2009
+Zambia,1525,2009
+Latvia,1525,2009
+North Korea,1524,2009
+Bahrain,1520,2009
+Jordan,1519,2009
+Georgia,1514,2009
+Guatemala,1513,2009
+Gabon,1507,2009
+Qatar,1507,2009
+Albania,1505,2009
+Angola,1503,2009
+Libya,1497,2009
+El Salvador,1486,2009
+Guadeloupe,1456,2009
+Northern Cyprus,1454,2009
+Iceland,1450,2009
+Cuba,1448,2009
+Algeria,1443,2009
+Togo,1441,2009
+Dem. Rep. of Congo,1438,2009
+Moldova,1437,2009
+Uganda,1433,2009
+Kuwait,1428,2009
+Thailand,1426,2009
+Burkina Faso,1423,2009
+United Arab Emirates,1421,2009
+Estonia,1417,2009
+Haiti,1416,2009
+Sudan,1414,2009
+Armenia,1412,2009
+Benin,1409,2009
+Zimbabwe,1404,2009
+Congo,1403,2009
+Kenya,1398,2009
+Mozambique,1396,2009
+Gambia,1393,2009
+Rwanda,1390,2009
+Kosovo,1389,2009
+Martinique,1371,2009
+Azerbaijan,1367,2009
+Tanzania,1366,2009
+Singapore,1365,2009
+Kazakhstan,1352,2009
+Malawi,1338,2009
+Vietnam,1334,2009
+Ethiopia,1328,2009
+Cape Verde,1323,2009
+Fiji,1323,2009
+Reunion,1314,2009
+Turkmenistan,1311,2009
+New Caledonia,1310,2009
+Grenada,1305,2009
+Namibia,1303,2009
+Barbados,1295,2009
+Botswana,1290,2009
+Solomon Islands,1287,2009
+Zanzibar,1285,2009
+Lebanon,1281,2009
+Tajikistan,1273,2009
+Madagascar,1267,2009
+Saint Vincent and the Grenadines,1263,2009
+Chad,1255,2009
+India,1253,2009
+Sierra Leone,1252,2009
+Burundi,1248,2009
+Liberia,1247,2009
+Guyana,1247,2009
+Guinea-Bissau,1246,2009
+Suriname,1244,2009
+Niger,1242,2009
+Antigua and Barbuda,1239,2009
+Indonesia,1238,2009
+Vanuatu,1230,2009
+Yemen,1230,2009
+Malta,1222,2009
+Equatorial Guinea,1220,2009
+Hong Kong,1208,2009
+Eritrea,1191,2009
+French Guiana,1191,2009
+Palestine,1189,2009
+Liechtenstein,1185,2009
+Central African Republic,1181,2009
+Tahiti,1174,2009
+Swaziland,1170,2009
+Faroe Islands,1169,2009
+Myanmar,1167,2009
+Kyrgyzstan,1161,2009
+Malaysia,1161,2009
+Bermuda,1153,2009
+Mauritania,1149,2009
+Netherlands Antilles,1146,2009
+Mayotte,1131,2009
+Saint Lucia,1128,2009
+Lesotho,1127,2009
+Gibraltar,1126,2009
+Saint Kitts and Nevis,1114,2009
+Bonaire,1103,2009
+Maldives,1099,2009
+Belize,1096,2009
+Luxembourg,1095,2009
+Seychelles,1080,2009
+Mauritius,1060,2009
+São Tomé e Príncipe,1050,2009
+Andorra,1048,2009
+Papua New Guinea,1046,2009
+Dominican Republic,1043,2009
+Nicaragua,1020,2009
+Dominica,985,2009
+Cayman Islands,979,2009
+Puerto Rico,973,2009
+Greenland,967,2009
+Chinese Taipei,955,2009
+Saint Martin,934,2009
+Sint Maarten,931,2009
+San Marino,920,2009
+Bangladesh,919,2009
+Somalia,917,2009
+Sri Lanka,916,2009
+Aruba,908,2009
+Nepal,904,2009
+British Virgin Islands,894,2009
+Monaco,890,2009
+Bahamas,871,2009
+Laos,870,2009
+Pakistan,850,2009
+Comoros,830,2009
+Turks and Caicos,826,2009
+Philippines,814,2009
+Afghanistan,809,2009
+Mongolia,798,2009
+Djibouti,787,2009
+Cambodia,769,2009
+Macau,722,2009
+Tuvalu,721,2009
+Cook Islands,711,2009
+Tonga,705,2009
+Vatican,705,2009
+Samoa,702,2009
+Wallis and Futuna,701,2009
+Brunei,697,2009
+US Virgin Islands,672,2009
+Bhutan,652,2009
+Tibet,631,2009
+Falkland Islands,593,2009
+Kiribati,579,2009
+Guam,568,2009
+Micronesia,565,2009
+Timor-Leste,563,2009
+Anguilla,551,2009
+Northern Mariana Islands,543,2009
+Montserrat,538,2009
+Niue,496,2009
+Palau,403,2009
+American Samoa,354,2009
+Brazil,2104,2010
+Spain,2095,2010
+Netherlands,2032,2010
+England,1985,2010
+Germany,1962,2010
+Italy,1957,2010
+Argentina,1896,2010
+Mexico,1891,2010
+France,1891,2010
+Croatia,1888,2010
+Chile,1880,2010
+Portugal,1873,2010
+Russia,1852,2010
+Serbia,1834,2010
+Uruguay,1813,2010
+Denmark,1811,2010
+United States,1803,2010
+Switzerland,1792,2010
+Australia,1789,2010
+Japan,1788,2010
+Turkey,1784,2010
+Ukraine,1783,2010
+Greece,1783,2010
+Romania,1775,2010
+Cameroon,1775,2010
+Sweden,1772,2010
+Ireland,1768,2010
+Paraguay,1761,2010
+Ivory Coast,1761,2010
+Colombia,1760,2010
+Bulgaria,1758,2010
+South Korea,1749,2010
+Norway,1748,2010
+Czech Republic,1748,2010
+Nigeria,1748,2010
+Honduras,1746,2010
+Ecuador,1722,2010
+Venezuela,1722,2010
+Israel,1717,2010
+Costa Rica,1702,2010
+Egypt,1696,2010
+Ghana,1686,2010
+Saudi Arabia,1683,2010
+Finland,1680,2010
+Slovenia,1674,2010
+Scotland,1670,2010
+Montenegro,1667,2010
+Slovakia,1664,2010
+Bosnia and Herzegovina,1641,2010
+Iran,1633,2010
+Poland,1633,2010
+Tunisia,1627,2010
+Jamaica,1621,2010
+Bahrain,1616,2010
+Hungary,1611,2010
+Canada,1606,2010
+Wales,1606,2010
+Bolivia,1601,2010
+Oman,1597,2010
+Austria,1588,2010
+Belgium,1587,2010
+Peru,1587,2010
+Lithuania,1585,2010
+Algeria,1584,2010
+Belarus,1581,2010
+Macedonia,1577,2010
+Northern Ireland,1577,2010
+Mali,1571,2010
+Latvia,1569,2010
+Morocco,1569,2010
+Cyprus,1564,2010
+Iraq,1558,2010
+North Korea,1554,2010
+Panama,1550,2010
+Uganda,1548,2010
+Uzbekistan,1547,2010
+Syria,1546,2010
+China,1545,2010
+Senegal,1545,2010
+Trinidad and Tobago,1539,2010
+Gabon,1533,2010
+Qatar,1530,2010
+New Zealand,1529,2010
+South Africa,1520,2010
+El Salvador,1514,2010
+Zambia,1497,2010
+Libya,1492,2010
+Albania,1487,2010
+Burkina Faso,1477,2010
+Guinea,1477,2010
+Thailand,1475,2010
+Kuwait,1475,2010
+Guadeloupe,1467,2010
+Togo,1463,2010
+Jordan,1460,2010
+Benin,1459,2010
+Northern Cyprus,1454,2010
+Estonia,1451,2010
+Cuba,1448,2010
+Angola,1447,2010
+Iceland,1446,2010
+Moldova,1442,2010
+Georgia,1435,2010
+Haiti,1431,2010
+Dem. Rep. of Congo,1429,2010
+Mozambique,1427,2010
+Guatemala,1425,2010
+Azerbaijan,1419,2010
+Congo,1418,2010
+Rwanda,1405,2010
+Singapore,1397,2010
+United Arab Emirates,1397,2010
+Gambia,1393,2010
+Kosovo,1389,2010
+Armenia,1380,2010
+Martinique,1375,2010
+Cape Verde,1364,2010
+Vietnam,1362,2010
+Malawi,1357,2010
+Tanzania,1344,2010
+Zimbabwe,1342,2010
+Kazakhstan,1341,2010
+Kenya,1338,2010
+Sudan,1334,2010
+Fiji,1323,2010
+Namibia,1320,2010
+Reunion,1317,2010
+Zanzibar,1311,2010
+New Caledonia,1310,2010
+Barbados,1310,2010
+Ethiopia,1300,2010
+Turkmenistan,1298,2010
+Botswana,1293,2010
+Solomon Islands,1287,2010
+Madagascar,1270,2010
+Indonesia,1267,2010
+Tajikistan,1264,2010
+Guyana,1260,2010
+Chad,1255,2010
+Grenada,1252,2010
+Sierra Leone,1249,2010
+Guinea-Bissau,1246,2010
+Niger,1242,2010
+Antigua and Barbuda,1240,2010
+Liberia,1239,2010
+Suriname,1238,2010
+Saint Vincent and the Grenadines,1235,2010
+Yemen,1233,2010
+Vanuatu,1230,2010
+Lebanon,1225,2010
+Hong Kong,1221,2010
+India,1219,2010
+Malta,1218,2010
+Faroe Islands,1212,2010
+Equatorial Guinea,1210,2010
+French Guiana,1208,2010
+Burundi,1191,2010
+Myanmar,1189,2010
+Central African Republic,1181,2010
+Eritrea,1179,2010
+Palestine,1178,2010
+Tahiti,1174,2010
+Malaysia,1173,2010
+Swaziland,1172,2010
+Maldives,1164,2010
+Lesotho,1162,2010
+Kyrgyzstan,1161,2010
+Liechtenstein,1158,2010
+Bermuda,1153,2010
+Mauritania,1149,2010
+Saint Kitts and Nevis,1137,2010
+Saint Lucia,1128,2010
+Mayotte,1126,2010
+Gibraltar,1126,2010
+Netherlands Antilles,1125,2010
+Bonaire,1103,2010
+Luxembourg,1101,2010
+Belize,1085,2010
+Nicaragua,1081,2010
+São Tomé e Príncipe,1050,2010
+Papua New Guinea,1046,2010
+Dominican Republic,1043,2010
+Mauritius,1035,2010
+Andorra,1026,2010
+Seychelles,1023,2010
+Dominica,994,2010
+Cayman Islands,978,2010
+Puerto Rico,973,2010
+Greenland,967,2010
+Nepal,955,2010
+Sri Lanka,937,2010
+Saint Martin,934,2010
+Sint Maarten,931,2010
+Bangladesh,929,2010
+Chinese Taipei,928,2010
+Somalia,927,2010
+San Marino,912,2010
+Aruba,908,2010
+Monaco,890,2010
+Pakistan,889,2010
+British Virgin Islands,885,2010
+Bahamas,871,2010
+Laos,870,2010
+Comoros,867,2010
+Turks and Caicos,826,2010
+Philippines,816,2010
+Mongolia,793,2010
+Djibouti,793,2010
+Cambodia,775,2010
+Afghanistan,774,2010
+Cook Islands,726,2010
+Tuvalu,721,2010
+Vatican,705,2010
+Samoa,702,2010
+Wallis and Futuna,701,2010
+Macau,698,2010
+Tonga,690,2010
+US Virgin Islands,672,2010
+Brunei,649,2010
+Tibet,631,2010
+Guam,599,2010
+Bhutan,598,2010
+Falkland Islands,593,2010
+Kiribati,579,2010
+Micronesia,565,2010
+Timor-Leste,563,2010
+Anguilla,551,2010
+Montserrat,538,2010
+Northern Mariana Islands,499,2010
+Niue,496,2010
+Palau,403,2010
+American Samoa,354,2010
+Spain,2116,2011
+Netherlands,2105,2011
+Brazil,2096,2011
+Germany,2067,2011
+Argentina,1992,2011
+England,1924,2011
+Croatia,1913,2011
+Portugal,1897,2011
+Chile,1893,2011
+Uruguay,1892,2011
+Mexico,1846,2011
+Italy,1833,2011
+Russia,1827,2011
+Sweden,1813,2011
+Norway,1809,2011
+Ukraine,1808,2011
+France,1802,2011
+Japan,1787,2011
+Paraguay,1785,2011
+Egypt,1777,2011
+Turkey,1777,2011
+Australia,1776,2011
+United States,1767,2011
+Colombia,1764,2011
+Switzerland,1753,2011
+Greece,1750,2011
+Serbia,1743,2011
+Czech Republic,1742,2011
+Ghana,1742,2011
+South Korea,1741,2011
+Ireland,1740,2011
+Denmark,1733,2011
+Ecuador,1727,2011
+Montenegro,1722,2011
+Ivory Coast,1715,2011
+Romania,1713,2011
+Bulgaria,1707,2011
+Venezuela,1704,2011
+Slovenia,1693,2011
+Iran,1693,2011
+Israel,1685,2011
+Honduras,1676,2011
+Costa Rica,1668,2011
+Poland,1668,2011
+Belarus,1666,2011
+Saudi Arabia,1661,2011
+Slovakia,1658,2011
+Scotland,1657,2011
+Jamaica,1656,2011
+Nigeria,1652,2011
+Cameroon,1649,2011
+Hungary,1641,2011
+Kuwait,1638,2011
+Peru,1629,2011
+China,1628,2011
+Bosnia and Herzegovina,1627,2011
+Belgium,1620,2011
+South Africa,1608,2011
+Austria,1604,2011
+Canada,1599,2011
+Finland,1593,2011
+Iraq,1590,2011
+Lithuania,1589,2011
+Panama,1587,2011
+Bolivia,1581,2011
+Senegal,1580,2011
+Tunisia,1578,2011
+Northern Ireland,1577,2011
+New Zealand,1573,2011
+Morocco,1569,2011
+Macedonia,1567,2011
+Uganda,1564,2011
+Gabon,1563,2011
+Wales,1552,2011
+Cyprus,1552,2011
+Oman,1535,2011
+Syria,1533,2011
+Latvia,1531,2011
+North Korea,1527,2011
+Albania,1527,2011
+Mali,1523,2011
+Qatar,1520,2011
+Guinea,1518,2011
+Uzbekistan,1508,2011
+Guadeloupe,1507,2011
+Burkina Faso,1507,2011
+Georgia,1507,2011
+Zambia,1506,2011
+Libya,1500,2011
+Cuba,1497,2011
+Trinidad and Tobago,1493,2011
+El Salvador,1482,2011
+Estonia,1473,2011
+United Arab Emirates,1472,2011
+Bahrain,1470,2011
+Moldova,1469,2011
+Jordan,1469,2011
+Algeria,1464,2011
+Angola,1460,2011
+Guatemala,1459,2011
+Azerbaijan,1458,2011
+Northern Cyprus,1454,2011
+Benin,1446,2011
+Armenia,1441,2011
+Iceland,1435,2011
+Haiti,1435,2011
+Botswana,1432,2011
+Malawi,1414,2011
+Gambia,1407,2011
+Cape Verde,1402,2011
+Thailand,1401,2011
+Tanzania,1397,2011
+Dem. Rep. of Congo,1396,2011
+Congo,1383,2011
+Togo,1382,2011
+Mozambique,1381,2011
+Kosovo,1379,2011
+Turkmenistan,1372,2011
+Rwanda,1364,2011
+Zanzibar,1356,2011
+Reunion,1339,2011
+Martinique,1339,2011
+Zimbabwe,1330,2011
+Sudan,1328,2011
+Ethiopia,1326,2011
+Fiji,1323,2011
+Kazakhstan,1320,2011
+Singapore,1317,2011
+Yemen,1311,2011
+Niger,1308,2011
+Guyana,1305,2011
+Grenada,1300,2011
+Sierra Leone,1297,2011
+Indonesia,1296,2011
+Namibia,1292,2011
+New Caledonia,1288,2011
+Solomon Islands,1287,2011
+Kenya,1275,2011
+Tajikistan,1273,2011
+Suriname,1266,2011
+Antigua and Barbuda,1260,2011
+Barbados,1256,2011
+Guinea-Bissau,1253,2011
+Central African Republic,1245,2011
+Vietnam,1244,2011
+Malaysia,1242,2011
+Madagascar,1236,2011
+Liberia,1235,2011
+Vanuatu,1230,2011
+Chad,1229,2011
+Lebanon,1221,2011
+Hong Kong,1214,2011
+Burundi,1214,2011
+Faroe Islands,1209,2011
+Malta,1203,2011
+Equatorial Guinea,1197,2011
+French Guiana,1187,2011
+Saint Vincent and the Grenadines,1185,2011
+Eritrea,1179,2011
+Tahiti,1177,2011
+Liechtenstein,1170,2011
+Saint Kitts and Nevis,1169,2011
+Kyrgyzstan,1163,2011
+India,1162,2011
+Lesotho,1162,2011
+Palestine,1158,2011
+Maldives,1155,2011
+Bermuda,1153,2011
+Swaziland,1149,2011
+Mauritania,1147,2011
+Myanmar,1126,2011
+Gibraltar,1126,2011
+Mayotte,1125,2011
+Curaçao,1122,2011
+Luxembourg,1111,2011
+Belize,1090,2011
+Dominica,1081,2011
+Nicaragua,1076,2011
+Saint Lucia,1072,2011
+Bonaire,1070,2011
+São Tomé e Príncipe,1050,2011
+Papua New Guinea,1046,2011
+Dominican Republic,1043,2011
+Mauritius,1030,2011
+Seychelles,1023,2011
+Andorra,1013,2011
+Puerto Rico,994,2011
+Greenland,967,2011
+Cayman Islands,962,2011
+Nepal,955,2011
+Philippines,942,2011
+Sri Lanka,932,2011
+Sint Maarten,931,2011
+Bangladesh,926,2011
+Chinese Taipei,922,2011
+Somalia,911,2011
+Aruba,906,2011
+San Marino,906,2011
+Saint Martin,897,2011
+Monaco,890,2011
+Pakistan,889,2011
+Bahamas,871,2011
+Laos,863,2011
+Comoros,862,2011
+British Virgin Islands,827,2011
+Turks and Caicos,826,2011
+Cambodia,801,2011
+Djibouti,793,2011
+Mongolia,793,2011
+Afghanistan,773,2011
+Cook Islands,726,2011
+Tuvalu,721,2011
+Vatican,705,2011
+Samoa,702,2011
+Wallis and Futuna,701,2011
+Saint Barthelemy,696,2011
+Tonga,690,2011
+Saint Pierre and Miquelon,688,2011
+US Virgin Islands,672,2011
+Macau,670,2011
+Brunei,649,2011
+Tibet,631,2011
+Guam,599,2011
+Bhutan,598,2011
+Falkland Islands,593,2011
+Kiribati,579,2011
+Anguilla,572,2011
+Micronesia,565,2011
+Montserrat,534,2011
+Timor-Leste,531,2011
+Northern Mariana Islands,499,2011
+Niue,496,2011
+Palau,403,2011
+American Samoa,354,2011
+Spain,2117,2012
+Germany,2082,2012
+Netherlands,2068,2012
+Brazil,2065,2012
+Uruguay,1993,2012
+England,1955,2012
+Argentina,1915,2012
+Portugal,1900,2012
+Croatia,1891,2012
+Italy,1886,2012
+Chile,1885,2012
+Mexico,1865,2012
+Sweden,1861,2012
+France,1839,2012
+Denmark,1831,2012
+Australia,1818,2012
+Russia,1817,2012
+Ireland,1803,2012
+Japan,1802,2012
+Czech Republic,1795,2012
+Greece,1784,2012
+Paraguay,1783,2012
+Ecuador,1778,2012
+Ghana,1774,2012
+South Korea,1769,2012
+Colombia,1768,2012
+Switzerland,1767,2012
+Ukraine,1767,2012
+Ivory Coast,1764,2012
+Norway,1755,2012
+Peru,1753,2012
+Turkey,1745,2012
+Iran,1744,2012
+Serbia,1721,2012
+Egypt,1720,2012
+United States,1715,2012
+Venezuela,1714,2012
+Romania,1707,2012
+Poland,1707,2012
+Scotland,1703,2012
+Bosnia and Herzegovina,1694,2012
+Belgium,1683,2012
+Hungary,1676,2012
+Israel,1669,2012
+Panama,1668,2012
+Nigeria,1665,2012
+Costa Rica,1663,2012
+Cameroon,1653,2012
+Slovenia,1653,2012
+Honduras,1652,2012
+Wales,1648,2012
+Montenegro,1640,2012
+Jamaica,1640,2012
+Bulgaria,1629,2012
+Senegal,1621,2012
+Uzbekistan,1621,2012
+China,1611,2012
+Finland,1603,2012
+South Africa,1600,2012
+Canada,1594,2012
+Belarus,1590,2012
+Iraq,1587,2012
+El Salvador,1586,2012
+Slovakia,1580,2012
+Tunisia,1580,2012
+Austria,1578,2012
+Syria,1573,2012
+Bahrain,1572,2012
+New Zealand,1567,2012
+Morocco,1566,2012
+Jordan,1565,2012
+Saudi Arabia,1557,2012
+Gabon,1555,2012
+Oman,1548,2012
+Uganda,1545,2012
+Bolivia,1535,2012
+Armenia,1531,2012
+Kuwait,1530,2012
+Estonia,1524,2012
+Zambia,1523,2012
+Latvia,1521,2012
+Burkina Faso,1518,2012
+Guatemala,1512,2012
+Guinea,1511,2012
+Lithuania,1503,2012
+North Korea,1503,2012
+Macedonia,1502,2012
+Qatar,1501,2012
+Libya,1500,2012
+Mali,1499,2012
+Georgia,1494,2012
+Angola,1488,2012
+Trinidad and Tobago,1484,2012
+Albania,1483,2012
+Algeria,1482,2012
+Cyprus,1465,2012
+Guadeloupe,1463,2012
+Rwanda,1460,2012
+Northern Ireland,1459,2012
+Northern Cyprus,1454,2012
+Iceland,1441,2012
+Sudan,1434,2012
+Dem. Rep. of Congo,1425,2012
+Botswana,1419,2012
+Haiti,1415,2012
+Moldova,1408,2012
+Azerbaijan,1406,2012
+Malawi,1405,2012
+Cape Verde,1397,2012
+Cuba,1394,2012
+Thailand,1388,2012
+United Arab Emirates,1386,2012
+Togo,1381,2012
+Benin,1381,2012
+Kosovo,1379,2012
+Gambia,1377,2012
+Guyana,1371,2012
+Zimbabwe,1366,2012
+Congo,1358,2012
+Mozambique,1350,2012
+Sierra Leone,1344,2012
+Turkmenistan,1343,2012
+Martinique,1342,2012
+Kazakhstan,1341,2012
+Reunion,1332,2012
+Niger,1331,2012
+Zanzibar,1328,2012
+Kenya,1321,2012
+Lebanon,1319,2012
+Antigua and Barbuda,1310,2012
+Yemen,1308,2012
+Namibia,1303,2012
+New Caledonia,1301,2012
+Fiji,1297,2012
+Ethiopia,1290,2012
+Solomon Islands,1286,2012
+Vietnam,1274,2012
+Singapore,1274,2012
+Indonesia,1268,2012
+Tanzania,1261,2012
+Liberia,1255,2012
+Vanuatu,1250,2012
+Burundi,1249,2012
+Tajikistan,1239,2012
+Central African Republic,1236,2012
+Liechtenstein,1235,2012
+Guinea-Bissau,1233,2012
+Equatorial Guinea,1224,2012
+Faroe Islands,1223,2012
+Chad,1220,2012
+Malta,1211,2012
+Bermuda,1209,2012
+India,1207,2012
+Malaysia,1207,2012
+Suriname,1201,2012
+Madagascar,1199,2012
+Hong Kong,1197,2012
+Saint Kitts and Nevis,1193,2012
+French Guiana,1187,2012
+Lesotho,1180,2012
+Palestine,1179,2012
+Grenada,1174,2012
+Tahiti,1174,2012
+Mayotte,1164,2012
+Eritrea,1161,2012
+Barbados,1152,2012
+Luxembourg,1150,2012
+Mauritania,1147,2012
+Gibraltar,1143,2012
+Saint Vincent and the Grenadines,1141,2012
+Belize,1134,2012
+Kyrgyzstan,1127,2012
+Dominican Republic,1125,2012
+Nicaragua,1119,2012
+Maldives,1110,2012
+Swaziland,1103,2012
+Bonaire,1089,2012
+Puerto Rico,1075,2012
+Curaçao,1068,2012
+Papua New Guinea,1059,2012
+São Tomé e Príncipe,1048,2012
+Philippines,1028,2012
+Seychelles,1026,2012
+Mauritius,1024,2012
+Dominica,1022,2012
+Myanmar,1012,2012
+Andorra,998,2012
+Saint Lucia,977,2012
+Greenland,967,2012
+Nepal,963,2012
+Aruba,945,2012
+Bangladesh,943,2012
+Cayman Islands,937,2012
+Bahamas,932,2012
+Sint Maarten,931,2012
+Afghanistan,914,2012
+Pakistan,907,2012
+Chinese Taipei,904,2012
+Saint Martin,897,2012
+Somalia,895,2012
+Monaco,895,2012
+San Marino,894,2012
+Comoros,870,2012
+Sri Lanka,860,2012
+Laos,841,2012
+Mongolia,821,2012
+Djibouti,789,2012
+Cambodia,778,2012
+Turks and Caicos,765,2012
+British Virgin Islands,762,2012
+Tuvalu,726,2012
+US Virgin Islands,706,2012
+Wallis and Futuna,701,2012
+Vatican,700,2012
+Saint Barthelemy,696,2012
+Samoa,696,2012
+Saint Pierre and Miquelon,688,2012
+Tonga,685,2012
+Cook Islands,675,2012
+Macau,659,2012
+Brunei,649,2012
+Tibet,631,2012
+Guam,613,2012
+Falkland Islands,593,2012
+Anguilla,567,2012
+Micronesia,565,2012
+Kiribati,545,2012
+Bhutan,542,2012
+Montserrat,529,2012
+Timor-Leste,525,2012
+Northern Mariana Islands,499,2012
+Niue,496,2012
+Palau,403,2012
+American Samoa,382,2012
+Spain,2150,2013
+Brazil,2061,2013
+Germany,2052,2013
+Argentina,2014,2013
+Netherlands,1997,2013
+England,1952,2013
+Mexico,1916,2013
+Italy,1911,2013
+Sweden,1907,2013
+Portugal,1903,2013
+Colombia,1901,2013
+France,1889,2013
+Russia,1887,2013
+Croatia,1880,2013
+Uruguay,1856,2013
+Ecuador,1850,2013
+Ivory Coast,1837,2013
+Switzerland,1831,2013
+Greece,1824,2013
+Japan,1819,2013
+Chile,1802,2013
+Belgium,1786,2013
+Denmark,1776,2013
+Czech Republic,1775,2013
+Australia,1774,2013
+United States,1770,2013
+South Korea,1762,2013
+Norway,1759,2013
+Romania,1754,2013
+Bosnia and Herzegovina,1746,2013
+Ireland,1729,2013
+Paraguay,1719,2013
+Ukraine,1714,2013
+Venezuela,1710,2013
+Peru,1709,2013
+Egypt,1708,2013
+Poland,1704,2013
+Turkey,1702,2013
+Hungary,1691,2013
+Serbia,1684,2013
+Honduras,1682,2013
+Montenegro,1681,2013
+Panama,1680,2013
+Ghana,1677,2013
+Costa Rica,1667,2013
+Bulgaria,1662,2013
+Iran,1656,2013
+Scotland,1656,2013
+Uzbekistan,1654,2013
+Nigeria,1652,2013
+Finland,1631,2013
+Bolivia,1627,2013
+China,1627,2013
+Israel,1617,2013
+Tunisia,1605,2013
+Mali,1604,2013
+Austria,1603,2013
+Slovakia,1602,2013
+Slovenia,1601,2013
+Belarus,1595,2013
+Zambia,1592,2013
+Canada,1585,2013
+Cameroon,1585,2013
+Wales,1580,2013
+Iraq,1580,2013
+New Zealand,1576,2013
+North Korea,1575,2013
+Libya,1568,2013
+South Africa,1566,2013
+Uganda,1565,2013
+Algeria,1564,2013
+Jamaica,1560,2013
+Guatemala,1548,2013
+Morocco,1544,2013
+Gabon,1542,2013
+Syria,1537,2013
+El Salvador,1536,2013
+Oman,1532,2013
+Armenia,1531,2013
+Macedonia,1529,2013
+Senegal,1523,2013
+Georgia,1512,2013
+Latvia,1510,2013
+Albania,1509,2013
+Saudi Arabia,1506,2013
+Guinea,1504,2013
+Estonia,1496,2013
+Bahrain,1495,2013
+Angola,1487,2013
+Jordan,1486,2013
+Iceland,1485,2013
+Qatar,1477,2013
+United Arab Emirates,1475,2013
+Lithuania,1468,2013
+Kuwait,1465,2013
+Haiti,1462,2013
+Northern Cyprus,1455,2013
+Burkina Faso,1447,2013
+Northern Ireland,1444,2013
+Trinidad and Tobago,1437,2013
+Dem. Rep. of Congo,1437,2013
+Cuba,1433,2013
+Cape Verde,1427,2013
+Cyprus,1425,2013
+Kurdistan,1424,2013
+Togo,1420,2013
+Moldova,1411,2013
+Azerbaijan,1407,2013
+Benin,1400,2013
+Martinique,1398,2013
+Congo,1387,2013
+Thailand,1387,2013
+Guadeloupe,1383,2013
+Sudan,1380,2013
+Kosovo,1379,2013
+Rwanda,1371,2013
+Turkmenistan,1369,2013
+Malawi,1368,2013
+Zimbabwe,1366,2013
+Reunion,1363,2013
+Tanzania,1363,2013
+Kenya,1361,2013
+Sierra Leone,1360,2013
+New Caledonia,1353,2013
+Niger,1340,2013
+Kazakhstan,1339,2013
+Gambia,1335,2013
+Mozambique,1335,2013
+Ethiopia,1322,2013
+Namibia,1317,2013
+Burundi,1316,2013
+Lebanon,1313,2013
+Central African Republic,1311,2013
+Zanzibar,1309,2013
+Guyana,1308,2013
+Liberia,1306,2013
+Botswana,1302,2013
+Equatorial Guinea,1296,2013
+Singapore,1286,2013
+Fiji,1280,2013
+Palestine,1277,2013
+Antigua and Barbuda,1266,2013
+Yemen,1265,2013
+Dominican Republic,1246,2013
+Tajikistan,1246,2013
+Vietnam,1243,2013
+French Guiana,1242,2013
+Malta,1240,2013
+Indonesia,1235,2013
+Chad,1232,2013
+Guinea-Bissau,1226,2013
+Tahiti,1224,2013
+Faroe Islands,1211,2013
+Suriname,1206,2013
+Solomon Islands,1205,2013
+Mayotte,1199,2013
+Saint Vincent and the Grenadines,1196,2013
+Malaysia,1194,2013
+Bermuda,1187,2013
+Liechtenstein,1182,2013
+Philippines,1180,2013
+Vanuatu,1174,2013
+Grenada,1168,2013
+Hong Kong,1165,2013
+Madagascar,1164,2013
+India,1151,2013
+Saint Kitts and Nevis,1148,2013
+Eritrea,1147,2013
+Luxembourg,1146,2013
+Lesotho,1145,2013
+Gibraltar,1143,2013
+Belize,1134,2013
+Barbados,1133,2013
+Mauritania,1122,2013
+Kyrgyzstan,1122,2013
+Nicaragua,1122,2013
+Maldives,1118,2013
+Swaziland,1109,2013
+São Tomé e Príncipe,1101,2013
+Puerto Rico,1085,2013
+South Sudan,1082,2013
+Papua New Guinea,1065,2013
+Mauritius,1029,2013
+Bonaire,1029,2013
+Saint Lucia,1021,2013
+Dominica,1018,2013
+Curaçao,1016,2013
+Seychelles,1012,2013
+Myanmar,1002,2013
+Western Sahara,996,2013
+Andorra,992,2013
+Greenland,967,2013
+Aruba,964,2013
+Bangladesh,951,2013
+Cayman Islands,937,2013
+Bahamas,932,2013
+Sint Maarten,931,2013
+Nepal,918,2013
+Afghanistan,914,2013
+Pakistan,904,2013
+Monaco,895,2013
+San Marino,883,2013
+Somalia,878,2013
+Chinese Taipei,874,2013
+Comoros,870,2013
+Saint Martin,857,2013
+Sri Lanka,857,2013
+Laos,853,2013
+Mongolia,821,2013
+Djibouti,789,2013
+Turks and Caicos,765,2013
+Tuvalu,726,2013
+US Virgin Islands,706,2013
+Wallis and Futuna,701,2013
+Vatican,700,2013
+Saint Barthelemy,695,2013
+Guam,689,2013
+Tonga,685,2013
+British Virgin Islands,685,2013
+Samoa,681,2013
+Cambodia,679,2013
+Saint Pierre and Miquelon,677,2013
+Cook Islands,675,2013
+Brunei,669,2013
+Tibet,631,2013
+Macau,629,2013
+Timor-Leste,615,2013
+Montserrat,598,2013
+Falkland Islands,593,2013
+Micronesia,565,2013
+Anguilla,561,2013
+Kiribati,545,2013
+Bhutan,542,2013
+Niue,496,2013
+Northern Mariana Islands,458,2013
+Palau,403,2013
+American Samoa,382,2013
+Brazil,2132,2014
+Spain,2104,2014
+Germany,2086,2014
+Argentina,2021,2014
+Netherlands,2004,2014
+England,1933,2014
+Colombia,1933,2014
+Portugal,1930,2014
+Uruguay,1919,2014
+Chile,1914,2014
+Italy,1907,2014
+France,1881,2014
+United States,1862,2014
+Switzerland,1852,2014
+Russia,1845,2014
+Greece,1840,2014
+Ecuador,1837,2014
+Belgium,1835,2014
+Sweden,1826,2014
+Ukraine,1823,2014
+Croatia,1806,2014
+Mexico,1797,2014
+Bosnia and Herzegovina,1784,2014
+Ivory Coast,1778,2014
+Japan,1764,2014
+Czech Republic,1761,2014
+Serbia,1753,2014
+Denmark,1747,2014
+Costa Rica,1735,2014
+Iran,1730,2014
+Australia,1729,2014
+Nigeria,1729,2014
+Romania,1719,2014
+Ireland,1713,2014
+Turkey,1713,2014
+Peru,1711,2014
+Venezuela,1705,2014
+Ghana,1703,2014
+Paraguay,1702,2014
+Panama,1700,2014
+Scotland,1699,2014
+Egypt,1695,2014
+Honduras,1686,2014
+South Korea,1685,2014
+Hungary,1681,2014
+Finland,1672,2014
+Austria,1662,2014
+Slovenia,1661,2014
+Uzbekistan,1649,2014
+United Arab Emirates,1648,2014
+Bulgaria,1642,2014
+Israel,1640,2014
+Bolivia,1627,2014
+Norway,1626,2014
+Poland,1623,2014
+Slovakia,1606,2014
+Montenegro,1601,2014
+Cameroon,1594,2014
+Jordan,1592,2014
+China,1591,2014
+Belarus,1590,2014
+Algeria,1587,2014
+Wales,1586,2014
+North Korea,1582,2014
+Armenia,1581,2014
+South Africa,1575,2014
+Senegal,1570,2014
+Oman,1567,2014
+Mali,1558,2014
+Kuwait,1553,2014
+Libya,1553,2014
+New Zealand,1550,2014
+Burkina Faso,1549,2014
+Iceland,1542,2014
+Morocco,1531,2014
+El Salvador,1523,2014
+Jamaica,1518,2014
+Albania,1517,2014
+Iraq,1516,2014
+Guinea,1515,2014
+Uganda,1515,2014
+Macedonia,1514,2014
+Cape Verde,1510,2014
+Tunisia,1506,2014
+Trinidad and Tobago,1506,2014
+Gabon,1502,2014
+Qatar,1500,2014
+Georgia,1497,2014
+Canada,1488,2014
+Saudi Arabia,1486,2014
+Zambia,1483,2014
+Guatemala,1478,2014
+Togo,1477,2014
+Estonia,1468,2014
+Bahrain,1467,2014
+Syria,1467,2014
+Lithuania,1460,2014
+Latvia,1455,2014
+Northern Cyprus,1455,2014
+Dem. Rep. of Congo,1450,2014
+Moldova,1445,2014
+Angola,1444,2014
+Kenya,1442,2014
+Azerbaijan,1439,2014
+Haiti,1431,2014
+Kurdistan,1424,2014
+Martinique,1418,2014
+Cuba,1416,2014
+Northern Ireland,1411,2014
+Congo,1395,2014
+Cyprus,1389,2014
+Benin,1388,2014
+Sudan,1384,2014
+Tanzania,1384,2014
+Ethiopia,1384,2014
+Guadeloupe,1383,2014
+Kosovo,1379,2014
+Mozambique,1369,2014
+Lebanon,1368,2014
+Sierra Leone,1364,2014
+Reunion,1363,2014
+Zimbabwe,1360,2014
+Kazakhstan,1358,2014
+New Caledonia,1357,2014
+Turkmenistan,1346,2014
+Thailand,1337,2014
+Malawi,1336,2014
+Gambia,1334,2014
+Liberia,1317,2014
+Guyana,1308,2014
+Burundi,1305,2014
+Botswana,1303,2014
+Equatorial Guinea,1303,2014
+Rwanda,1300,2014
+Namibia,1292,2014
+Palestine,1292,2014
+Niger,1291,2014
+Fiji,1280,2014
+Zanzibar,1279,2014
+Central African Republic,1270,2014
+Antigua and Barbuda,1266,2014
+Singapore,1263,2014
+Tajikistan,1261,2014
+Dominican Republic,1260,2014
+Malta,1251,2014
+French Guiana,1242,2014
+Lesotho,1237,2014
+Suriname,1235,2014
+Chad,1232,2014
+Indonesia,1227,2014
+Guinea-Bissau,1226,2014
+Tahiti,1225,2014
+Vietnam,1217,2014
+Luxembourg,1208,2014
+Bermuda,1204,2014
+Mayotte,1199,2014
+Grenada,1196,2014
+Philippines,1192,2014
+Mauritania,1186,2014
+Faroe Islands,1183,2014
+Liechtenstein,1180,2014
+Solomon Islands,1176,2014
+Hong Kong,1176,2014
+Vanuatu,1174,2014
+Yemen,1169,2014
+Malaysia,1167,2014
+Madagascar,1164,2014
+Belize,1153,2014
+Gibraltar,1152,2014
+Saint Kitts and Nevis,1148,2014
+Saint Vincent and the Grenadines,1141,2014
+Kyrgyzstan,1133,2014
+Barbados,1133,2014
+Nicaragua,1118,2014
+Eritrea,1110,2014
+São Tomé e Príncipe,1101,2014
+Puerto Rico,1085,2014
+Maldives,1081,2014
+India,1081,2014
+Swaziland,1080,2014
+Papua New Guinea,1065,2014
+South Sudan,1061,2014
+Mauritius,1056,2014
+Saint Lucia,1051,2014
+Afghanistan,1051,2014
+Bonaire,1029,2014
+Dominica,1015,2014
+Curaçao,1012,2014
+Myanmar,1005,2014
+Western Sahara,996,2014
+Seychelles,995,2014
+Andorra,993,2014
+Greenland,963,2014
+Pakistan,941,2014
+Bangladesh,939,2014
+Aruba,939,2014
+Cayman Islands,937,2014
+Bahamas,932,2014
+Sint Maarten,931,2014
+Monaco,902,2014
+Nepal,901,2014
+San Marino,877,2014
+Somalia,870,2014
+Comoros,870,2014
+Saint Martin,857,2014
+Laos,854,2014
+Chinese Taipei,842,2014
+Sri Lanka,827,2014
+Djibouti,789,2014
+Mongolia,780,2014
+Turks and Caicos,765,2014
+Guam,736,2014
+Tuvalu,726,2014
+US Virgin Islands,706,2014
+Wallis and Futuna,701,2014
+Saint Barthelemy,695,2014
+Vatican,693,2014
+Tonga,685,2014
+British Virgin Islands,685,2014
+Samoa,681,2014
+Saint Pierre and Miquelon,677,2014
+Cook Islands,675,2014
+Cambodia,674,2014
+Brunei,669,2014
+Tibet,631,2014
+Macau,617,2014
+Timor-Leste,615,2014
+Montserrat,598,2014
+Falkland Islands,580,2014
+Micronesia,565,2014
+Anguilla,561,2014
+Kiribati,545,2014
+Bhutan,521,2014
+Niue,496,2014
+Northern Mariana Islands,450,2014
+Palau,403,2014
+American Samoa,382,2014
+Germany,2134,2015
+Argentina,2050,2015
+Brazil,2042,2015
+Netherlands,2030,2015
+Colombia,2019,2015
+France,1966,2015
+Chile,1963,2015
+Spain,1954,2015
+England,1924,2015
+Portugal,1910,2015
+Uruguay,1908,2015
+Belgium,1898,2015
+Mexico,1892,2015
+Italy,1885,2015
+Costa Rica,1866,2015
+Ecuador,1847,2015
+Ukraine,1825,2015
+Croatia,1825,2015
+United States,1813,2015
+Czech Republic,1805,2015
+Switzerland,1793,2015
+Romania,1786,2015
+Sweden,1783,2015
+Russia,1779,2015
+Denmark,1755,2015
+Slovakia,1751,2015
+Ireland,1732,2015
+Peru,1730,2015
+Poland,1728,2015
+Japan,1728,2015
+Serbia,1726,2015
+Scotland,1724,2015
+Austria,1714,2015
+Panama,1713,2015
+Bosnia and Herzegovina,1710,2015
+Ivory Coast,1690,2015
+Turkey,1685,2015
+Paraguay,1685,2015
+Israel,1684,2015
+Ghana,1683,2015
+Nigeria,1678,2015
+Venezuela,1674,2015
+Algeria,1674,2015
+Iran,1673,2015
+Greece,1672,2015
+Iceland,1661,2015
+Hungary,1658,2015
+Slovenia,1655,2015
+Australia,1653,2015
+Uzbekistan,1647,2015
+Cameroon,1644,2015
+Senegal,1643,2015
+United Arab Emirates,1640,2015
+South Korea,1634,2015
+South Africa,1629,2015
+Bolivia,1628,2015
+Norway,1626,2015
+Finland,1625,2015
+Wales,1621,2015
+Egypt,1616,2015
+Qatar,1613,2015
+Bulgaria,1606,2015
+Tunisia,1601,2015
+Montenegro,1597,2015
+Guinea,1594,2015
+Albania,1577,2015
+Oman,1553,2015
+Honduras,1552,2015
+Belarus,1550,2015
+China,1550,2015
+Armenia,1550,2015
+Mali,1547,2015
+Morocco,1545,2015
+Burkina Faso,1542,2015
+Guatemala,1539,2015
+Jordan,1534,2015
+Gabon,1529,2015
+North Korea,1529,2015
+Trinidad and Tobago,1525,2015
+Jamaica,1521,2015
+New Zealand,1519,2015
+Zambia,1516,2015
+Canada,1509,2015
+Iraq,1507,2015
+El Salvador,1507,2015
+Cape Verde,1506,2015
+Northern Ireland,1502,2015
+Kuwait,1498,2015
+Libya,1482,2015
+Macedonia,1482,2015
+Uganda,1481,2015
+Syria,1478,2015
+Dem. Rep. of Congo,1472,2015
+Bahrain,1472,2015
+Saudi Arabia,1472,2015
+Georgia,1468,2015
+Lithuania,1467,2015
+Estonia,1460,2015
+Northern Cyprus,1455,2015
+Haiti,1445,2015
+Latvia,1445,2015
+Togo,1443,2015
+Angola,1441,2015
+Congo,1436,2015
+Martinique,1428,2015
+Kurdistan,1424,2015
+Moldova,1412,2015
+Cyprus,1406,2015
+Azerbaijan,1405,2015
+Lebanon,1402,2015
+Cuba,1396,2015
+Rwanda,1394,2015
+Mozambique,1378,2015
+Kosovo,1376,2015
+Kenya,1374,2015
+Benin,1373,2015
+Reunion,1363,2015
+Thailand,1362,2015
+Zimbabwe,1360,2015
+Malawi,1358,2015
+New Caledonia,1357,2015
+Kazakhstan,1354,2015
+Tanzania,1347,2015
+Ethiopia,1347,2015
+Sierra Leone,1337,2015
+Sudan,1335,2015
+Gambia,1334,2015
+Guadeloupe,1326,2015
+Palestine,1323,2015
+Burundi,1322,2015
+Botswana,1309,2015
+Equatorial Guinea,1308,2015
+Liberia,1295,2015
+Namibia,1286,2015
+Niger,1282,2015
+Fiji,1280,2015
+Zanzibar,1279,2015
+French Guiana,1272,2015
+Antigua and Barbuda,1268,2015
+Tajikistan,1262,2015
+Turkmenistan,1261,2015
+Chad,1246,2015
+Lesotho,1239,2015
+Guinea-Bissau,1238,2015
+Central African Republic,1238,2015
+Malta,1237,2015
+Vietnam,1236,2015
+Dominican Republic,1233,2015
+Suriname,1233,2015
+Faroe Islands,1225,2015
+Tahiti,1225,2015
+Luxembourg,1225,2015
+Malaysia,1224,2015
+Philippines,1224,2015
+Liechtenstein,1221,2015
+Guyana,1219,2015
+Indonesia,1207,2015
+Bermuda,1204,2015
+Saint Kitts and Nevis,1203,2015
+Yemen,1202,2015
+Mauritania,1200,2015
+Mayotte,1199,2015
+Madagascar,1192,2015
+Solomon Islands,1176,2015
+Vanuatu,1174,2015
+Singapore,1173,2015
+Saint Vincent and the Grenadines,1171,2015
+Grenada,1164,2015
+Hong Kong,1152,2015
+Barbados,1146,2015
+Swaziland,1142,2015
+Belize,1139,2015
+Saint Lucia,1132,2015
+Gibraltar,1132,2015
+Eritrea,1110,2015
+Nicaragua,1105,2015
+Kyrgyzstan,1099,2015
+Afghanistan,1096,2015
+São Tomé e Príncipe,1078,2015
+Curaçao,1068,2015
+Maldives,1068,2015
+India,1068,2015
+South Sudan,1064,2015
+Myanmar,1062,2015
+Puerto Rico,1059,2015
+Papua New Guinea,1054,2015
+Mauritius,1022,2015
+Bonaire,1021,2015
+Western Sahara,996,2015
+Somaliland,992,2015
+Seychelles,981,2015
+Andorra,976,2015
+Greenland,963,2015
+Dominica,952,2015
+Bangladesh,945,2015
+Aruba,938,2015
+Cayman Islands,937,2015
+Bahamas,932,2015
+Sint Maarten,931,2015
+Pakistan,931,2015
+Monaco,909,2015
+Comoros,896,2015
+San Marino,889,2015
+Nepal,883,2015
+Somalia,870,2015
+Saint Martin,867,2015
+Sri Lanka,836,2015
+Laos,836,2015
+Chagos Islands,808,2015
+Guam,805,2015
+Chinese Taipei,794,2015
+Djibouti,789,2015
+Turks and Caicos,776,2015
+Mongolia,734,2015
+Tuvalu,726,2015
+Cambodia,717,2015
+Wallis and Futuna,701,2015
+Saint Barthelemy,695,2015
+Vatican,686,2015
+Tonga,685,2015
+Samoa,681,2015
+US Virgin Islands,681,2015
+Saint Pierre and Miquelon,677,2015
+Cook Islands,675,2015
+Timor-Leste,639,2015
+Macau,636,2015
+British Virgin Islands,635,2015
+Montserrat,632,2015
+Tibet,631,2015
+Brunei,606,2015
+Falkland Islands,580,2015
+Micronesia,565,2015
+Anguilla,556,2015
+Kiribati,545,2015
+Bhutan,521,2015
+Niue,496,2015
+Northern Mariana Islands,462,2015
+Palau,403,2015
+American Samoa,382,2015
+Germany,2069,2016
+Brazil,2038,2016
+Argentina,2023,2016
+Spain,2003,2016
+Chile,1976,2016
+England,1959,2016
+Colombia,1954,2016
+France,1954,2016
+Uruguay,1947,2016
+Belgium,1928,2016
+Portugal,1919,2016
+Ecuador,1915,2016
+Mexico,1906,2016
+Netherlands,1898,2016
+Italy,1871,2016
+Ukraine,1817,2016
+Croatia,1814,2016
+Switzerland,1810,2016
+Turkey,1805,2016
+Austria,1801,2016
+Costa Rica,1794,2016
+Peru,1787,2016
+South Korea,1787,2016
+Russia,1774,2016
+Poland,1773,2016
+Ireland,1770,2016
+Sweden,1767,2016
+Czech Republic,1766,2016
+Romania,1764,2016
+United States,1758,2016
+Japan,1749,2016
+Slovakia,1744,2016
+Ivory Coast,1736,2016
+Denmark,1728,2016
+Paraguay,1728,2016
+Iran,1727,2016
+Bosnia and Herzegovina,1722,2016
+Serbia,1715,2016
+Australia,1701,2016
+Hungary,1700,2016
+Scotland,1700,2016
+Panama,1683,2016
+Iceland,1673,2016
+Wales,1673,2016
+Algeria,1666,2016
+Uzbekistan,1649,2016
+Senegal,1646,2016
+Ghana,1644,2016
+Nigeria,1637,2016
+Norway,1626,2016
+United Arab Emirates,1625,2016
+Bolivia,1624,2016
+Egypt,1624,2016
+Slovenia,1619,2016
+Trinidad and Tobago,1615,2016
+Greece,1611,2016
+Cameroon,1609,2016
+Albania,1608,2016
+Finland,1603,2016
+Venezuela,1600,2016
+Northern Ireland,1594,2016
+Bulgaria,1584,2016
+Jamaica,1584,2016
+South Africa,1583,2016
+Israel,1579,2016
+Belarus,1578,2016
+Montenegro,1569,2016
+Qatar,1568,2016
+Guinea,1555,2016
+Tunisia,1551,2016
+China,1548,2016
+Cape Verde,1545,2016
+Mali,1537,2016
+Uganda,1534,2016
+North Korea,1532,2016
+Morocco,1530,2016
+Canada,1529,2016
+Jordan,1529,2016
+New Zealand,1521,2016
+Syria,1516,2016
+Saudi Arabia,1511,2016
+Honduras,1510,2016
+Zambia,1509,2016
+Dem. Rep. of Congo,1507,2016
+Iraq,1507,2016
+Libya,1506,2016
+Estonia,1493,2016
+Congo,1488,2016
+Armenia,1485,2016
+Gabon,1482,2016
+Georgia,1480,2016
+Haiti,1476,2016
+El Salvador,1476,2016
+Oman,1474,2016
+Kuwait,1460,2016
+Guatemala,1455,2016
+Northern Cyprus,1455,2016
+Latvia,1450,2016
+Macedonia,1439,2016
+Martinique,1435,2016
+Burkina Faso,1430,2016
+Lithuania,1427,2016
+Kurdistan,1424,2016
+Cyprus,1424,2016
+Angola,1421,2016
+Azerbaijan,1419,2016
+Bahrain,1411,2016
+Thailand,1407,2016
+Togo,1403,2016
+Lebanon,1399,2016
+Kosovo,1390,2016
+Kazakhstan,1388,2016
+Reunion,1382,2016
+Kenya,1381,2016
+Benin,1376,2016
+Equatorial Guinea,1364,2016
+Zimbabwe,1360,2016
+New Caledonia,1357,2016
+Moldova,1352,2016
+Burundi,1350,2016
+Palestine,1345,2016
+Cuba,1340,2016
+Rwanda,1337,2016
+Namibia,1337,2016
+Sierra Leone,1336,2016
+Botswana,1331,2016
+Mozambique,1331,2016
+Liberia,1330,2016
+Gambia,1328,2016
+Tanzania,1322,2016
+Guadeloupe,1319,2016
+Malawi,1311,2016
+French Guiana,1303,2016
+Zanzibar,1291,2016
+Sudan,1290,2016
+Niger,1289,2016
+Madagascar,1282,2016
+Chad,1278,2016
+Ethiopia,1272,2016
+Fiji,1271,2016
+Turkmenistan,1271,2016
+Swaziland,1263,2016
+Luxembourg,1254,2016
+Central African Republic,1252,2016
+Mauritania,1251,2016
+Nicaragua,1248,2016
+Antigua and Barbuda,1244,2016
+Philippines,1236,2016
+Bermuda,1235,2016
+Malta,1232,2016
+Saint Kitts and Nevis,1232,2016
+Faroe Islands,1232,2016
+Tajikistan,1230,2016
+Tahiti,1225,2016
+Guyana,1225,2016
+Hong Kong,1219,2016
+Mayotte,1219,2016
+Vietnam,1213,2016
+Indonesia,1208,2016
+Guinea-Bissau,1208,2016
+Liechtenstein,1203,2016
+Belize,1188,2016
+Singapore,1185,2016
+Vanuatu,1184,2016
+Yemen,1181,2016
+Kyrgyzstan,1180,2016
+Solomon Islands,1176,2016
+Lesotho,1176,2016
+Suriname,1170,2016
+Dominican Republic,1164,2016
+Saint Vincent and the Grenadines,1160,2016
+South Sudan,1156,2016
+Barbados,1145,2016
+Afghanistan,1143,2016
+Grenada,1123,2016
+Curaçao,1122,2016
+Gibraltar,1119,2016
+Malaysia,1118,2016
+Saint Lucia,1103,2016
+Mauritius,1089,2016
+São Tomé e Príncipe,1087,2016
+Eritrea,1078,2016
+Puerto Rico,1063,2016
+India,1062,2016
+Papua New Guinea,1054,2016
+Myanmar,1032,2016
+Western Sahara,996,2016
+Maldives,994,2016
+Somaliland,992,2016
+Bonaire,991,2016
+Greenland,963,2016
+Dominica,956,2016
+Seychelles,955,2016
+Andorra,954,2016
+Cayman Islands,950,2016
+Pakistan,946,2016
+Comoros,938,2016
+Aruba,935,2016
+Sint Maarten,931,2016
+Monaco,909,2016
+Bahamas,905,2016
+Bangladesh,890,2016
+San Marino,883,2016
+Guam,881,2016
+Saint Martin,867,2016
+Somalia,848,2016
+Nepal,842,2016
+Laos,810,2016
+Chagos Islands,808,2016
+Chinese Taipei,782,2016
+Sri Lanka,775,2016
+Turks and Caicos,763,2016
+Djibouti,760,2016
+Cambodia,729,2016
+Timor-Leste,728,2016
+Tuvalu,726,2016
+Samoa,707,2016
+US Virgin Islands,707,2016
+Wallis and Futuna,701,2016
+Saint Barthelemy,695,2016
+Cook Islands,687,2016
+Vatican,686,2016
+Saint Pierre and Miquelon,677,2016
+Mongolia,673,2016
+Montserrat,645,2016
+Tibet,631,2016
+British Virgin Islands,627,2016
+Macau,612,2016
+Brunei,602,2016
+Falkland Islands,580,2016
+Anguilla,571,2016
+Micronesia,565,2016
+Tonga,564,2016
+Bhutan,553,2016
+Kiribati,545,2016
+Niue,496,2016
+American Samoa,464,2016
+Northern Mariana Islands,462,2016
+Palau,403,2016
+Brazil,2087,2017
+Argentina,2045,2017
+Germany,2038,2017
+France,2009,2017
+Chile,1982,2017
+Spain,1979,2017
+Italy,1943,2017
+Portugal,1930,2017
+Colombia,1929,2017
+England,1929,2017
+Uruguay,1915,2017
+Mexico,1911,2017
+Belgium,1905,2017
+Netherlands,1889,2017
+Croatia,1886,2017
+Switzerland,1857,2017
+Costa Rica,1854,2017
+Poland,1851,2017
+Ecuador,1850,2017
+Peru,1834,2017
+Ireland,1801,2017
+South Korea,1788,2017
+Turkey,1785,2017
+Iran,1774,2017
+Ukraine,1769,2017
+Sweden,1768,2017
+Iceland,1765,2017
+Wales,1760,2017
+Bosnia and Herzegovina,1755,2017
+Slovakia,1753,2017
+Japan,1753,2017
+United States,1735,2017
+Serbia,1725,2017
+Ivory Coast,1720,2017
+Denmark,1717,2017
+Australia,1709,2017
+Paraguay,1702,2017
+Czech Republic,1698,2017
+Hungary,1691,2017
+Russia,1691,2017
+Panama,1689,2017
+Austria,1685,2017
+Venezuela,1683,2017
+Romania,1681,2017
+Senegal,1672,2017
+Scotland,1671,2017
+Nigeria,1669,2017
+Egypt,1669,2017
+Uzbekistan,1666,2017
+Slovenia,1653,2017
+Greece,1653,2017
+Northern Ireland,1647,2017
+Algeria,1633,2017
+Bolivia,1633,2017
+Israel,1627,2017
+Cameroon,1618,2017
+South Africa,1615,2017
+Morocco,1602,2017
+Montenegro,1597,2017
+Ghana,1593,2017
+Tunisia,1590,2017
+Belarus,1588,2017
+Bulgaria,1586,2017
+United Arab Emirates,1583,2017
+Albania,1581,2017
+Saudi Arabia,1578,2017
+Dem. Rep. of Congo,1577,2017
+Qatar,1577,2017
+Norway,1576,2017
+Honduras,1563,2017
+Mali,1551,2017
+New Zealand,1549,2017
+Syria,1544,2017
+Finland,1540,2017
+North Korea,1523,2017
+China,1522,2017
+Canada,1517,2017
+Jamaica,1515,2017
+Guatemala,1511,2017
+Burkina Faso,1507,2017
+Jordan,1503,2017
+Armenia,1502,2017
+Martinique,1501,2017
+Uganda,1499,2017
+Guinea,1495,2017
+Trinidad and Tobago,1489,2017
+Haiti,1476,2017
+Georgia,1473,2017
+Iraq,1471,2017
+Libya,1468,2017
+Lithuania,1464,2017
+Oman,1464,2017
+Kuwait,1460,2017
+Gabon,1457,2017
+Northern Cyprus,1455,2017
+Zambia,1443,2017
+Estonia,1438,2017
+Congo,1437,2017
+Cape Verde,1432,2017
+Bahrain,1430,2017
+Azerbaijan,1424,2017
+Kurdistan,1424,2017
+Thailand,1419,2017
+Zimbabwe,1419,2017
+Togo,1416,2017
+Latvia,1415,2017
+Cyprus,1406,2017
+Kazakhstan,1406,2017
+El Salvador,1402,2017
+Macedonia,1402,2017
+Benin,1396,2017
+Kosovo,1393,2017
+Kenya,1389,2017
+Reunion,1382,2017
+Namibia,1374,2017
+Sierra Leone,1372,2017
+Lebanon,1367,2017
+French Guiana,1353,2017
+Equatorial Guinea,1345,2017
+Moldova,1340,2017
+Palestine,1338,2017
+Malawi,1335,2017
+Swaziland,1334,2017
+New Caledonia,1323,2017
+Mozambique,1322,2017
+Tanzania,1319,2017
+Liberia,1319,2017
+Burundi,1312,2017
+Mauritania,1309,2017
+Rwanda,1309,2017
+Cuba,1308,2017
+Ethiopia,1301,2017
+Central African Republic,1296,2017
+Faroe Islands,1296,2017
+Niger,1294,2017
+Botswana,1292,2017
+Zanzibar,1291,2017
+Sudan,1285,2017
+Vietnam,1284,2017
+Guinea-Bissau,1283,2017
+Guadeloupe,1279,2017
+Gambia,1279,2017
+Saint Kitts and Nevis,1265,2017
+Nicaragua,1261,2017
+Turkmenistan,1259,2017
+Indonesia,1256,2017
+Chad,1255,2017
+Tajikistan,1246,2017
+Madagascar,1244,2017
+Luxembourg,1243,2017
+Fiji,1239,2017
+Kyrgyzstan,1227,2017
+Curaçao,1224,2017
+Philippines,1223,2017
+Tahiti,1221,2017
+Suriname,1221,2017
+Angola,1221,2017
+Lesotho,1219,2017
+Mayotte,1219,2017
+Dominican Republic,1215,2017
+Malta,1214,2017
+Bermuda,1208,2017
+Yemen,1205,2017
+Antigua and Barbuda,1203,2017
+Hong Kong,1196,2017
+Guyana,1192,2017
+Vanuatu,1191,2017
+Belize,1183,2017
+Liechtenstein,1180,2017
+Afghanistan,1140,2017
+Barbados,1136,2017
+Solomon Islands,1134,2017
+Papua New Guinea,1130,2017
+Grenada,1119,2017
+South Sudan,1114,2017
+Singapore,1113,2017
+Malaysia,1105,2017
+Saint Vincent and the Grenadines,1105,2017
+São Tomé e Príncipe,1104,2017
+Saint Lucia,1103,2017
+India,1100,2017
+Mauritius,1099,2017
+Gibraltar,1097,2017
+Eritrea,1078,2017
+Myanmar,1056,2017
+Puerto Rico,1021,2017
+Somaliland,1002,2017
+Western Sahara,996,2017
+Bonaire,991,2017
+Comoros,982,2017
+Greenland,963,2017
+Seychelles,959,2017
+Dominica,957,2017
+Andorra,956,2017
+Maldives,953,2017
+Cayman Islands,950,2017
+Pakistan,946,2017
+Aruba,918,2017
+Monaco,909,2017
+Bahamas,905,2017
+Nepal,900,2017
+Sint Maarten,887,2017
+San Marino,878,2017
+Saint Martin,867,2017
+Chinese Taipei,852,2017
+Somalia,848,2017
+Guam,832,2017
+Cambodia,805,2017
+Laos,804,2017
+Bangladesh,803,2017
+Chagos Islands,798,2017
+Turks and Caicos,763,2017
+Djibouti,753,2017
+Tuvalu,726,2017
+US Virgin Islands,722,2017
+Wallis and Futuna,701,2017
+Saint Barthelemy,695,2017
+Samoa,692,2017
+Sri Lanka,688,2017
+Cook Islands,687,2017
+Vatican,686,2017
+Macau,685,2017
+Saint Pierre and Miquelon,677,2017
+Mongolia,656,2017
+Montserrat,645,2017
+Tibet,631,2017
+Brunei,624,2017
+Timor-Leste,615,2017
+Bhutan,609,2017
+British Virgin Islands,608,2017
+Falkland Islands,580,2017
+Micronesia,565,2017
+Tonga,564,2017
+Anguilla,561,2017
+Kiribati,545,2017
+Niue,496,2017
+American Samoa,464,2017
+Northern Mariana Islands,411,2017
+Palau,403,2017
+Brazil,2113,2018
+Germany,2109,2018
+Spain,2031,2018
+Portugal,1994,2018
+France,1989,2018
+Argentina,1984,2018
+England,1933,2018
+Belgium,1927,2018
+Colombia,1926,2018
+Italy,1906,2018
+Netherlands,1895,2018
+Peru,1882,2018
+Uruguay,1866,2018
+Switzerland,1866,2018
+Chile,1860,2018
+Croatia,1856,2018
+Mexico,1848,2018
+Poland,1842,2018
+Denmark,1842,2018
+Sweden,1825,2018
+Iceland,1811,2018
+Iran,1800,2018
+Serbia,1769,2018
+Wales,1763,2018
+South Korea,1760,2018
+Paraguay,1753,2018
+United States,1751,2018
+Senegal,1750,2018
+Slovakia,1748,2018
+Ecuador,1747,2018
+Costa Rica,1745,2018
+Ukraine,1738,2018
+Venezuela,1738,2018
+Ireland,1731,2018
+Australia,1727,2018
+Bosnia and Herzegovina,1723,2018
+Scotland,1721,2018
+Czech Republic,1713,2018
+Turkey,1712,2018
+Austria,1709,2018
+Bolivia,1707,2018
+Japan,1706,2018
+Nigeria,1699,2018
+Russia,1698,2018
+Morocco,1691,2018
+Romania,1688,2018
+Northern Ireland,1674,2018
+Panama,1671,2018
+Greece,1661,2018
+Egypt,1657,2018
+Cameroon,1645,2018
+Slovenia,1639,2018
+Tunisia,1622,2018
+Bulgaria,1620,2018
+Ghana,1616,2018
+Montenegro,1614,2018
+Hungary,1612,2018
+Uzbekistan,1610,2018
+Syria,1610,2018
+Honduras,1610,2018
+Albania,1609,2018
+Burkina Faso,1606,2018
+Dem. Rep. of Congo,1605,2018
+Ivory Coast,1603,2018
+Finland,1595,2018
+Norway,1581,2018
+Iraq,1570,2018
+Saudi Arabia,1568,2018
+China,1565,2018
+Jamaica,1565,2018
+United Arab Emirates,1560,2018
+South Africa,1545,2018
+Algeria,1539,2018
+Israel,1534,2018
+New Zealand,1525,2018
+Canada,1524,2018
+Macedonia,1520,2018
+Mali,1515,2018
+Guatemala,1511,2018
+Oman,1511,2018
+Estonia,1507,2018
+Zambia,1501,2018
+Belarus,1497,2018
+Haiti,1494,2018
+Georgia,1482,2018
+Armenia,1481,2018
+Jordan,1480,2018
+Libya,1475,2018
+Guinea,1472,2018
+Zimbabwe,1472,2018
+Qatar,1464,2018
+Uganda,1461,2018
+El Salvador,1457,2018
+Northern Cyprus,1455,2018
+Lebanon,1451,2018
+North Korea,1449,2018
+Cape Verde,1428,2018
+Martinique,1425,2018
+Kurdistan,1424,2018
+Kuwait,1421,2018
+Trinidad and Tobago,1419,2018
+Bahrain,1418,2018
+Gabon,1415,2018
+Benin,1415,2018
+Cyprus,1410,2018
+Lithuania,1407,2018
+Thailand,1405,2018
+Palestine,1401,2018
+Azerbaijan,1400,2018
+Kenya,1397,2018
+Togo,1383,2018
+Congo,1383,2018
+Reunion,1382,2018
+Sierra Leone,1379,2018
+Namibia,1377,2018
+French Guiana,1376,2018
+Zanzibar,1372,2018
+Kosovo,1370,2018
+Madagascar,1368,2018
+Latvia,1362,2018
+Kazakhstan,1340,2018
+Equatorial Guinea,1332,2018
+Moldova,1330,2018
+Luxembourg,1321,2018
+Burundi,1317,2018
+Mozambique,1316,2018
+Liberia,1309,2018
+Cuba,1308,2018
+Malawi,1304,2018
+Mauritania,1301,2018
+Tanzania,1300,2018
+Central African Republic,1297,2018
+Niger,1296,2018
+Guinea-Bissau,1295,2018
+Swaziland,1295,2018
+Rwanda,1283,2018
+Faroe Islands,1280,2018
+Ethiopia,1277,2018
+Gambia,1277,2018
+Vietnam,1271,2018
+Lesotho,1270,2018
+Curaçao,1268,2018
+Nicaragua,1267,2018
+Guadeloupe,1266,2018
+Fiji,1256,2018
+Chad,1255,2018
+Saint Kitts and Nevis,1255,2018
+Turkmenistan,1253,2018
+Botswana,1252,2018
+Dominican Republic,1249,2018
+Sudan,1245,2018
+Suriname,1244,2018
+Angola,1240,2018
+Indonesia,1233,2018
+Vanuatu,1225,2018
+Tahiti,1220,2018
+Mayotte,1219,2018
+Malta,1215,2018
+Tajikistan,1214,2018
+New Caledonia,1211,2018
+Kyrgyzstan,1207,2018
+Antigua and Barbuda,1203,2018
+Solomon Islands,1200,2018
+Bermuda,1198,2018
+Hong Kong,1190,2018
+Guyana,1189,2018
+Yemen,1188,2018
+Liechtenstein,1168,2018
+Belize,1160,2018
+Philippines,1159,2018
+India,1159,2018
+Afghanistan,1150,2018
+Barbados,1138,2018
+Grenada,1111,2018
+Saint Vincent and the Grenadines,1101,2018
+Saint Lucia,1098,2018
+Papua New Guinea,1093,2018
+Myanmar,1093,2018
+Gibraltar,1079,2018
+São Tomé e Príncipe,1079,2018
+Eritrea,1078,2018
+Mauritius,1069,2018
+Malaysia,1062,2018
+Singapore,1058,2018
+South Sudan,1057,2018
+Comoros,1040,2018
+Puerto Rico,1028,2018
+Andorra,1012,2018
+Dominica,1004,2018
+Somaliland,1002,2018
+Western Sahara,996,2018
+Bonaire,991,2018
+Chinese Taipei,975,2018
+Greenland,963,2018
+Cayman Islands,950,2018
+Pakistan,946,2018
+Seychelles,940,2018
+Maldives,939,2018
+Aruba,918,2018
+Bahamas,905,2018
+Monaco,903,2018
+Nepal,898,2018
+Sint Maarten,887,2018
+Saint Martin,867,2018
+San Marino,852,2018
+Somalia,848,2018
+Guam,832,2018
+Cambodia,811,2018
+Bangladesh,803,2018
+Chagos Islands,798,2018
+Djibouti,792,2018
+Laos,781,2018
+Turks and Caicos,763,2018
+Tuvalu,758,2018
+US Virgin Islands,722,2018
+Wallis and Futuna,701,2018
+Saint Barthelemy,695,2018
+Samoa,692,2018
+Vatican,692,2018
+Sri Lanka,688,2018
+Cook Islands,687,2018
+Macau,677,2018
+Saint Pierre and Miquelon,677,2018
+Mongolia,652,2018
+Montserrat,645,2018
+Timor-Leste,633,2018
+Tibet,631,2018
+Brunei,624,2018
+British Virgin Islands,608,2018
+Bhutan,592,2018
+Falkland Islands,580,2018
+Micronesia,565,2018
+Anguilla,561,2018
+Tonga,547,2018
+Kiribati,545,2018
+Niue,496,2018
+American Samoa,464,2018
+Northern Mariana Islands,411,2018
+Palau,403,2018
+Brazil,2136,2019
+France,2094,2019
+Belgium,2035,2019
+Spain,2011,2019
+Netherlands,1985,2019
+Colombia,1961,2019
+England,1960,2019
+Portugal,1959,2019
+Germany,1938,2019
+Croatia,1925,2019
+Uruguay,1923,2019
+Switzerland,1922,2019
+Argentina,1915,2019
+Denmark,1898,2019
+Italy,1889,2019
+Peru,1855,2019
+Chile,1851,2019
+Sweden,1851,2019
+Iran,1823,2019
+Serbia,1807,2019
+Bosnia and Herzegovina,1795,2019
+Mexico,1787,2019
+South Korea,1778,2019
+Ukraine,1773,2019
+Ecuador,1772,2019
+Austria,1764,2019
+Wales,1760,2019
+Senegal,1757,2019
+Venezuela,1756,2019
+Romania,1753,2019
+Russia,1753,2019
+Poland,1752,2019
+Slovakia,1748,2019
+United States,1743,2019
+Australia,1735,2019
+Japan,1731,2019
+Morocco,1730,2019
+Czech Republic,1729,2019
+Paraguay,1725,2019
+Costa Rica,1724,2019
+Scotland,1722,2019
+Nigeria,1713,2019
+Ireland,1704,2019
+Turkey,1691,2019
+Norway,1678,2019
+Iceland,1668,2019
+Bolivia,1655,2019
+Tunisia,1649,2019
+Bulgaria,1629,2019
+Ghana,1625,2019
+Northern Ireland,1622,2019
+Finland,1621,2019
+Egypt,1617,2019
+Greece,1613,2019
+Hungary,1611,2019
+Ivory Coast,1605,2019
+Cameroon,1599,2019
+Syria,1598,2019
+Honduras,1591,2019
+Uzbekistan,1590,2019
+Montenegro,1589,2019
+Saudi Arabia,1581,2019
+Iraq,1579,2019
+Jamaica,1570,2019
+Panama,1567,2019
+Slovenia,1561,2019
+Israel,1561,2019
+South Africa,1550,2019
+Canada,1547,2019
+Georgia,1546,2019
+Dem. Rep. of Congo,1546,2019
+Algeria,1545,2019
+Belarus,1538,2019
+Mali,1531,2019
+Qatar,1528,2019
+Burkina Faso,1526,2019
+Oman,1524,2019
+Macedonia,1519,2019
+China,1515,2019
+Albania,1515,2019
+Haiti,1513,2019
+New Zealand,1503,2019
+Guatemala,1495,2019
+Kosovo,1495,2019
+United Arab Emirates,1481,2019
+Uganda,1476,2019
+Libya,1476,2019
+Zimbabwe,1474,2019
+Guinea,1469,2019
+Estonia,1468,2019
+Northern Cyprus,1456,2019
+El Salvador,1454,2019
+Lebanon,1451,2019
+Martinique,1450,2019
+Armenia,1449,2019
+Jordan,1446,2019
+Kuwait,1434,2019
+Trinidad and Tobago,1433,2019
+Bahrain,1431,2019
+North Korea,1429,2019
+Kurdistan,1424,2019
+Zambia,1416,2019
+Cyprus,1414,2019
+Cape Verde,1406,2019
+Gabon,1406,2019
+Azerbaijan,1403,2019
+Congo,1392,2019
+Benin,1390,2019
+Kenya,1388,2019
+Reunion,1382,2019
+Thailand,1381,2019
+Namibia,1379,2019
+Palestine,1376,2019
+Zanzibar,1372,2019
+Burundi,1364,2019
+Togo,1360,2019
+Sierra Leone,1358,2019
+Mauritania,1356,2019
+Luxembourg,1347,2019
+Liberia,1344,2019
+Madagascar,1341,2019
+Cuba,1339,2019
+Lithuania,1338,2019
+Vietnam,1335,2019
+Curaçao,1334,2019
+Central African Republic,1332,2019
+Kazakhstan,1330,2019
+Tanzania,1328,2019
+Moldova,1324,2019
+Angola,1324,2019
+French Guiana,1321,2019
+Guinea-Bissau,1315,2019
+Botswana,1313,2019
+Niger,1312,2019
+Gambia,1306,2019
+Mozambique,1300,2019
+Lesotho,1299,2019
+Latvia,1298,2019
+Equatorial Guinea,1295,2019
+Kyrgyzstan,1288,2019
+Nicaragua,1280,2019
+Sudan,1279,2019
+Rwanda,1268,2019
+Dominican Republic,1265,2019
+Ethiopia,1262,2019
+Suriname,1258,2019
+Chad,1255,2019
+Faroe Islands,1254,2019
+Malawi,1253,2019
+Turkmenistan,1247,2019
+Saint Kitts and Nevis,1247,2019
+Tahiti,1224,2019
+New Caledonia,1223,2019
+Mayotte,1219,2019
+India,1218,2019
+Hong Kong,1212,2019
+Fiji,1210,2019
+Vanuatu,1209,2019
+Tajikistan,1209,2019
+Solomon Islands,1207,2019
+Guadeloupe,1204,2019
+Eswatini,1202,2019
+Indonesia,1198,2019
+Yemen,1188,2019
+Guyana,1184,2019
+Bermuda,1183,2019
+Malta,1178,2019
+Antigua and Barbuda,1171,2019
+Philippines,1171,2019
+Belize,1156,2019
+Afghanistan,1149,2019
+Saint Lucia,1141,2019
+Liechtenstein,1138,2019
+Barbados,1134,2019
+Malaysia,1127,2019
+Gibraltar,1103,2019
+Papua New Guinea,1093,2019
+Comoros,1088,2019
+Andorra,1081,2019
+Singapore,1079,2019
+Saint Vincent and the Grenadines,1079,2019
+Eritrea,1078,2019
+São Tomé e Príncipe,1077,2019
+Mauritius,1073,2019
+Grenada,1071,2019
+Myanmar,1057,2019
+Dominica,1044,2019
+South Sudan,1022,2019
+Puerto Rico,1008,2019
+Somaliland,1002,2019
+Western Sahara,996,2019
+Maldives,979,2019
+Bonaire,974,2019
+Chinese Taipei,972,2019
+Seychelles,969,2019
+Greenland,963,2019
+Cayman Islands,946,2019
+Aruba,933,2019
+Pakistan,933,2019
+Monaco,903,2019
+Nepal,876,2019
+Bahamas,856,2019
+Somalia,848,2019
+San Marino,835,2019
+Saint Martin,829,2019
+Sint Maarten,816,2019
+Guam,793,2019
+Djibouti,792,2019
+Cambodia,792,2019
+Bangladesh,791,2019
+Tuvalu,780,2019
+Turks and Caicos,779,2019
+Chagos Islands,776,2019
+Montserrat,732,2019
+US Virgin Islands,715,2019
+Mongolia,707,2019
+Sri Lanka,706,2019
+Wallis and Futuna,701,2019
+Saint Barthelemy,699,2019
+Samoa,692,2019
+Vatican,692,2019
+Laos,692,2019
+Cook Islands,687,2019
+Saint Pierre and Miquelon,677,2019
+Macau,674,2019
+British Virgin Islands,646,2019
+Timor-Leste,643,2019
+Tibet,630,2019
+Brunei,613,2019
+Anguilla,587,2019
+Falkland Islands,580,2019
+Micronesia,565,2019
+Bhutan,556,2019
+Tonga,547,2019
+Kiribati,545,2019
+Niue,496,2019
+American Samoa,464,2019
+Northern Mariana Islands,409,2019
+Palau,403,2019
+Belgium,2084,2020
+Brazil,2082,2020
+France,2047,2020
+Spain,2028,2020
+Netherlands,2017,2020
+Portugal,1986,2020
+Colombia,1985,2020
+Italy,1969,2020
+Argentina,1967,2020
+Uruguay,1967,2020
+Germany,1965,2020
+England,1956,2020
+Croatia,1921,2020
+Mexico,1904,2020
+Switzerland,1898,2020
+Denmark,1891,2020
+Peru,1866,2020
+Sweden,1860,2020
+Ukraine,1854,2020
+Venezuela,1829,2020
+Chile,1807,2020
+Russia,1794,2020
+Serbia,1791,2020
+Poland,1790,2020
+Wales,1783,2020
+Turkey,1779,2020
+South Korea,1771,2020
+Senegal,1766,2020
+Algeria,1746,2020
+Japan,1744,2020
+Austria,1741,2020
+Iran,1739,2020
+Paraguay,1738,2020
+Czech Republic,1736,2020
+Slovakia,1734,2020
+Ireland,1729,2020
+Ecuador,1726,2020
+Norway,1723,2020
+United States,1721,2020
+Australia,1712,2020
+Nigeria,1711,2020
+Romania,1701,2020
+Bosnia and Herzegovina,1683,2020
+Northern Ireland,1678,2020
+Iceland,1672,2020
+Qatar,1669,2020
+Morocco,1661,2020
+Costa Rica,1659,2020
+Finland,1648,2020
+Scotland,1641,2020
+Ghana,1633,2020
+Honduras,1630,2020
+Iraq,1622,2020
+Tunisia,1622,2020
+Hungary,1619,2020
+Ivory Coast,1617,2020
+Greece,1608,2020
+Canada,1604,2020
+Bolivia,1595,2020
+Slovenia,1586,2020
+Egypt,1585,2020
+Jamaica,1582,2020
+Cameroon,1580,2020
+Uzbekistan,1578,2020
+Bulgaria,1575,2020
+Kosovo,1564,2020
+Haiti,1557,2020
+Saudi Arabia,1554,2020
+Georgia,1551,2020
+North Macedonia,1546,2020
+Israel,1538,2020
+Mali,1537,2020
+Bahrain,1534,2020
+South Africa,1533,2020
+Albania,1531,2020
+Burkina Faso,1529,2020
+Montenegro,1523,2020
+Uganda,1521,2020
+Panama,1505,2020
+Dem. Rep. of Congo,1505,2020
+Guatemala,1502,2020
+Oman,1500,2020
+Belarus,1493,2020
+El Salvador,1490,2020
+New Zealand,1486,2020
+Syria,1483,2020
+Jordan,1475,2020
+Libya,1467,2020
+Benin,1464,2020
+China,1460,2020
+Gabon,1460,2020
+Northern Cyprus,1456,2020
+Armenia,1451,2020
+United Arab Emirates,1449,2020
+Martinique,1445,2020
+Estonia,1434,2020
+Guinea,1434,2020
+Madagascar,1432,2020
+Zambia,1429,2020
+Kurdistan,1424,2020
+Kuwait,1416,2020
+Curaçao,1414,2020
+Zimbabwe,1412,2020
+Vietnam,1408,2020
+Cape Verde,1407,2020
+Lebanon,1404,2020
+Cyprus,1399,2020
+Congo,1394,2020
+Mauritania,1384,2020
+Palestine,1381,2020
+Kenya,1380,2020
+Azerbaijan,1376,2020
+North Korea,1375,2020
+Reunion,1370,2020
+Kazakhstan,1361,2020
+Thailand,1357,2020
+Central African Republic,1348,2020
+Trinidad and Tobago,1345,2020
+Mozambique,1343,2020
+Malawi,1343,2020
+Angola,1342,2020
+Luxembourg,1339,2020
+Gambia,1335,2020
+Sierra Leone,1334,2020
+Namibia,1331,2020
+Liberia,1329,2020
+Zanzibar,1328,2020
+Lithuania,1320,2020
+Togo,1316,2020
+Suriname,1314,2020
+Tanzania,1301,2020
+Bermuda,1300,2020
+Equatorial Guinea,1300,2020
+Lesotho,1299,2020
+Botswana,1297,2020
+Guinea-Bissau,1295,2020
+Ethiopia,1285,2020
+Sudan,1271,2020
+Kyrgyzstan,1270,2020
+New Caledonia,1270,2020
+Cuba,1269,2020
+Turkmenistan,1265,2020
+French Guiana,1264,2020
+Rwanda,1257,2020
+Niger,1255,2020
+Latvia,1254,2020
+Moldova,1240,2020
+Tajikistan,1233,2020
+Fiji,1230,2020
+Mayotte,1225,2020
+Faroe Islands,1225,2020
+Guyana,1219,2020
+Grenada,1213,2020
+Chad,1212,2020
+Guadeloupe,1209,2020
+Yemen,1207,2020
+Malaysia,1201,2020
+Saint Kitts and Nevis,1199,2020
+Tahiti,1196,2020
+India,1190,2020
+Nicaragua,1189,2020
+Comoros,1189,2020
+Dominican Republic,1183,2020
+Saint Vincent and the Grenadines,1179,2020
+Vanuatu,1174,2020
+Hong Kong,1170,2020
+Burundi,1168,2020
+Malta,1168,2020
+Solomon Islands,1162,2020
+Singapore,1159,2020
+Antigua and Barbuda,1158,2020
+Eritrea,1153,2020
+Papua New Guinea,1152,2020
+Philippines,1152,2020
+Liechtenstein,1142,2020
+Belize,1139,2020
+Afghanistan,1137,2020
+Eswatini,1123,2020
+Indonesia,1117,2020
+Andorra,1106,2020
+Barbados,1106,2020
+São Tomé e Príncipe,1093,2020
+Gibraltar,1086,2020
+South Sudan,1057,2020
+Myanmar,1047,2020
+Saint Lucia,1036,2020
+Mauritius,1030,2020
+Dominica,1023,2020
+Somaliland,1002,2020
+Western Sahara,996,2020
+Puerto Rico,975,2020
+Greenland,963,2020
+Bonaire,960,2020
+Maldives,947,2020
+Chinese Taipei,940,2020
+Somalia,921,2020
+Nepal,917,2020
+Cayman Islands,915,2020
+Seychelles,914,2020
+Monaco,903,2020
+Bahamas,901,2020
+Djibouti,900,2020
+Aruba,893,2020
+Pakistan,873,2020
+Montserrat,861,2020
+Saint Martin,855,2020
+Cambodia,837,2020
+Bangladesh,831,2020
+San Marino,820,2020
+Turks and Caicos,803,2020
+Chagos Islands,776,2020
+Sint Maarten,768,2020
+Tuvalu,739,2020
+Guam,733,2020
+Mongolia,730,2020
+Saint Barthelemy,715,2020
+US Virgin Islands,707,2020
+Wallis and Futuna,701,2020
+Macau,696,2020
+Vatican,692,2020
+Laos,689,2020
+Cook Islands,687,2020
+Samoa,679,2020
+Saint Pierre and Miquelon,677,2020
+Sri Lanka,669,2020
+Timor-Leste,638,2020
+Tibet,630,2020
+Brunei,619,2020
+British Virgin Islands,612,2020
+Falkland Islands,580,2020
+Micronesia,565,2020
+Bhutan,563,2020
+Anguilla,554,2020
+Kiribati,545,2020
+Tonga,529,2020
+Niue,496,2020
+American Samoa,473,2020
+Northern Mariana Islands,409,2020
+Palau,403,2020
+Brazil,2136,2021
+Belgium,2111,2021
+France,2092,2021
+Spain,2050,2021
+Portugal,2039,2021
+Italy,1998,2021
+Netherlands,1994,2021
+Argentina,1991,2021
+England,1962,2021
+Germany,1956,2021
+Uruguay,1954,2021
+Mexico,1931,2021
+Denmark,1927,2021
+Colombia,1896,2021
+Switzerland,1871,2021
+Croatia,1860,2021
+Ukraine,1833,2021
+Wales,1829,2021
+Ecuador,1826,2021
+Sweden,1821,2021
+Chile,1813,2021
+Poland,1813,2021
+Venezuela,1801,2021
+Peru,1793,2021
+Serbia,1788,2021
+Austria,1786,2021
+South Korea,1772,2021
+Paraguay,1769,2021
+Norway,1763,2021
+Iran,1763,2021
+Czech Republic,1761,2021
+Senegal,1758,2021
+Turkey,1753,2021
+Algeria,1751,2021
+United States,1746,2021
+Hungary,1745,2021
+Japan,1744,2021
+Russia,1743,2021
+Australia,1712,2021
+Finland,1709,2021
+Morocco,1683,2021
+Nigeria,1670,2021
+Romania,1666,2021
+Slovakia,1664,2021
+Scotland,1660,2021
+Ireland,1658,2021
+Qatar,1639,2021
+Bosnia and Herzegovina,1634,2021
+Iceland,1633,2021
+Slovenia,1628,2021
+Greece,1627,2021
+Iraq,1626,2021
+Costa Rica,1623,2021
+Ivory Coast,1619,2021
+Tunisia,1618,2021
+Honduras,1610,2021
+Cameroon,1607,2021
+Ghana,1606,2021
+Egypt,1605,2021
+Canada,1600,2021
+Israel,1592,2021
+Northern Ireland,1586,2021
+Jamaica,1584,2021
+Bolivia,1583,2021
+Mali,1577,2021
+North Macedonia,1569,2021
+Bahrain,1562,2021
+Haiti,1557,2021
+Albania,1556,2021
+Saudi Arabia,1555,2021
+Burkina Faso,1553,2021
+Uzbekistan,1550,2021
+Panama,1535,2021
+Montenegro,1531,2021
+Armenia,1523,2021
+South Africa,1517,2021
+Georgia,1507,2021
+Bulgaria,1505,2021
+Dem. Rep. of Congo,1503,2021
+Oman,1500,2021
+Belarus,1496,2021
+Kosovo,1491,2021
+Jordan,1489,2021
+Guatemala,1487,2021
+New Zealand,1486,2021
+Syria,1485,2021
+Uganda,1485,2021
+Benin,1481,2021
+El Salvador,1480,2021
+China,1460,2021
+Northern Cyprus,1456,2021
+Martinique,1445,2021
+Zambia,1443,2021
+Guinea,1438,2021
+Gabon,1434,2021
+United Arab Emirates,1427,2021
+Madagascar,1425,2021
+Kurdistan,1424,2021
+Zimbabwe,1421,2021
+Kuwait,1416,2021
+Curaçao,1414,2021
+Vietnam,1408,2021
+Libya,1402,2021
+Palestine,1399,2021
+Lebanon,1394,2021
+Cape Verde,1390,2021
+Azerbaijan,1383,2021
+Estonia,1383,2021
+Congo,1380,2021
+North Korea,1375,2021
+Reunion,1370,2021
+Lithuania,1370,2021
+Luxembourg,1363,2021
+Gambia,1358,2021
+Thailand,1357,2021
+Kenya,1353,2021
+Angola,1352,2021
+Sierra Leone,1349,2021
+Equatorial Guinea,1348,2021
+Trinidad and Tobago,1345,2021
+Mauritania,1341,2021
+Malawi,1336,2021
+Kazakhstan,1334,2021
+Central African Republic,1334,2021
+Sudan,1332,2021
+Liberia,1329,2021
+Zanzibar,1328,2021
+Cyprus,1326,2021
+Namibia,1320,2021
+Botswana,1314,2021
+Suriname,1314,2021
+Guinea-Bissau,1299,2021
+Lesotho,1297,2021
+Bermuda,1297,2021
+Togo,1296,2021
+Tanzania,1295,2021
+Mozambique,1292,2021
+Ethiopia,1278,2021
+Rwanda,1270,2021
+New Caledonia,1270,2021
+Kyrgyzstan,1270,2021
+Cuba,1269,2021
+Turkmenistan,1265,2021
+French Guiana,1264,2021
+Faroe Islands,1262,2021
+Latvia,1261,2021
+Niger,1257,2021
+Burundi,1254,2021
+Comoros,1242,2021
+Fiji,1230,2021
+Moldova,1227,2021
+Mayotte,1225,2021
+Tajikistan,1225,2021
+Guyana,1219,2021
+Malta,1214,2021
+Grenada,1213,2021
+Guadeloupe,1209,2021
+Nicaragua,1209,2021
+Yemen,1207,2021
+Malaysia,1201,2021
+Saint Kitts and Nevis,1199,2021
+Tahiti,1196,2021
+India,1190,2021
+Chad,1183,2021
+Dominican Republic,1183,2021
+Saint Vincent and the Grenadines,1179,2021
+Vanuatu,1174,2021
+Hong Kong,1170,2021
+Solomon Islands,1162,2021
+Singapore,1159,2021
+Antigua and Barbuda,1158,2021
+Papua New Guinea,1152,2021
+Philippines,1152,2021
+Eritrea,1144,2021
+Belize,1139,2021
+Afghanistan,1137,2021
+Eswatini,1125,2021
+Indonesia,1117,2021
+Liechtenstein,1116,2021
+Barbados,1102,2021
+Gibraltar,1095,2021
+South Sudan,1093,2021
+São Tomé e Príncipe,1087,2021
+Myanmar,1047,2021
+Saint Lucia,1036,2021
+Andorra,1035,2021
+Dominica,1023,2021
+Mauritius,1009,2021
+Somaliland,1002,2021
+Western Sahara,996,2021
+Puerto Rico,975,2021
+Greenland,963,2021
+Bonaire,960,2021
+Maldives,947,2021
+Chinese Taipei,940,2021
+Somalia,921,2021
+Cayman Islands,915,2021
+Seychelles,909,2021
+Nepal,903,2021
+Monaco,903,2021
+Bahamas,901,2021
+Djibouti,900,2021
+Aruba,893,2021
+Pakistan,873,2021
+Montserrat,861,2021
+Saint Martin,855,2021
+Bangladesh,842,2021
+Cambodia,837,2021
+San Marino,830,2021
+Turks and Caicos,803,2021
+Chagos Islands,776,2021
+Sint Maarten,768,2021
+Tuvalu,739,2021
+Guam,733,2021
+Mongolia,730,2021
+Saint Barthelemy,715,2021
+US Virgin Islands,707,2021
+Wallis and Futuna,701,2021
+Macau,696,2021
+Vatican,692,2021
+Laos,689,2021
+Cook Islands,687,2021
+Samoa,679,2021
+Saint Pierre and Miquelon,677,2021
+Sri Lanka,658,2021
+Timor-Leste,638,2021
+Tibet,630,2021
+Brunei,619,2021
+British Virgin Islands,612,2021
+Falkland Islands,580,2021
+Micronesia,565,2021
+Bhutan,563,2021
+Anguilla,554,2021
+Kiribati,545,2021
+Tonga,529,2021
+Niue,496,2021
+American Samoa,473,2021
+Northern Mariana Islands,409,2021
+Palau,403,2021
+Brazil,2149,2022
+France,2114,2022
+Argentina,2101,2022
+Belgium,2075,2022
+Spain,2037,2022
+England,2032,2022
+Italy,2030,2022
+Portugal,1972,2022
+Germany,1963,2022
+Denmark,1937,2022
+Switzerland,1934,2022
+Netherlands,1929,2022
+Colombia,1904,2022
+United States,1860,2022
+Croatia,1858,2022
+Ecuador,1849,2022
+Uruguay,1848,2022
+Serbia,1846,2022
+Mexico,1840,2022
+Wales,1836,2022
+Iran,1836,2022
+Peru,1835,2022
+Czech Republic,1833,2022
+Sweden,1821,2022
+Ukraine,1817,2022
+Algeria,1802,2022
+Chile,1794,2022
+South Korea,1787,2022
+Canada,1785,2022
+Poland,1770,2022
+Morocco,1766,2022
+Russia,1761,2022
+Japan,1760,2022
+Norway,1733,2022
+Australia,1733,2022
+Austria,1731,2022
+Scotland,1729,2022
+Paraguay,1728,2022
+Turkey,1727,2022
+Hungary,1726,2022
+Finland,1722,2022
+Senegal,1705,2022
+Bolivia,1693,2022
+Ireland,1682,2022
+Venezuela,1677,2022
+Greece,1671,2022
+Slovakia,1667,2022
+Romania,1666,2022
+Qatar,1662,2022
+Egypt,1661,2022
+Ivory Coast,1648,2022
+Nigeria,1646,2022
+Tunisia,1640,2022
+North Macedonia,1630,2022
+Israel,1630,2022
+Panama,1628,2022
+Saudi Arabia,1628,2022
+Costa Rica,1618,2022
+Mali,1618,2022
+Slovenia,1616,2022
+Cameroon,1610,2022
+Ghana,1603,2022
+Northern Ireland,1602,2022
+Bosnia and Herzegovina,1600,2022
+Jamaica,1588,2022
+Albania,1586,2022
+Burkina Faso,1563,2022
+South Africa,1550,2022
+Georgia,1549,2022
+Iraq,1549,2022
+Iceland,1546,2022
+New Zealand,1528,2022
+Jordan,1528,2022
+Haiti,1527,2022
+Oman,1523,2022
+Uzbekistan,1521,2022
+Bulgaria,1518,2022
+Montenegro,1514,2022
+Dem. Rep. of Congo,1514,2022
+China,1504,2022
+Bahrain,1504,2022
+El Salvador,1500,2022
+Armenia,1499,2022
+Honduras,1495,2022
+United Arab Emirates,1486,2022
+Cape Verde,1471,2022
+Kosovo,1471,2022
+Uganda,1462,2022
+Guatemala,1460,2022
+Northern Cyprus,1456,2022
+Belarus,1453,2022
+Benin,1445,2022
+Equatorial Guinea,1429,2022
+Estonia,1429,2022
+Syria,1427,2022
+Zambia,1425,2022
+Kurdistan,1424,2022
+Gabon,1416,2022
+Guinea,1408,2022
+Luxembourg,1407,2022
+Curaçao,1406,2022
+Palestine,1401,2022
+Guinea-Bissau,1392,2022
+Martinique,1387,2022
+Lebanon,1384,2022
+Thailand,1380,2022
+North Korea,1375,2022
+Kenya,1375,2022
+Kuwait,1371,2022
+Reunion,1370,2022
+Trinidad and Tobago,1369,2022
+Angola,1363,2022
+Namibia,1359,2022
+Liberia,1357,2022
+Gambia,1354,2022
+Mauritania,1353,2022
+Ethiopia,1349,2022
+Kazakhstan,1349,2022
+Sierra Leone,1338,2022
+Vietnam,1338,2022
+Suriname,1335,2022
+Libya,1333,2022
+Zanzibar,1328,2022
+Latvia,1327,2022
+Madagascar,1327,2022
+Togo,1325,2022
+Lithuania,1323,2022
+Azerbaijan,1321,2022
+Congo,1318,2022
+Zimbabwe,1316,2022
+Tanzania,1312,2022
+Sudan,1311,2022
+Mozambique,1308,2022
+Botswana,1300,2022
+Cyprus,1292,2022
+Turkmenistan,1289,2022
+Malawi,1284,2022
+Kyrgyzstan,1278,2022
+Cuba,1277,2022
+Central African Republic,1272,2022
+New Caledonia,1270,2022
+French Guiana,1270,2022
+Rwanda,1264,2022
+Tajikistan,1260,2022
+Niger,1249,2022
+Bermuda,1248,2022
+Burundi,1248,2022
+Eswatini,1245,2022
+Faroe Islands,1245,2022
+Comoros,1244,2022
+Malta,1232,2022
+Nicaragua,1231,2022
+Fiji,1230,2022
+Mayotte,1225,2022
+Indonesia,1215,2022
+Guadeloupe,1214,2022
+India,1206,2022
+Lesotho,1203,2022
+Saint Kitts and Nevis,1198,2022
+Tahiti,1196,2022
+Moldova,1190,2022
+Chad,1183,2022
+Vanuatu,1174,2022
+Dominican Republic,1172,2022
+Yemen,1169,2022
+Antigua and Barbuda,1165,2022
+Solomon Islands,1162,2022
+Hong Kong,1160,2022
+Papua New Guinea,1152,2022
+Guyana,1144,2022
+Eritrea,1144,2022
+Malaysia,1143,2022
+Afghanistan,1142,2022
+Saint Vincent and the Grenadines,1140,2022
+Grenada,1136,2022
+Philippines,1130,2022
+Belize,1127,2022
+Singapore,1098,2022
+Liechtenstein,1094,2022
+South Sudan,1087,2022
+Barbados,1080,2022
+São Tomé e Príncipe,1068,2022
+Puerto Rico,1059,2022
+Andorra,1055,2022
+Gibraltar,1048,2022
+Saint Lucia,1036,2022
+Dominica,1023,2022
+Mauritius,1009,2022
+Somaliland,1002,2022
+Western Sahara,996,2022
+Greenland,963,2022
+Myanmar,961,2022
+Bonaire,959,2022
+Montserrat,940,2022
+Nepal,935,2022
+Somalia,912,2022
+Aruba,910,2022
+Monaco,903,2022
+Maldives,901,2022
+Seychelles,898,2022
+Cayman Islands,893,2022
+Djibouti,888,2022
+Chinese Taipei,879,2022
+Pakistan,873,2022
+Bahamas,866,2022
+Cambodia,859,2022
+Saint Martin,855,2022
+Bangladesh,853,2022
+San Marino,793,2022
+Turks and Caicos,778,2022
+Chagos Islands,776,2022
+Sint Maarten,768,2022
+Mongolia,766,2022
+Tuvalu,739,2022
+Saint Barthelemy,715,2022
+Wallis and Futuna,701,2022
+Guam,699,2022
+Macau,696,2022
+Vatican,692,2022
+Cook Islands,687,2022
+Samoa,679,2022
+Saint Pierre and Miquelon,677,2022
+Sri Lanka,677,2022
+US Virgin Islands,660,2022
+Laos,659,2022
+Tibet,630,2022
+Timor-Leste,623,2022
+Brunei,619,2022
+British Virgin Islands,605,2022
+Falkland Islands,580,2022
+Micronesia,565,2022
+Bhutan,563,2022
+Anguilla,563,2022
+Kiribati,545,2022
+Tonga,529,2022
+Niue,496,2022
+American Samoa,473,2022
+Northern Mariana Islands,409,2022
+Palau,403,2022
